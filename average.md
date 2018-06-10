@@ -37,18 +37,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#Δημοκρατικός-Συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0.0% | 40.0% | 38.1–42.0% |37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
-| <a href="#Ανορθωτικό-Κόμμα-Εργαζόμενου-Λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0.0% | 25.0% | 23.3–26.8% |22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
-| <a href="#Δημοκρατικό-Κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0.0% | 16.0% | 14.6–17.6% |14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
-| <a href="#Εθνικό-Λαϊκό-Μέτωπο-(*)">Εθνικό Λαϊκό Μέτωπο (*)</a> | 0.0% | 7.1% | 6.1–8.1% |5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
-| <a href="#Κίνημα-Σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0.0% | 5.1% | 4.2–6.0% |4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
-| <a href="#Συμμαχία-Πολιτών-(alde)">Συμμαχία Πολιτών (ALDE)</a> | 0.0% | 3.1% | 2.4–3.8% |2.2–4.0% | 2.1–4.2% | 1.9–4.7% |
-| <a href="#Κίνημα-Οικολόγων—Συνεργασία-Πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0.0% | 2.1% | 1.5–2.7% |1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| <a href="#Κίνημα-Αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0.0% | 2.1% | 1.5–2.7% |1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0.0% | 40.0% | 38.1–42.0% |37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
+| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0.0% | 25.0% | 23.3–26.8% |22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
+| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0.0% | 16.0% | 14.6–17.6% |14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
+| <a href="#εθνικό-λαϊκό-μέτωπο-(*)">Εθνικό Λαϊκό Μέτωπο (*)</a> | 0.0% | 7.1% | 6.1–8.1% |5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0.0% | 5.1% | 4.2–6.0% |4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
+| <a href="#συμμαχία-πολιτών-(alde)">Συμμαχία Πολιτών (ALDE)</a> | 0.0% | 3.1% | 2.4–3.8% |2.2–4.0% | 2.1–4.2% | 1.9–4.7% |
+| <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0.0% | 2.1% | 1.5–2.7% |1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| <a href="#κίνημα-αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0.0% | 2.1% | 1.5–2.7% |1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 
 ### Δημοκρατικός Συναγερμός (EPP)
 
-*For a full overview of the results for this party, see the [Δημοκρατικός Συναγερμός (EPP)](party-ΔημοκρατικόςΣυναγερμόςepp.html) page.*
+*For a full overview of the results for this party, see the [Δημοκρατικός Συναγερμός (EPP)](party-δημοκρατικόςσυναγερμόςepp.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -102,7 +102,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)](party-ΑνορθωτικόΚόμμαΕργαζόμενουΛαούguengl.html) page.*
+*For a full overview of the results for this party, see the [Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)](party-ανορθωτικόκόμμαεργαζόμενουλαούguengl.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -141,7 +141,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Δημοκρατικό Κόμμα (S&D)
 
-*For a full overview of the results for this party, see the [Δημοκρατικό Κόμμα (S&D)](party-ΔημοκρατικόΚόμμαsd.html) page.*
+*For a full overview of the results for this party, see the [Δημοκρατικό Κόμμα (S&D)](party-δημοκρατικόκόμμαsd.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -170,7 +170,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Εθνικό Λαϊκό Μέτωπο (*)
 
-*For a full overview of the results for this party, see the [Εθνικό Λαϊκό Μέτωπο (*)](party-ΕθνικόΛαϊκόΜέτωπο.html) page.*
+*For a full overview of the results for this party, see the [Εθνικό Λαϊκό Μέτωπο (*)](party-εθνικόλαϊκόμέτωπο.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -189,7 +189,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Κίνημα Σοσιαλδημοκρατών (S&D)
 
-*For a full overview of the results for this party, see the [Κίνημα Σοσιαλδημοκρατών (S&D)](party-ΚίνημαΣοσιαλδημοκρατώνsd.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Σοσιαλδημοκρατών (S&D)](party-κίνημασοσιαλδημοκρατώνsd.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -206,7 +206,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Συμμαχία Πολιτών (ALDE)
 
-*For a full overview of the results for this party, see the [Συμμαχία Πολιτών (ALDE)](party-ΣυμμαχίαΠολιτώνalde.html) page.*
+*For a full overview of the results for this party, see the [Συμμαχία Πολιτών (ALDE)](party-συμμαχίαπολιτώνalde.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -220,7 +220,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)](party-ΚίνημαΟικολόγων—ΣυνεργασίαΠολιτώνgreensefa.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)](party-κίνημαοικολόγων—συνεργασίαπολιτώνgreensefa.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -233,7 +233,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Κίνημα Αλληλεγγύη (ECR)
 
-*For a full overview of the results for this party, see the [Κίνημα Αλληλεγγύη (ECR)](party-ΚίνημαΑλληλεγγύηecr.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Αλληλεγγύη (ECR)](party-κίνημααλληλεγγύηecr.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -253,20 +253,20 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#Δημοκρατικός-Συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
-| <a href="#Ανορθωτικό-Κόμμα-Εργαζόμενου-Λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#Δημοκρατικό-Κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0 | 1 | 1 |1 | 1 | 1 |
-| <a href="#Εθνικό-Λαϊκό-Μέτωπο-(*)">Εθνικό Λαϊκό Μέτωπο (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#Κίνημα-Σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
-| <a href="#Συμμαχία-Πολιτών-(alde)">Συμμαχία Πολιτών (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#Κίνημα-Οικολόγων—Συνεργασία-Πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#Κίνημα-Αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
+| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0 | 1 | 1 |1 | 1 | 1 |
+| <a href="#εθνικό-λαϊκό-μέτωπο-(*)">Εθνικό Λαϊκό Μέτωπο (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#συμμαχία-πολιτών-(alde)">Συμμαχία Πολιτών (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#κίνημα-αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Δημοκρατικός Συναγερμός (EPP)
 
-*For a full overview of the results for this party, see the [Δημοκρατικός Συναγερμός (EPP)](party-ΔημοκρατικόςΣυναγερμόςepp.html) page.*
+*For a full overview of the results for this party, see the [Δημοκρατικός Συναγερμός (EPP)](party-δημοκρατικόςσυναγερμόςepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ΔημοκρατικόςΣυναγερμόςepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-δημοκρατικόςσυναγερμόςepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -278,9 +278,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)](party-ΑνορθωτικόΚόμμαΕργαζόμενουΛαούguengl.html) page.*
+*For a full overview of the results for this party, see the [Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)](party-ανορθωτικόκόμμαεργαζόμενουλαούguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ΑνορθωτικόΚόμμαΕργαζόμενουΛαούguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-ανορθωτικόκόμμαεργαζόμενουλαούguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -291,9 +291,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Δημοκρατικό Κόμμα (S&D)
 
-*For a full overview of the results for this party, see the [Δημοκρατικό Κόμμα (S&D)](party-ΔημοκρατικόΚόμμαsd.html) page.*
+*For a full overview of the results for this party, see the [Δημοκρατικό Κόμμα (S&D)](party-δημοκρατικόκόμμαsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ΔημοκρατικόΚόμμαsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-δημοκρατικόκόμμαsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -302,9 +302,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Εθνικό Λαϊκό Μέτωπο (*)
 
-*For a full overview of the results for this party, see the [Εθνικό Λαϊκό Μέτωπο (*)](party-ΕθνικόΛαϊκόΜέτωπο.html) page.*
+*For a full overview of the results for this party, see the [Εθνικό Λαϊκό Μέτωπο (*)](party-εθνικόλαϊκόμέτωπο.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ΕθνικόΛαϊκόΜέτωπο.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-εθνικόλαϊκόμέτωπο.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -314,9 +314,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Κίνημα Σοσιαλδημοκρατών (S&D)
 
-*For a full overview of the results for this party, see the [Κίνημα Σοσιαλδημοκρατών (S&D)](party-ΚίνημαΣοσιαλδημοκρατώνsd.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Σοσιαλδημοκρατών (S&D)](party-κίνημασοσιαλδημοκρατώνsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ΚίνημαΣοσιαλδημοκρατώνsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-κίνημασοσιαλδημοκρατώνsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -326,9 +326,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Συμμαχία Πολιτών (ALDE)
 
-*For a full overview of the results for this party, see the [Συμμαχία Πολιτών (ALDE)](party-ΣυμμαχίαΠολιτώνalde.html) page.*
+*For a full overview of the results for this party, see the [Συμμαχία Πολιτών (ALDE)](party-συμμαχίαπολιτώνalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ΣυμμαχίαΠολιτώνalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-συμμαχίαπολιτώνalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -336,9 +336,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)](party-ΚίνημαΟικολόγων—ΣυνεργασίαΠολιτώνgreensefa.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)](party-κίνημαοικολόγων—συνεργασίαπολιτώνgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ΚίνημαΟικολόγων—ΣυνεργασίαΠολιτώνgreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-κίνημαοικολόγων—συνεργασίαπολιτώνgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -346,9 +346,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Κίνημα Αλληλεγγύη (ECR)
 
-*For a full overview of the results for this party, see the [Κίνημα Αλληλεγγύη (ECR)](party-ΚίνημαΑλληλεγγύηecr.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Αλληλεγγύη (ECR)](party-κίνημααλληλεγγύηecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ΚίνημαΑλληλεγγύηecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-κίνημααλληλεγγύηecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
