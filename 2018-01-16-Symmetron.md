@@ -29,20 +29,20 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#Δημοκρατικός-Συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#Ανορθωτικό-Κόμμα-Εργαζόμενου-Λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#Δημοκρατικό-Κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#Εθνικό-Λαϊκό-Μέτωπο-(*)">Εθνικό Λαϊκό Μέτωπο (*)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#Κίνημα-Σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0 | 0 | 0 |0 |0 |0–1 |
-| <a href="#Συμμαχία-Πολιτών-(alde)">Συμμαχία Πολιτών (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#Κίνημα-Οικολόγων—Συνεργασία-Πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#Κίνημα-Αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0 | 1 | 1 |1 |1 |1 |
+| <a href="#εθνικό-λαϊκό-μέτωπο-(*)">Εθνικό Λαϊκό Μέτωπο (*)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#συμμαχία-πολιτών-(alde)">Συμμαχία Πολιτών (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#κίνημα-αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Δημοκρατικός Συναγερμός (EPP)
 
-*For a full overview of the results for this party, see the [Δημοκρατικός Συναγερμός (EPP)](party-ΔημοκρατικόςΣυναγερμόςepp.html) page.*
+*For a full overview of the results for this party, see the [Δημοκρατικός Συναγερμός (EPP)](party-δημοκρατικόςσυναγερμόςepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ΔημοκρατικόςΣυναγερμόςepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-δημοκρατικόςσυναγερμόςepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -54,9 +54,9 @@
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)](party-ΑνορθωτικόΚόμμαΕργαζόμενουΛαούguengl.html) page.*
+*For a full overview of the results for this party, see the [Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)](party-ανορθωτικόκόμμαεργαζόμενουλαούguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ΑνορθωτικόΚόμμαΕργαζόμενουΛαούguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ανορθωτικόκόμμαεργαζόμενουλαούguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -67,9 +67,9 @@
 
 ### Δημοκρατικό Κόμμα (S&D)
 
-*For a full overview of the results for this party, see the [Δημοκρατικό Κόμμα (S&D)](party-ΔημοκρατικόΚόμμαsd.html) page.*
+*For a full overview of the results for this party, see the [Δημοκρατικό Κόμμα (S&D)](party-δημοκρατικόκόμμαsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ΔημοκρατικόΚόμμαsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-δημοκρατικόκόμμαsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -78,9 +78,9 @@
 
 ### Εθνικό Λαϊκό Μέτωπο (*)
 
-*For a full overview of the results for this party, see the [Εθνικό Λαϊκό Μέτωπο (*)](party-ΕθνικόΛαϊκόΜέτωπο.html) page.*
+*For a full overview of the results for this party, see the [Εθνικό Λαϊκό Μέτωπο (*)](party-εθνικόλαϊκόμέτωπο.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ΕθνικόΛαϊκόΜέτωπο.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-εθνικόλαϊκόμέτωπο.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -90,9 +90,9 @@
 
 ### Κίνημα Σοσιαλδημοκρατών (S&D)
 
-*For a full overview of the results for this party, see the [Κίνημα Σοσιαλδημοκρατών (S&D)](party-ΚίνημαΣοσιαλδημοκρατώνsd.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Σοσιαλδημοκρατών (S&D)](party-κίνημασοσιαλδημοκρατώνsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ΚίνημαΣοσιαλδημοκρατώνsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-κίνημασοσιαλδημοκρατώνsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -102,9 +102,9 @@
 
 ### Συμμαχία Πολιτών (ALDE)
 
-*For a full overview of the results for this party, see the [Συμμαχία Πολιτών (ALDE)](party-ΣυμμαχίαΠολιτώνalde.html) page.*
+*For a full overview of the results for this party, see the [Συμμαχία Πολιτών (ALDE)](party-συμμαχίαπολιτώνalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ΣυμμαχίαΠολιτώνalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-συμμαχίαπολιτώνalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -112,9 +112,9 @@
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)](party-ΚίνημαΟικολόγων—ΣυνεργασίαΠολιτώνgreensefa.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)](party-κίνημαοικολόγων—συνεργασίαπολιτώνgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ΚίνημαΟικολόγων—ΣυνεργασίαΠολιτώνgreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-κίνημαοικολόγων—συνεργασίαπολιτώνgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -122,9 +122,9 @@
 
 ### Κίνημα Αλληλεγγύη (ECR)
 
-*For a full overview of the results for this party, see the [Κίνημα Αλληλεγγύη (ECR)](party-ΚίνημαΑλληλεγγύηecr.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Αλληλεγγύη (ECR)](party-κίνημααλληλεγγύηecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-ΚίνημαΑλληλεγγύηecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-seats-pmf-κίνημααλληλεγγύηecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
