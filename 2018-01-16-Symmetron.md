@@ -149,6 +149,8 @@
 
 ### Δημοκρατικός Συναγερμός (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-coalitions-seats-pmf-δησυ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -159,6 +161,8 @@
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-coalitions-seats-pmf-ακελ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -167,6 +171,8 @@
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-coalitions-seats-pmf-δηκο–εδεκ.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -177,6 +183,8 @@
 
 ### Εθνικό Λαϊκό Μέτωπο (*)
 
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-coalitions-seats-pmf-ελαμ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 41% | 100% | Last Result |
@@ -185,17 +193,23 @@
 
 ### Κίνημα Αλληλεγγύη (ECR)
 
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-coalitions-seats-pmf-κα.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-coalitions-seats-pmf-κο–σπ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Συμμαχία Πολιτών (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-01-16-Symmetron-coalitions-seats-pmf-σπ.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
