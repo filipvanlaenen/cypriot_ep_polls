@@ -373,6 +373,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Δημοκρατικός Συναγερμός (EPP)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-δησυ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -383,6 +385,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ακελ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -391,6 +395,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-δηκο–εδεκ.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -401,6 +407,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Εθνικό Λαϊκό Μέτωπο (*)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ελαμ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 41% | 100% | Last Result |
@@ -409,17 +417,23 @@ Only polls for which at least the sample size has been published are included in
 
 ### Κίνημα Αλληλεγγύη (ECR)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-κα.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-κο–σπ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Συμμαχία Πολιτών (ALDE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-σπ.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -428,3 +442,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
++ **Number of polls included in this average:** 1
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 1.48%
