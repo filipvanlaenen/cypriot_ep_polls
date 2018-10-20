@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 09 May 2018 07:01:26 +0200</pubDate>
+    <pubDate>Sat, 20 Oct 2018 18:03:22 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Symmetron, 24 September–3 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2018-10-03-Symmetron.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 29.8–36.3%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 20.2–26.0%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 12.7–17.6%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (*): 4.6–7.9%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 3.7–6.7%&lt;/li&gt;&lt;li&gt;Συμμαχία Πολιτών (ALDE): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 4.6–7.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλληλεγγύη (ECR): 2.0–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2018-10-03-Symmetron.png"
+        length="254601"
+        type="image/png"/>
+      <pubDate>Sat, 20 Oct 2018 18:03:22 +0200</pubDate>
+      <dc:date>2018-10-20T18:03:22.472912+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Symmetron, 11–16 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2018-01-16-Symmetron.html#seats</link>
@@ -39,6 +49,6 @@
       <pubDate>Wed, 09 May 2018 07:01:26 +0200</pubDate>
       <dc:date>2018-05-09T07:01:26.20344+02:00</dc:date>
     </item>
-    <dc:date>2018-05-09T07:01:26.20344+02:00</dc:date>
+    <dc:date>2018-10-20T18:03:22.472912+02:00</dc:date>
   </channel>
 </rss>
