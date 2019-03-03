@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.9–37.4% |
+| N/A | [Poll Average](average.html) | 37.1% | 34.9–39.3% | 34.3–39.9% | 33.8–40.4% | 32.8–41.5% |
+| [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 37.1% | 34.9–39.3% | 34.3–39.9% | 33.8–40.4% | 32.8–41.5% |
 | [24 September–3 October 2018](2018-10-03-Symmetron.html) | Symmetron | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.9–37.4% |
 | [11–16 January 2018](2018-01-16-Symmetron.html) | Symmetron | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
 
@@ -48,19 +49,23 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.2% | 100% |  |
-| 28.5–29.5% | 1.4% | 99.7% |  |
-| 29.5–30.5% | 5% | 98% |  |
-| 30.5–31.5% | 12% | 94% |  |
-| 31.5–32.5% | 20% | 82% |  |
-| 32.5–33.5% | 23% | 61% | Median |
-| 33.5–34.5% | 20% | 38% |  |
-| 34.5–35.5% | 11% | 18% |  |
-| 35.5–36.5% | 5% | 7% |  |
-| 36.5–37.5% | 1.5% | 2% |  |
-| 37.5–38.5% | 0.3% | 0.4% |  |
-| 38.5–39.5% | 0.1% | 0.1% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0.3% | 100% |  |
+| 32.5–33.5% | 1.4% | 99.7% |  |
+| 33.5–34.5% | 5% | 98% |  |
+| 34.5–35.5% | 12% | 93% |  |
+| 35.5–36.5% | 20% | 82% |  |
+| 36.5–37.5% | 23% | 62% | Median |
+| 37.5–38.5% | 19% | 39% |  |
+| 38.5–39.5% | 12% | 19% |  |
+| 39.5–40.5% | 5% | 7% |  |
+| 40.5–41.5% | 2% | 2% |  |
+| 41.5–42.5% | 0.4% | 0.5% |  |
+| 42.5–43.5% | 0.1% | 0.1% |  |
+| 43.5–44.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,7 +76,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
+| [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 2 | 2 | 2 | 2 | 2–3 |
 | [24 September–3 October 2018](2018-10-03-Symmetron.html) | Symmetron | 2 | 2 | 2 | 2 | 2 |
 | [11–16 January 2018](2018-01-16-Symmetron.html) | Symmetron | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 
@@ -85,6 +91,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 100% | 100% | Median |
+| 2 | 98% | 100% | Median |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% | Majority |
 
 
