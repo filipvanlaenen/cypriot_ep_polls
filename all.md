@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΠ | ΚΟ–ΣΠ | ΚΑ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 34–40% <br> 2 | 23–29% <br> 1–2 | 11–16% <br> 1 | 9–13% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
 | [24 September–3 October 2018](2018-10-03-Symmetron.html) | Symmetron | 30–36% <br> 2 | 20–26% <br> 1–2 | 13–18% <br> 1 | 5–8% <br> 0–1 | 4–7% <br> 0–1 | 1–3% <br> 0 | 5–8% <br> 0–1 | 2–4% <br> 0 |
 | [11–16 January 2018](2018-01-16-Symmetron.html) | Symmetron | 37–43% <br> 2–3 | 22–28% <br> 1–2 | 14–18% <br> 1 | 6–9% <br> 0–1 | 4–7% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
