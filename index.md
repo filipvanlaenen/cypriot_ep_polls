@@ -6,6 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 34–40% <br> 2 | 23–29% <br> 1–2 | 11–16% <br> 1 | 9–13% <br> 1 | 4–8% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
+| [8–15 March 2019](2019-03-15-PrimeConsulting.html) | Prime Consulting | 30–36% <br> 2 | 23–29% <br> 1–2 | 13–17% <br> 1 | 6–10% <br> 0–1 | 6–10% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A |
 | [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 34–40% <br> 2 | 23–29% <br> 1–2 | 11–16% <br> 1 | 9–13% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
