@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37.1% | 34.9–39.3% | 34.3–39.9% | 33.8–40.4% | 32.8–41.5% |
+| [8–15 March 2019](2019-03-15-PrimeConsulting.html) | Prime Consulting | 33.0% | 31.0–35.1% | 30.5–35.6% | 30.0–36.1% | 29.1–37.1% |
 | [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 37.1% | 34.9–39.3% | 34.3–39.9% | 33.8–40.4% | 32.8–41.5% |
 | [24 September–3 October 2018](2018-10-03-Symmetron.html) | Symmetron | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.9–37.4% |
 | [11–16 January 2018](2018-01-16-Symmetron.html) | Symmetron | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
+| [8–15 March 2019](2019-03-15-PrimeConsulting.html) | Prime Consulting | 2 | 2 | 2 | 2 | 2 |
 | [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 2 | 2 | 2 | 2 | 2–3 |
 | [24 September–3 October 2018](2018-10-03-Symmetron.html) | Symmetron | 2 | 2 | 2 | 2 | 2 |
 | [11–16 January 2018](2018-01-16-Symmetron.html) | Symmetron | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
