@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 10 Mar 2019 18:24:00 +0100</pubDate>
+    <pubDate>Thu, 28 Mar 2019 18:54:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Prime Consulting, 8–15 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-03-15-PrimeConsulting.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 30.0–36.1%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 23.2–29.0%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 12.8–17.5%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (*): 6.4–10.0%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 6.4–10.0%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 2.9–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-03-15-PrimeConsulting.png"
+        length="215622"
+        type="image/png"/>
+      <pubDate>Thu, 28 Mar 2019 18:54:40 +0100</pubDate>
+      <dc:date>2019-03-28T18:54:40.277998+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse Market Research, 16–29 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-01-29-PulseMarketResearch.html#seats</link>
@@ -99,6 +109,6 @@
       <pubDate>Wed, 09 May 2018 07:01:26 +0200</pubDate>
       <dc:date>2018-05-09T07:01:26.20344+02:00</dc:date>
     </item>
-    <dc:date>2019-03-10T18:24:00.901576+01:00</dc:date>
+    <dc:date>2019-03-28T18:54:40.277998+01:00</dc:date>
   </channel>
 </rss>
