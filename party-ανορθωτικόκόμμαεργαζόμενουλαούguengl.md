@@ -65,8 +65,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [8–15 March 2019](2019-03-15-PrimeConsulting.html) | Prime Consulting | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–15 March 2019](2019-03-15-PrimeConsulting.html) | Prime Consulting | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [24 September–3 October 2018](2018-10-03-Symmetron.html) | Symmetron | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–16 January 2018](2018-01-16-Symmetron.html) | Symmetron | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -80,8 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 95% | 95% | Median |
+| 1 | 11% | 100% |  |
+| 2 | 89% | 89% | Median |
 | 3 | 0% | 0% |  |
 
 
