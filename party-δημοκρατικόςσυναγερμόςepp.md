@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.0% | 31.7–38.5% | 31.0–39.3% | 30.5–39.9% | 29.5–41.1% |
+| N/A | [Poll Average](average.html) | 35.3% | 32.9–38.5% | 32.4–39.3% | 32.0–39.9% | 31.1–41.1% |
+| [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 30.0% | 28.2–31.9% | 27.7–32.5% | 27.3–33.0% | 26.4–33.9% |
+| [4–14 April 2019](2019-04-14-Cypronetwork.html) | Cypronetwork | 34.0% | 32.4–35.7% | 32.0–36.1% | 31.6–36.5% | 30.8–37.3% |
+| [5–12 April 2019](2019-04-12-Symmetron.html) | Symmetron | 33.0% | N/A | N/A | N/A | N/A |
+| [5–12 April 2019](2019-04-12-PrimeConsulting.html) | Prime Consulting | 32.1% | N/A | N/A | N/A | N/A |
+| [18 March–4 April 2019](2019-04-04-IMR.html) | IMR <br> University of Nicosia | 36.0% | N/A | N/A | N/A | N/A |
 | [8–15 March 2019](2019-03-15-PrimeConsulting.html) | Prime Consulting | 33.0% | 31.0–35.1% | 30.5–35.6% | 30.0–36.1% | 29.1–37.1% |
 | [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 37.1% | 34.9–39.3% | 34.3–39.9% | 33.8–40.4% | 32.8–41.5% |
 | [24 September–3 October 2018](2018-10-03-Symmetron.html) | Symmetron | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.9–37.4% |
@@ -50,16 +55,16 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.1% | 100% |  |
-| 28.5–29.5% | 0.5% | 99.9% |  |
-| 29.5–30.5% | 2% | 99.4% |  |
-| 30.5–31.5% | 6% | 97% |  |
-| 31.5–32.5% | 11% | 91% |  |
-| 32.5–33.5% | 13% | 81% |  |
-| 33.5–34.5% | 13% | 68% |  |
-| 34.5–35.5% | 11% | 55% | Median |
-| 35.5–36.5% | 12% | 44% |  |
-| 36.5–37.5% | 12% | 32% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 1.0% | 99.9% |  |
+| 31.5–32.5% | 5% | 98.8% |  |
+| 32.5–33.5% | 12% | 94% |  |
+| 33.5–34.5% | 18% | 82% |  |
+| 34.5–35.5% | 17% | 64% | Median |
+| 35.5–36.5% | 14% | 47% |  |
+| 36.5–37.5% | 13% | 32% |  |
 | 37.5–38.5% | 10% | 20% |  |
 | 38.5–39.5% | 6% | 10% |  |
 | 39.5–40.5% | 3% | 4% |  |
@@ -77,6 +82,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
+| [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 2 | 2 | 2 | 2 | 2 |
+| [4–14 April 2019](2019-04-14-Cypronetwork.html) | Cypronetwork | 2 | 2 | 2 | 2 | 2 |
+| [5–12 April 2019](2019-04-12-Symmetron.html) | Symmetron |  |  |  |  |  |
+| [5–12 April 2019](2019-04-12-PrimeConsulting.html) | Prime Consulting |  |  |  |  |  |
+| [18 March–4 April 2019](2019-04-04-IMR.html) | IMR <br> University of Nicosia |  |  |  |  |  |
 | [8–15 March 2019](2019-03-15-PrimeConsulting.html) | Prime Consulting | 2 | 2 | 2 | 2 | 2 |
 | [16–29 January 2019](2019-01-29-PulseMarketResearch.html) | Pulse Market Research | 2 | 2 | 2 | 2 | 2–3 |
 | [24 September–3 October 2018](2018-10-03-Symmetron.html) | Symmetron | 2 | 2 | 2 | 2 | 2 |
