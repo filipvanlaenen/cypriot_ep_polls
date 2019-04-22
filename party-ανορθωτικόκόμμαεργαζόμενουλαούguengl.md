@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
-| [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 2 | 2 | 2 | 1–2 | 1–2 |
+| [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–14 April 2019](2019-04-14-Cypronetwork.html) | Cypronetwork | 2 | 2 | 2 | 2 | 2 |
 | [5–12 April 2019](2019-04-12-Symmetron.html) | Symmetron |  |  |  |  |  |
 | [5–12 April 2019](2019-04-12-PrimeConsulting.html) | Prime Consulting |  |  |  |  |  |
