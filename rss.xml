@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 22 Apr 2019 13:21:39 +0200</pubDate>
+    <pubDate>Thu, 02 May 2019 12:29:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Cymar, 9–17 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-17-Cymar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-17-Cymar-seats.png"
+        length="242120"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 11:57:00 +0200</pubDate>
+      <dc:date>2019-05-02T11:57:00.15057+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cymar, 9–17 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-17-Cymar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-17-Cymar-coalitions-seats.png"
+        length="163370"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 11:57:00 +0200</pubDate>
+      <dc:date>2019-05-02T11:57:00.15057+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Cymar, 9–17 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-17-Cymar.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-17-Cymar.png"
         length="213938"
         type="image/png"/>
-      <pubDate>Mon, 22 Apr 2019 12:25:44 +0200</pubDate>
-      <dc:date>2019-04-22T12:25:44.841807+02:00</dc:date>
+      <pubDate>Thu, 02 May 2019 11:57:00 +0200</pubDate>
+      <dc:date>2019-05-02T11:57:00.15057+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cypronetwork, 4–14 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-14-Cypronetwork.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-14-Cypronetwork-seats.png"
+        length="248471"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 12:04:35 +0200</pubDate>
+      <dc:date>2019-05-02T12:04:35.273378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cypronetwork, 4–14 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-14-Cypronetwork.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-14-Cypronetwork-coalitions-seats.png"
+        length="168346"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 12:04:35 +0200</pubDate>
+      <dc:date>2019-05-02T12:04:35.273378+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Cypronetwork, 4–14 April 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-14-Cypronetwork.png"
         length="205304"
         type="image/png"/>
-      <pubDate>Mon, 22 Apr 2019 12:35:30 +0200</pubDate>
-      <dc:date>2019-04-22T12:35:30.164472+02:00</dc:date>
+      <pubDate>Thu, 02 May 2019 12:04:35 +0200</pubDate>
+      <dc:date>2019-05-02T12:04:35.273378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Symmetron, 5–12 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-Symmetron.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-Symmetron-seats.png"
+        length="242638"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 12:12:02 +0200</pubDate>
+      <dc:date>2019-05-02T12:12:02.68831+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Symmetron, 5–12 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-Symmetron.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-Symmetron-coalitions-seats.png"
+        length="163860"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 12:12:02 +0200</pubDate>
+      <dc:date>2019-05-02T12:12:02.68831+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Symmetron, 5–12 April 2019 – Voting Intentions</title>
@@ -36,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-Symmetron.png"
         length="214020"
         type="image/png"/>
-      <pubDate>Mon, 22 Apr 2019 12:50:13 +0200</pubDate>
-      <dc:date>2019-04-22T12:50:13.295052+02:00</dc:date>
+      <pubDate>Thu, 02 May 2019 12:12:02 +0200</pubDate>
+      <dc:date>2019-05-02T12:12:02.68831+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prime Consulting, 5–12 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-PrimeConsulting.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-PrimeConsulting-seats.png"
+        length="243600"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 12:20:54 +0200</pubDate>
+      <dc:date>2019-05-02T12:20:54.054567+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prime Consulting, 5–12 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-PrimeConsulting.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-PrimeConsulting-coalitions-seats.png"
+        length="164921"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 12:20:54 +0200</pubDate>
+      <dc:date>2019-05-02T12:20:54.054567+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prime Consulting, 5–12 April 2019 – Voting Intentions</title>
@@ -46,8 +126,28 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-12-PrimeConsulting.png"
         length="219546"
         type="image/png"/>
-      <pubDate>Mon, 22 Apr 2019 13:05:09 +0200</pubDate>
-      <dc:date>2019-04-22T13:05:09.748083+02:00</dc:date>
+      <pubDate>Thu, 02 May 2019 12:20:54 +0200</pubDate>
+      <dc:date>2019-05-02T12:20:54.054567+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMR for University of Nicosia, 18 March–4 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-04-IMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-04-IMR-seats.png"
+        length="244872"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 12:29:37 +0200</pubDate>
+      <dc:date>2019-05-02T12:29:37.756675+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMR for University of Nicosia, 18 March–4 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-04-IMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-04-IMR-coalitions-seats.png"
+        length="166426"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 12:29:37 +0200</pubDate>
+      <dc:date>2019-05-02T12:29:37.756675+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMR for University of Nicosia, 18 March–4 April 2019 – Voting Intentions</title>
@@ -56,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-04-IMR.png"
         length="199547"
         type="image/png"/>
-      <pubDate>Mon, 22 Apr 2019 13:21:39 +0200</pubDate>
-      <dc:date>2019-04-22T13:21:39.650175+02:00</dc:date>
+      <pubDate>Thu, 02 May 2019 12:29:37 +0200</pubDate>
+      <dc:date>2019-05-02T12:29:37.756675+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prime Consulting, 8–15 March 2019 – Seat Projections for the Parties</title>
@@ -179,6 +279,6 @@
       <pubDate>Wed, 09 May 2018 07:01:26 +0200</pubDate>
       <dc:date>2018-05-09T07:01:26.20344+02:00</dc:date>
     </item>
-    <dc:date>2019-04-22T13:21:39.650175+02:00</dc:date>
+    <dc:date>2019-05-02T12:29:37.756675+02:00</dc:date>
   </channel>
 </rss>
