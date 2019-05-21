@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 23.8–27.5% | 23.3–28.1% | 22.8–28.5% | 22.0–29.5% |
+| N/A | [Poll Average](average.html) | 25.8% | 24.0–27.7% | 23.4–28.2% | 22.9–28.7% | 22.0–29.6% |
+| [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 25.0% | N/A | N/A | N/A | N/A |
+| [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 25.0% | N/A | N/A | N/A | N/A |
+| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 28.0% | N/A | N/A | N/A | N/A |
+| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | 26.0% | N/A | N/A | N/A | N/A |
+| [4–13 May 2019](2019-05-13-Noverna.html) | Noverna | 29.0% | N/A | N/A | N/A | N/A |
+| [2–12 May 2019](2019-05-12-Cymar.html) | Cymar | 27.0% | N/A | N/A | N/A | N/A |
+| [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting | 25.0% | N/A | N/A | N/A | N/A |
 | [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 26.0% | 24.3–27.9% | 23.8–28.4% | 23.4–28.9% | 22.6–29.8% |
 | [4–14 April 2019](2019-04-14-Cypronetwork.html) | Cypronetwork | 26.0% | 24.6–27.6% | 24.2–28.0% | 23.8–28.4% | 23.1–29.1% |
 | [5–12 April 2019](2019-04-12-Symmetron.html) | Symmetron | 25.1% | 23.2–27.1% | 22.7–27.6% | 22.2–28.1% | 21.4–29.1% |
@@ -49,15 +56,15 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 1.3% | 99.8% |  |
-| 22.5–23.5% | 6% | 98% |  |
-| 23.5–24.5% | 15% | 93% |  |
-| 24.5–25.5% | 25% | 78% |  |
-| 25.5–26.5% | 26% | 53% | Median |
-| 26.5–27.5% | 17% | 27% |  |
-| 27.5–28.5% | 7% | 10% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.4% | 0.4% |  |
+| 21.5–22.5% | 1.2% | 99.8% |  |
+| 22.5–23.5% | 5% | 98.6% |  |
+| 23.5–24.5% | 13% | 94% |  |
+| 24.5–25.5% | 23% | 81% |  |
+| 25.5–26.5% | 27% | 58% | Median |
+| 26.5–27.5% | 19% | 31% |  |
+| 27.5–28.5% | 8% | 11% |  |
+| 28.5–29.5% | 2% | 3% |  |
+| 29.5–30.5% | 0.5% | 0.6% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -71,6 +78,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron |  |  |  |  |  |
+| [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia |  |  |  |  |  |
+| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
+| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research |  |  |  |  |  |
+| [4–13 May 2019](2019-05-13-Noverna.html) | Noverna |  |  |  |  |  |
+| [2–12 May 2019](2019-05-12-Cymar.html) | Cymar |  |  |  |  |  |
+| [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting |  |  |  |  |  |
 | [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–14 April 2019](2019-04-14-Cypronetwork.html) | Cypronetwork | 2 | 2 | 2 | 1–2 | 1–2 |
 | [5–12 April 2019](2019-04-12-Symmetron.html) | Symmetron | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -90,8 +104,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 20% | 100% |  |
-| 2 | 80% | 80% | Median |
+| 1 | 19% | 100% |  |
+| 2 | 81% | 81% | Median |
 | 3 | 0% | 0% |  |
 
 
