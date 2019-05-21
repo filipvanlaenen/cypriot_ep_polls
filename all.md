@@ -5,6 +5,13 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΠ | ΚΟ–ΣΠ | ΚΑ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–13 May 2019](2019-05-13-Noverna.html) | Noverna | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–12 May 2019](2019-05-12-Cymar.html) | Cymar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 27–33% <br> 2 | 23–29% <br> 1–2 | 14–18% <br> 1 | 7–11% <br> 0–1 | 6–9% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A |
 | [4–14 April 2019](2019-04-14-Cypronetwork.html) | Cypronetwork | 32–37% <br> 2 | 24–28% <br> 1–2 | 15–19% <br> 1 | 6–8% <br> 0–1 | 6–8% <br> 0–1 | N/A <br> N/A | 5–7% <br> 0–1 | N/A <br> N/A |
 | [5–12 April 2019](2019-04-12-Symmetron.html) | Symmetron | 30–36% <br> 2 | 22–28% <br> 1–2 | 13–18% <br> 1 | 7–11% <br> 0–1 | 6–9% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A |
