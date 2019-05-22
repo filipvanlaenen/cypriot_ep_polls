@@ -11,8 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.4% | 29.5–34.9% | 28.8–35.5% | 28.2–36.0% | 27.1–37.0% |
-| [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 30.0% | N/A | N/A | N/A | N/A |
-| [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 35.0% | N/A | N/A | N/A | N/A |
+| [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 30.0% | 28.1–32.0% | 27.6–32.5% | 27.1–33.0% | 26.2–34.0% |
+| [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 32.0% | N/A | N/A | N/A | N/A |
 | [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | 31.0% | N/A | N/A | N/A | N/A |
 | [4–13 May 2019](2019-05-13-Noverna.html) | Noverna | 33.0% | N/A | N/A | N/A | N/A |
@@ -85,8 +85,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
-| [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron |  |  |  |  |  |
-| [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia |  |  |  |  |  |
+| [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 2 | 2 | 2 | 2 | 2 |
+| [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 2 | 2 | 2 | 2 | 2 |
 | [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
 | [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research |  |  |  |  |  |
 | [4–13 May 2019](2019-05-13-Noverna.html) | Noverna |  |  |  |  |  |
