@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 02 May 2019 12:29:37 +0200</pubDate>
+    <pubDate>Wed, 22 May 2019 20:56:09 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Symmetron, 10–17 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-05-17-Symmetron.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 27.1–33.0%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 22.3–27.9%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 12.9–17.5%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 7.3–11.0%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 6.4–9.9%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 4.6–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-05-17-Symmetron.png"
+        length="217257"
+        type="image/png"/>
+      <pubDate>Wed, 22 May 2019 20:31:10 +0200</pubDate>
+      <dc:date>2019-05-22T20:31:10.870982+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMR for University of Nicosia, 13–17 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-05-17-IMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2019-05-17-IMR.png"
+        length="210468"
+        type="image/png"/>
+      <pubDate>Wed, 22 May 2019 20:56:09 +0200</pubDate>
+      <dc:date>2019-05-22T20:56:09.509864+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Cymar, 9–17 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2019-04-17-Cymar.html#seats</link>
@@ -279,6 +299,6 @@
       <pubDate>Wed, 09 May 2018 07:01:26 +0200</pubDate>
       <dc:date>2018-05-09T07:01:26.20344+02:00</dc:date>
     </item>
-    <dc:date>2019-05-02T12:29:37.756675+02:00</dc:date>
+    <dc:date>2019-05-22T20:56:09.509864+02:00</dc:date>
   </channel>
 </rss>
