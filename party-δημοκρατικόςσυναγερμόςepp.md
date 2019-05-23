@@ -13,8 +13,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 32.4% | 29.5–34.9% | 28.8–35.5% | 28.2–36.0% | 27.1–37.0% |
 | [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 30.0% | 28.1–32.0% | 27.6–32.5% | 27.1–33.0% | 26.2–34.0% |
 | [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
-| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 32.0% | N/A | N/A | N/A | N/A |
-| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | 31.0% | N/A | N/A | N/A | N/A |
+| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 32.0% | 30.4–33.6% | 30.0–34.1% | 29.6–34.5% | 28.9–35.3% |
+| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | 31.0% | 29.1–32.9% | 28.6–33.4% | 28.2–33.9% | 27.3–34.8% |
 | [4–13 May 2019](2019-05-13-Noverna.html) | Noverna | 33.0% | N/A | N/A | N/A | N/A |
 | [2–12 May 2019](2019-05-12-Cymar.html) | Cymar | 32.0% | N/A | N/A | N/A | N/A |
 | [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting | 30.0% | N/A | N/A | N/A | N/A |
@@ -87,7 +87,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
 | [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 2 | 2 | 2 | 2 | 2 |
 | [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 2 | 2 | 2 | 2 | 2 |
-| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
+| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 2 | 2 | 2 | 2 | 2 |
 | [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research |  |  |  |  |  |
 | [4–13 May 2019](2019-05-13-Noverna.html) | Noverna |  |  |  |  |  |
 | [2–12 May 2019](2019-05-12-Cymar.html) | Cymar |  |  |  |  |  |
