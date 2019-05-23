@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.5–6.3% | 3.3–6.7% | 3.1–6.9% | 2.7–7.5% |
+| N/A | [Poll Average](average.html) | 5.5% | 3.2–6.7% | 2.8–7.1% | 2.6–7.4% | 2.2–7.9% |
 | [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 6.0% | 5.1–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.2% |
 | [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 6.0% | 5.3–6.9% | 5.0–7.1% | 4.9–7.4% | 4.5–7.8% |
@@ -36,14 +36,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 11% | 99.8% |  |
-| 3.5–4.5% | 34% | 89% |  |
-| 4.5–5.5% | 27% | 55% | Median |
-| 5.5–6.5% | 21% | 27% |  |
-| 6.5–7.5% | 6% | 6% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 12% | 98% |  |
+| 3.5–4.5% | 14% | 85% |  |
+| 4.5–5.5% | 24% | 71% | Median |
+| 5.5–6.5% | 33% | 47% |  |
+| 6.5–7.5% | 13% | 14% |  |
+| 7.5–8.5% | 1.5% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -54,7 +55,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 0 | 0 | 0 | 0 | 0–1 |
 | [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 0 | 0 | 0 | 0 | 0 |
 | [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 0 | 0 | 0 | 0 | 0 |
@@ -80,8 +81,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
 | 2 | 0% | 0% |  |
 
 
