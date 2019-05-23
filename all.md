@@ -7,8 +7,8 @@ The table below lists all polls registered and analyzed so far.
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 27–33% <br> 2 | 22–28% <br> 1–2 | 13–17% <br> 1 | 7–11% <br> 0–1 | 6–10% <br> 0–1 | N/A <br> N/A | 5–8% <br> 0 | N/A <br> N/A |
 | [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 32–38% <br> 2 | 22–28% <br> 1–2 | 12–16% <br> 1 | 6–10% <br> 0–1 | 6–10% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A |
-| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 30–34% <br> 2 | 26–30% <br> 2 | 13–17% <br> 1 | 7–10% <br> 0–1 | 7–10% <br> 0–1 | N/A <br> N/A | 5–7% <br> 0 | N/A <br> N/A |
+| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | 28–34% <br> N/A | 23–29% <br> N/A | 11–15% <br> N/A | 7–11% <br> N/A | 6–10% <br> N/A | N/A <br> N/A | 5–8% <br> N/A | N/A <br> N/A |
 | [4–13 May 2019](2019-05-13-Noverna.html) | Noverna | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–12 May 2019](2019-05-12-Cymar.html) | Cymar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
