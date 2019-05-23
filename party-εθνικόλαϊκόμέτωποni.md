@@ -15,9 +15,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.8% | 6.0–10.5% |
 | [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
 | [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [4–13 May 2019](2019-05-13-Noverna.html) | Noverna | 8.0% | N/A | N/A | N/A | N/A |
-| [2–12 May 2019](2019-05-12-Cymar.html) | Cymar | 8.0% | N/A | N/A | N/A | N/A |
-| [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting | 9.0% | N/A | N/A | N/A | N/A |
+| [4–13 May 2019](2019-05-13-Noverna.html) | Noverna | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
+| [2–12 May 2019](2019-05-12-Cymar.html) | Cymar | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
+| [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.5–10.8% | 7.0–11.4% |
 | [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [4–14 April 2019](2019-04-14-Cypronetwork.html) | Cypronetwork | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.9% |
 | [5–12 April 2019](2019-04-12-Symmetron.html) | Symmetron | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
@@ -62,10 +62,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–17 May 2019](2019-05-17-Symmetron.html) | Symmetron | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 May 2019](2019-05-17-IMR.html) | IMR <br> University of Nicosia | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–14 May 2019](2019-05-14-Cypronetwork.html) | Cypronetwork | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research |  |  |  |  |  |
-| [4–13 May 2019](2019-05-13-Noverna.html) | Noverna |  |  |  |  |  |
-| [2–12 May 2019](2019-05-12-Cymar.html) | Cymar |  |  |  |  |  |
-| [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting |  |  |  |  |  |
+| [9–13 May 2019](2019-05-13-PulseMarketResearch.html) | Pulse Market Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–13 May 2019](2019-05-13-Noverna.html) | Noverna | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–12 May 2019](2019-05-12-Cymar.html) | Cymar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–10 May 2019](2019-05-10-PrimeConsulting.html) | Prime Consulting | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–17 April 2019](2019-04-17-Cymar.html) | Cymar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–14 April 2019](2019-04-14-Cypronetwork.html) | Cypronetwork | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–12 April 2019](2019-04-12-Symmetron.html) | Symmetron | 1 | 1 | 0–1 | 0–1 | 0–1 |
