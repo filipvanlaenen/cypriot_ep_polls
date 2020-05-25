@@ -1,0 +1,50 @@
+# Poll Average
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
+
+## Summary
+
+The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
+
+| Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΠ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 40–44% <br> 3 | 28–32% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
+| [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 40–44% <br> 3 | 28–31% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
+| 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+
+Only polls for which at least the sample size has been published are included in the table above.
+
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
++ **ΔΗΣΥ:** Δημοκρατικός Συναγερμός (EPP)
++ **ΑΚΕΛ:** Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
++ **ΔΗΚΟ:** Δημοκρατικό Κόμμα (S&D)
++ **ΕΛΑΜ:** Εθνικό Λαϊκό Μέτωπο (NI)
++ **ΕΔΕΚ:** Κίνημα Σοσιαλδημοκρατών (S&D)
++ **ΣΠ:** Συμμαχία Πολιτών (ALDE)
++ **ΚΟ–ΣΠ:** Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
++ **ΚΑ:** Κίνημα Αλληλεγγύη (ECR)
++ **ΔΙΠΑ:** Δημοκρατική Παράταξη (RE)
++ **N/A (single party):** Party not included the published results
++ **N/A (entire row):** Calculation for this opinion poll not started yet
+
+## Voting Intentions
+
+![Graph with voting intentions not yet produced](average.png "Voting Intentions")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0.0% | 42.2% | 40.8–43.6% |40.4–43.9% | 40.1–44.3% | 39.5–44.9% |
+| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0.0% | 29.5% | 28.3–30.8% |27.9–31.1% | 27.6–31.5% | 27.0–32.1% |
+| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0.0% | 5.2% | 4.6–5.9% |4.5–6.0% | 4.3–6.2% | 4.1–6.5% |
+| <a href="#εθνικό-λαϊκό-μέτωπο-(ni)">Εθνικό Λαϊκό Μέτωπο (NI)</a> | 0.0% | 5.0% | 4.5–5.7% |4.3–5.8% | 4.2–6.0% | 3.9–6.3% |
+| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0.0% | 1.3% | 1.0–1.7% |1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
+| <a href="#συμμαχία-πολιτών-(alde)">Συμμαχία Πολιτών (ALDE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0.0% | 5.1% | 4.5–5.8% |4.4–6.0% | 4.3–6.1% | 4.0–6.4% |
+| <a href="#κίνημα-αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0.0% | 2.6% | 2.2–3.1% |2.1–3.2% | 2.0–3.4% | 1.8–3.6% |
+| <a href="#δημοκρατική-παράταξη-(re)">Δημοκρατική Παράταξη (RE)</a> | 0.0% | 7.6% | 6.9–8.4% |6.7–8.6% | 6.6–8.8% | 6.3–9.2% |
+
