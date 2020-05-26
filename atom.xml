@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/cypriot_ep_polls</id>
+  <title>All Registered Polls for the European Parliament</title>
+  <updated>2020-05-25T19:33:11.66617+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Δημοκρατικός Συναγερμός (EPP): 40.1–44.3%, 3 seats</li><li>Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 27.6–31.5%, 2 seats</li><li>Δημοκρατικό Κόμμα (S&amp;D): 4.3–6.2%, 0 seats</li><li>Εθνικό Λαϊκό Μέτωπο (NI): 4.2–6.0%, 0 seats</li><li>Κίνημα Σοσιαλδημοκρατών (S&amp;D): 0.9–1.9%, 0 seats</li><li>Συμμαχία Πολιτών (RE): 0.9–1.9%, 0 seats</li><li>Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 4.3–6.1%, 0 seats</li><li>Κίνημα Αλληλεγγύη (ECR): 2.0–3.4%, 0 seats</li><li>Δημοκρατική Παράταξη (RE): 6.6–8.8%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/cypriot_ep_polls/2020-05-14-RetailZoom.html</id>
+    <link href="https://filipvanlaenen.github.io/cypriot_ep_polls/2020-05-14-RetailZoom.html"/>
+    <title>Opinion Poll by RetailZoom for Politis, 13–14 May 2020</title>
+    <updated>2020-05-25T19:33:11.66617+02:00</updated>
+    <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
+  </entry>
+  <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
+</feed>
