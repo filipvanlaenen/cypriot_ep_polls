@@ -77,8 +77,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3 |
-| [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 3 | 3 | 3 | 3 | 3 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 2–3 |
+| [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 3 | 3 | 3 | 3 | 2–3 |
 
 ### Probability Mass Function
 
@@ -90,8 +90,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.4% | 100% |  |
-| 3 | 99.6% | 99.6% | Median |
+| 2 | 0.5% | 100% |  |
+| 3 | 99.5% | 99.5% | Median |
 | 4 | 0% | 0% | Majority |
 
 
