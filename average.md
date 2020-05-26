@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΠ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 40–44% <br> 3 | 28–32% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
-| [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 40–44% <br> 3 | 28–31% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
+| N/A | Poll Average | 40–44% <br> 3 | 28–32% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
+| [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 40–44% <br> 3 | 28–31% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -23,7 +23,7 @@ Only polls for which at least the sample size has been published are included in
 + **ΔΗΚΟ:** Δημοκρατικό Κόμμα (S&D)
 + **ΕΛΑΜ:** Εθνικό Λαϊκό Μέτωπο (NI)
 + **ΕΔΕΚ:** Κίνημα Σοσιαλδημοκρατών (S&D)
-+ **ΣΠ:** Συμμαχία Πολιτών (ALDE)
++ **ΣΠ:** Συμμαχία Πολιτών (RE)
 + **ΚΟ–ΣΠ:** Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 + **ΚΑ:** Κίνημα Αλληλεγγύη (ECR)
 + **ΔΙΠΑ:** Δημοκρατική Παράταξη (RE)
@@ -43,8 +43,426 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0.0% | 5.2% | 4.6–5.9% |4.5–6.0% | 4.3–6.2% | 4.1–6.5% |
 | <a href="#εθνικό-λαϊκό-μέτωπο-(ni)">Εθνικό Λαϊκό Μέτωπο (NI)</a> | 0.0% | 5.0% | 4.5–5.7% |4.3–5.8% | 4.2–6.0% | 3.9–6.3% |
 | <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0.0% | 1.3% | 1.0–1.7% |1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
-| <a href="#συμμαχία-πολιτών-(alde)">Συμμαχία Πολιτών (ALDE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#συμμαχία-πολιτών-(re)">Συμμαχία Πολιτών (RE)</a> | 0.0% | 1.3% | 1.0–1.7% |1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
 | <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0.0% | 5.1% | 4.5–5.8% |4.4–6.0% | 4.3–6.1% | 4.0–6.4% |
 | <a href="#κίνημα-αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0.0% | 2.6% | 2.2–3.1% |2.1–3.2% | 2.0–3.4% | 1.8–3.6% |
 | <a href="#δημοκρατική-παράταξη-(re)">Δημοκρατική Παράταξη (RE)</a> | 0.0% | 7.6% | 6.9–8.4% |6.7–8.6% | 6.6–8.8% | 6.3–9.2% |
 
+### Δημοκρατικός Συναγερμός (EPP)
+
+*For a full overview of the results for this party, see the [Δημοκρατικός Συναγερμός (EPP)](party-δημοκρατικόςσυναγερμόςepp.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0% | 100% |  |
+| 33.5–34.5% | 0% | 100% |  |
+| 34.5–35.5% | 0% | 100% |  |
+| 35.5–36.5% | 0% | 100% |  |
+| 36.5–37.5% | 0% | 100% |  |
+| 37.5–38.5% | 0% | 100% |  |
+| 38.5–39.5% | 0.6% | 100% |  |
+| 39.5–40.5% | 6% | 99.4% |  |
+| 40.5–41.5% | 21% | 94% |  |
+| 41.5–42.5% | 36% | 73% | Median |
+| 42.5–43.5% | 26% | 36% |  |
+| 43.5–44.5% | 9% | 10% |  |
+| 44.5–45.5% | 1.2% | 1.3% |  |
+| 45.5–46.5% | 0.1% | 0.1% |  |
+| 46.5–47.5% | 0% | 0% |  |
+
+### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)](party-ανορθωτικόκόμμαεργαζόμενουλαούguengl.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0.1% | 100% |  |
+| 26.5–27.5% | 2% | 99.9% |  |
+| 27.5–28.5% | 14% | 98% |  |
+| 28.5–29.5% | 35% | 84% |  |
+| 29.5–30.5% | 34% | 49% | Median |
+| 30.5–31.5% | 13% | 15% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
+
+### Δημοκρατικό Κόμμα (S&D)
+
+*For a full overview of the results for this party, see the [Δημοκρατικό Κόμμα (S&D)](party-δημοκρατικόκόμμαsd.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 7% | 100% |  |
+| 4.5–5.5% | 67% | 93% | Median |
+| 5.5–6.5% | 25% | 25% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
+| 7.5–8.5% | 0% | 0% |  |
+
+### Εθνικό Λαϊκό Μέτωπο (NI)
+
+*For a full overview of the results for this party, see the [Εθνικό Λαϊκό Μέτωπο (NI)](party-εθνικόλαϊκόμέτωποni.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 14% | 100% |  |
+| 4.5–5.5% | 71% | 86% | Median |
+| 5.5–6.5% | 15% | 15% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 0% | 0% |  |
+
+### Κίνημα Σοσιαλδημοκρατών (S&D)
+
+*For a full overview of the results for this party, see the [Κίνημα Σοσιαλδημοκρατών (S&D)](party-κίνημασοσιαλδημοκρατώνsd.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 81% | 100% | Median |
+| 1.5–2.5% | 19% | 19% |  |
+| 2.5–3.5% | 0% | 0% |  |
+
+### Συμμαχία Πολιτών (RE)
+
+*For a full overview of the results for this party, see the [Συμμαχία Πολιτών (RE)](party-συμμαχίαπολιτώνre.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 81% | 100% | Median |
+| 1.5–2.5% | 19% | 19% |  |
+| 2.5–3.5% | 0% | 0% |  |
+
+### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)](party-κίνημαοικολόγων—συνεργασίαπολιτώνgreensefa.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 10% | 100% |  |
+| 4.5–5.5% | 70% | 90% | Median |
+| 5.5–6.5% | 19% | 20% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
+
+### Κίνημα Αλληλεγγύη (ECR)
+
+*For a full overview of the results for this party, see the [Κίνημα Αλληλεγγύη (ECR)](party-κίνημααλληλεγγύηecr.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 40% | 100% |  |
+| 2.5–3.5% | 59% | 60% | Median |
+| 3.5–4.5% | 0.7% | 0.7% |  |
+| 4.5–5.5% | 0% | 0% |  |
+
+### Δημοκρατική Παράταξη (RE)
+
+*For a full overview of the results for this party, see the [Δημοκρατική Παράταξη (RE)](party-δημοκρατικήπαράταξηre.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 41% | 98% |  |
+| 7.5–8.5% | 50% | 56% | Median |
+| 8.5–9.5% | 6% | 6% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
+
+
+## Seats
+
+![Graph with seats not yet produced](average-seats.png "Seats")
+
+![Graph with seating plan not yet produced](average-seating-plan.png "Seating Plan")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0 | 3 | 3 |3 | 3 | 2–3 |
+| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0 | 2 | 2 |2 | 2 | 2 |
+| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#εθνικό-λαϊκό-μέτωπο-(ni)">Εθνικό Λαϊκό Μέτωπο (NI)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#συμμαχία-πολιτών-(re)">Συμμαχία Πολιτών (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#κίνημα-αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#δημοκρατική-παράταξη-(re)">Δημοκρατική Παράταξη (RE)</a> | 0 | 1 | 1 |1 | 1 | 1 |
+
+### Δημοκρατικός Συναγερμός (EPP)
+
+*For a full overview of the results for this party, see the [Δημοκρατικός Συναγερμός (EPP)](party-δημοκρατικόςσυναγερμόςepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-δημοκρατικόςσυναγερμόςepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0.5% | 100% |  |
+| 3 | 99.5% | 99.5% | Median |
+| 4 | 0% | 0% | Majority |
+
+### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)](party-ανορθωτικόκόμμαεργαζόμενουλαούguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-ανορθωτικόκόμμαεργαζόμενουλαούguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 100% | 100% | Median |
+
+### Δημοκρατικό Κόμμα (S&D)
+
+*For a full overview of the results for this party, see the [Δημοκρατικό Κόμμα (S&D)](party-δημοκρατικόκόμμαsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-δημοκρατικόκόμμαsd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
+| 2 | 0% | 0% |  |
+
+### Εθνικό Λαϊκό Μέτωπο (NI)
+
+*For a full overview of the results for this party, see the [Εθνικό Λαϊκό Μέτωπο (NI)](party-εθνικόλαϊκόμέτωποni.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-εθνικόλαϊκόμέτωποni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
+| 2 | 0% | 0% |  |
+
+### Κίνημα Σοσιαλδημοκρατών (S&D)
+
+*For a full overview of the results for this party, see the [Κίνημα Σοσιαλδημοκρατών (S&D)](party-κίνημασοσιαλδημοκρατώνsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-κίνημασοσιαλδημοκρατώνsd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Συμμαχία Πολιτών (RE)
+
+*For a full overview of the results for this party, see the [Συμμαχία Πολιτών (RE)](party-συμμαχίαπολιτώνre.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-συμμαχίαπολιτώνre.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)](party-κίνημαοικολόγων—συνεργασίαπολιτώνgreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-κίνημαοικολόγων—συνεργασίαπολιτώνgreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
+
+### Κίνημα Αλληλεγγύη (ECR)
+
+*For a full overview of the results for this party, see the [Κίνημα Αλληλεγγύη (ECR)](party-κίνημααλληλεγγύηecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-κίνημααλληλεγγύηecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Δημοκρατική Παράταξη (RE)
+
+*For a full overview of the results for this party, see the [Δημοκρατική Παράταξη (RE)](party-δημοκρατικήπαράταξηre.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-δημοκρατικήπαράταξηre.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Δημοκρατικός Συναγερμός (EPP) | 0 | 3 | 0% | 3 | 3 | 3 | 2–3 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) | 0 | 2 | 0% | 2 | 2 | 2 | 2 |
+| Δημοκρατική Παράταξη (RE) – Συμμαχία Πολιτών (RE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
+| Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Εθνικό Λαϊκό Μέτωπο (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Κίνημα Αλληλεγγύη (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Δημοκρατικός Συναγερμός (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-δησυ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0.5% | 100% |  |
+| 3 | 99.5% | 99.5% | Median |
+| 4 | 0% | 0% | Majority |
+
+### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ακελ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 100% | 100% | Median |
+
+### Δημοκρατική Παράταξη (RE) – Συμμαχία Πολιτών (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-διπα–σπ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
+
+### Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-δηκο–εδεκ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
+| 2 | 0% | 0% |  |
+
+### Εθνικό Λαϊκό Μέτωπο (NI)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ελαμ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
+| 2 | 0% | 0% |  |
+
+### Κίνημα Αλληλεγγύη (ECR)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-κα.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-κο–σπ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
+
+
+## Technical Information
+
++ **Number of polls included in this average:** 1
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 0.95%
