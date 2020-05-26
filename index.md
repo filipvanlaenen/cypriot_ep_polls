@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΠ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 40–44% <br> 3 | 28–32% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
-| [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 40–44% <br> 3 | 28–31% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
+| N/A | [Poll Average](average.html) | 40–44% <br> 3 | 28–32% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
+| [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 40–44% <br> 3 | 28–31% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -19,7 +19,7 @@ Only polls for which at least the sample size has been published are included in
 + **ΔΗΚΟ:** Δημοκρατικό Κόμμα (S&D)
 + **ΕΛΑΜ:** Εθνικό Λαϊκό Μέτωπο (NI)
 + **ΕΔΕΚ:** Κίνημα Σοσιαλδημοκρατών (S&D)
-+ **ΣΠ:** Συμμαχία Πολιτών (ALDE)
++ **ΣΠ:** Συμμαχία Πολιτών (RE)
 + **ΚΟ–ΣΠ:** Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 + **ΚΑ:** Κίνημα Αλληλεγγύη (ECR)
 + **ΔΙΠΑ:** Δημοκρατική Παράταξη (RE)
