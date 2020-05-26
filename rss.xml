@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by RetailZoom for Politis, 13–14 May 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2020-05-14-RetailZoom.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Συμμαχία Πολιτών (RE): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλληλεγγύη (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2020-05-14-RetailZoom-seats.png"
+        length="220887"
+        type="image/png"/>
+      <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
+      <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RetailZoom for Politis, 13–14 May 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2020-05-14-RetailZoom.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2020-05-14-RetailZoom-coalitions-seats.png"
+        length="105174"
+        type="image/png"/>
+      <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
+      <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RetailZoom for Politis, 13–14 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2020-05-14-RetailZoom.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 40.1–44.3%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 27.6–31.5%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 4.3–6.2%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 4.2–6.0%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0.9–1.9%&lt;/li&gt;&lt;li&gt;Συμμαχία Πολιτών (RE): 0.9–1.9%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 4.3–6.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλληλεγγύη (ECR): 2.0–3.4%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 6.6–8.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2020-05-14-RetailZoom.png"
+        length="305536"
+        type="image/png"/>
+      <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
+      <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
+    </item>
+    <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
+  </channel>
+</rss>
