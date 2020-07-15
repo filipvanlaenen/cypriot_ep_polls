@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>null</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Thu, 21 May 2020 23:14:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Symmetron, 19–25 June 2020 – Voting Intentions</title>
+      <link>null/2020-06-25-Symmetron.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Symmetron, 19–25 June 2020<br/><img src="null/2020-06-25-Symmetron.png"/><br/>Details on null/2020-06-25-Symmetron.html]]></description>
+      <enclosure url="null/2020-06-25-Symmetron.png" length="340378" type="image/png"/>
+      <pubDate>Sun, 5 Jul 2020 22:13:15 +0200</pubDate>
+      <dc:date>2020-07-05T22:13:15.608957+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RetailZoom for Politis, 13–14 May 2020 – Voting Intentions</title>
+      <link>null/2020-05-14-RetailZoom.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by RetailZoom for Politis, 13–14 May 2020<br/><img src="null/2020-05-14-RetailZoom.png"/><br/>Details on null/2020-05-14-RetailZoom.html]]></description>
+      <enclosure url="null/2020-05-14-RetailZoom.png" length="305536" type="image/png"/>
+      <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
+      <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
+    </item>
+  </channel>
+</rss>
