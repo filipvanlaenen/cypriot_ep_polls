@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΠ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting | 28–33% <br> 2 | 24–29% <br> 1–2 | 11–15% <br> 1 | 5–8% <br> 0–1 | 5–8% <br> 0–1 | N/A <br> N/A | 5–8% <br> 0–1 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [19–25 June 2020](2020-06-25-Symmetron.html) | Symmetron | 35–43% <br> 2–3 | 22–29% <br> 1–2 | 12–18% <br> 1 | 3–7% <br> 0–1 | 4–7% <br> 0–1 | 1–3% <br> 0 | 3–7% <br> 0–1 | 1–3% <br> 0 | 2–6% <br> 0 |
 | [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 40–44% <br> 3 | 28–31% <br> 2 | 4–6% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 4–6% <br> 0 | 2–3% <br> 0 | 7–9% <br> 1 |
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
