@@ -10,8 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.4% | 25.9–31.2% | 25.2–32.0% | 24.7–32.6% | 23.6–33.9% |
-| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 26.9% | 24.9–29.0% | 24.4–29.5% | 23.9–30.1% | 23.0–31.1% |
+| N/A | [Poll Average](average.html) | 26.7% | 24.7–28.8% | 24.1–29.4% | 23.7–29.9% | 22.8–31.0% |
+| [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 25.8% | 24.1–27.6% | 23.6–28.1% | 23.2–28.6% | 22.4–29.5% |
+| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 26.6% | 24.9–28.4% | 24.4–28.9% | 24.0–29.3% | 23.2–30.2% |
+| [31 March–16 April 2021](2021-04-16-IMR.html) | IMR <br> University of Nicosia | 27.2% | 25.7–28.8% | 25.3–29.2% | 25.0–29.6% | 24.2–30.4% |
+| [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 26.4% | 24.4–28.4% | 23.9–29.0% | 23.4–29.5% | 22.5–30.5% |
+| [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 28.1% | 26.4–30.0% | 25.9–30.5% | 25.4–31.0% | 24.6–31.9% |
+| [9 March–4 April 2021](2021-04-04-Conread.html) | Conread <br> CyprusNews | 26.9% | 25.0–29.0% | 24.5–29.6% | 24.0–30.1% | 23.1–31.1% |
+| [21–30 March 2021](2021-03-30-Cypronetwork.html) | Cypronetwork <br> Ὁ Φιλελεύθερος | 26.2% | 24.5–28.0% | 24.0–28.6% | 23.6–29.0% | 22.8–29.9% |
+| [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 26.0% | 24.5–27.5% | 24.1–28.0% | 23.8–28.3% | 23.1–29.1% |
+| [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
+| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 26.3% | 24.6–28.1% | 24.1–28.6% | 23.7–29.0% | 22.9–29.9% |
+| [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 27.6% | 25.7–29.7% | 25.1–30.3% | 24.6–30.8% | 23.7–31.9% |
+| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 28.8% | 26.8–30.9% | 26.2–31.5% | 25.7–32.0% | 24.8–33.0% |
 | [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 28.4% | 26.7–30.2% | 26.2–30.7% | 25.8–31.1% | 25.0–32.0% |
 | [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 30.1% | 27.9–32.4% | 27.3–33.0% | 26.8–33.6% | 25.8–34.7% |
 | [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 30.5% | 28.7–32.3% | 28.2–32.9% | 27.8–33.3% | 26.9–34.2% |
@@ -46,21 +57,18 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.4% | 99.9% |  |
-| 23.5–24.5% | 2% | 99.5% |  |
-| 24.5–25.5% | 5% | 98% |  |
-| 25.5–26.5% | 10% | 93% |  |
-| 26.5–27.5% | 16% | 83% |  |
-| 27.5–28.5% | 19% | 67% | Median |
-| 28.5–29.5% | 18% | 47% |  |
-| 29.5–30.5% | 13% | 29% |  |
-| 30.5–31.5% | 8% | 16% |  |
-| 31.5–32.5% | 4% | 7% |  |
-| 32.5–33.5% | 2% | 3% |  |
-| 33.5–34.5% | 0.6% | 0.8% |  |
-| 34.5–35.5% | 0.2% | 0.2% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
+| 22.5–23.5% | 2% | 99.7% |  |
+| 23.5–24.5% | 6% | 98% |  |
+| 24.5–25.5% | 15% | 92% |  |
+| 25.5–26.5% | 23% | 77% |  |
+| 26.5–27.5% | 24% | 54% | Median |
+| 27.5–28.5% | 17% | 30% |  |
+| 28.5–29.5% | 9% | 13% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 0.9% | 1.0% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,8 +79,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
-| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2 | 2 | 2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
+| [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 2 | 2 | 1–2 | 1–2 |
+| [31 March–16 April 2021](2021-04-16-IMR.html) | IMR <br> University of Nicosia | 2 | 2 | 2 | 2 | 2 |
+| [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2 | 2 | 2 | 1–2 | 1–2 |
+| [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 2 | 2 | 2 | 2 | 2 |
+| [9 March–4 April 2021](2021-04-04-Conread.html) | Conread <br> CyprusNews | 2 | 2 | 2 | 2 | 1–2 |
+| [21–30 March 2021](2021-03-30-Cypronetwork.html) | Cypronetwork <br> Ὁ Φιλελεύθερος | 2 | 2 | 2 | 1–2 | 1–2 |
+| [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 2 | 2 | 2 | 1–2 | 1–2 |
+| [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 2 | 2 | 2 | 1–2 | 1–2 |
+| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 2 | 2 | 1–2 | 1–2 |
+| [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 2 | 2 | 2 | 1–2 | 1–2 |
+| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2 | 2 | 2 | 2 | 2 |
 | [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 2 | 2 | 2 | 2 |
 | [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 2 | 2 | 2 | 2 | 2 |
 | [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 2 | 2 | 2 | 2 |
@@ -88,8 +107,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.0% | 100% |  |
-| 2 | 99.0% | 99.0% | Median |
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
 | 3 | 0% | 0% |  |
 
 
