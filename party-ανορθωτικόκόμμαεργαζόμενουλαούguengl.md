@@ -84,13 +84,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9 March–4 April 2021](2021-04-04-Conread.html) | Conread <br> CyprusNews | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–30 March 2021](2021-03-30-Cypronetwork.html) | Cypronetwork <br> Ὁ Φιλελεύθερος | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 1 | 1 | 1 | 1 | 1–2 |
-| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [19–25 June 2020](2020-06-25-Symmetron.html) | Symmetron | 2 | 2 | 2 | 1–2 | 1–2 |
 | [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 2 | 2 | 2 | 2 | 2 |
@@ -104,8 +104,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 53% | 100% | Median |
-| 2 | 47% | 47% |  |
+| 1 | 55% | 100% | Median |
+| 2 | 45% | 45% |  |
 | 3 | 0% | 0% |  |
 
 

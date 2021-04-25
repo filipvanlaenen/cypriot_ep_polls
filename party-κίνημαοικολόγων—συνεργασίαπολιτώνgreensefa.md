@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 March–16 April 2021](2021-04-16-IMR.html) | IMR <br> University of Nicosia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [31 March–16 April 2021](2021-04-16-IMR.html) | IMR <br> University of Nicosia | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9 March–4 April 2021](2021-04-04-Conread.html) | Conread <br> CyprusNews | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -71,9 +71,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 1 | 1 | 1 | 1 | 0–1 |
 | [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1 | 1 | 0–1 | 0–1 |
+| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 0 | 0 | 0 | 0–1 | 0–1 |
+| [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 0 | 0 | 0 | 0–1 | 0–1 |
 | [19–25 June 2020](2020-06-25-Symmetron.html) | Symmetron | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 0 | 0 | 0 | 0 | 0 |
@@ -86,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 50% | 50% | Median |
+| 0 | 49% | 100% | Last Result |
+| 1 | 51% | 51% | Median |
 | 2 | 0% | 0% |  |
 
 

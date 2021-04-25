@@ -66,7 +66,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 0 | 0 | 0 | 0 | 0–1 |
 | [9 March–4 April 2021](2021-04-04-Conread.html) | Conread <br> CyprusNews | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–30 March 2021](2021-03-30-Cypronetwork.html) | Cypronetwork <br> Ὁ Φιλελεύθερος | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 0 | 0 | 0 | 0 | 0 |
@@ -85,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 21% | 21% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 

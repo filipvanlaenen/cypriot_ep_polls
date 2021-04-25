@@ -64,8 +64,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 88% | 100% | Median |
-| 2 | 12% | 12% |  |
+| 1 | 77% | 100% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D)
@@ -87,8 +87,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 58% | 58% | Median |
+| 0 | 19% | 100% | Last Result |
+| 1 | 81% | 81% | Median |
 | 2 | 0% | 0% |  |
 
 ### Ανεξάρτητοι (*)
@@ -111,8 +111,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 47% | 47% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 34% | 34% |  |
 | 2 | 0% | 0% |  |
 
 ### Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)
@@ -123,8 +123,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 35% | 35% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 ### Δημοκρατική Παράταξη (RE)
@@ -170,8 +170,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 88% | 100% | Median |
-| 2 | 12% | 12% |  |
+| 1 | 77% | 100% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικός Συναγερμός (EPP)
@@ -201,8 +201,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 58% | 58% | Median |
+| 0 | 19% | 100% | Last Result |
+| 1 | 81% | 81% | Median |
 | 2 | 0% | 0% |  |
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
@@ -211,8 +211,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 47% | 47% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 34% | 34% |  |
 | 2 | 0% | 0% |  |
 
 ### Κίνημα Αλληλεγγύη (ECR)
@@ -235,6 +235,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.84%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.87%
 

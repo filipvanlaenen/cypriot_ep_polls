@@ -68,7 +68,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–30 March 2021](2021-03-30-Cypronetwork.html) | Cypronetwork <br> Ὁ Φιλελεύθερος | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
-| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -85,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 28% | 28% |  |
 | 2 | 0% | 0% |  |
 
 
