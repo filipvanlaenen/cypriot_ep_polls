@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 24–30% <br> 1–2 | 20–27% <br> 1–2 | 11–16% <br> 1 | 4–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–10% <br> 0–1 | 0–4% <br> 0 | 2–5% <br> 0 | 4–8% <br> 0–1 | 4–9% <br> 0–1 |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 23–29% <br> 1–2 | 20–25% <br> 1–2 | 12–16% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | 5–9% <br> 0–1 | 5–8% <br> 0–1 |
 | [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 24–29% <br> 1–2 | 22–27% <br> 1–2 | 11–16% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–1 | 1–3% <br> 0 | 2–5% <br> 0 | 4–7% <br> 0 | 4–6% <br> 0 |
-| [31 March–16 April 2021](2021-04-16-IMR.html) | IMR <br> University of Nicosia | 25–30% <br> 2 | 22–27% <br> 1–2 | 12–15% <br> 1 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 0–1 | 1–2% <br> 0 | 3–5% <br> 0 | 6–8% <br> 0–1 | 4–7% <br> 0–1 |
+| [31 March–16 April 2021](2021-04-16-IMR.html) | IMR <br> University of Nicosia | 25–30% <br> 2 | 22–27% <br> 1–2 | 12–15% <br> 1 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 0–1 | 1–2% <br> 0 | 3–5% <br> 0 | 6–8% <br> 0–1 | 4–7% <br> 0 |
 | [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 23–30% <br> 1–2 | 21–27% <br> 1–2 | 12–17% <br> 1 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 0–1 | 1–3% <br> 0 | 3–6% <br> 0 | 4–8% <br> 0–1 | 4–8% <br> 0–1 |
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 25–31% <br> 2 | 22–27% <br> 1–2 | 10–14% <br> 1 | 7–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–1 | 0–1% <br> 0 | 2–4% <br> 0 | 4–6% <br> 0 | 4–7% <br> 0 |
 | [9 March–4 April 2021](2021-04-04-Conread.html) | Conread <br> CyprusNews | 24–30% <br> 2 | 19–25% <br> 1–2 | 12–17% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–1 | 0–1% <br> 0 | 1–3% <br> 0 | 5–8% <br> 0–1 | 7–10% <br> 0–1 |
@@ -317,8 +317,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 53% | 100% | Median |
-| 2 | 47% | 47% |  |
+| 1 | 55% | 100% | Median |
+| 2 | 45% | 45% |  |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D)
@@ -340,8 +340,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 28% | 28% |  |
 | 2 | 0% | 0% |  |
 
 ### Κίνημα Σοσιαλδημοκρατών (S&D)
@@ -364,8 +364,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 50% | 50% | Median |
+| 0 | 49% | 100% | Last Result |
+| 1 | 51% | 51% | Median |
 | 2 | 0% | 0% |  |
 
 ### Κίνημα Αλληλεγγύη (ECR)
@@ -396,8 +396,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 16% | 16% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 17% | 17% |  |
 | 2 | 0% | 0% |  |
 
 ### Ανεξάρτητοι (*)
@@ -408,8 +408,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 21% | 21% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -437,8 +437,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 53% | 100% | Median |
-| 2 | 47% | 47% |  |
+| 1 | 55% | 100% | Median |
+| 2 | 45% | 45% |  |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D) – Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)
@@ -448,8 +448,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 84% | 100% | Median |
-| 2 | 16% | 16% |  |
+| 1 | 83% | 100% | Median |
+| 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικός Συναγερμός (EPP)
@@ -469,8 +469,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 21% | 21% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 ### Εθνικό Λαϊκό Μέτωπο (NI)
@@ -479,8 +479,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 28% | 28% |  |
 | 2 | 0% | 0% |  |
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
@@ -489,8 +489,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 50% | 50% | Median |
+| 0 | 49% | 100% | Last Result |
+| 1 | 51% | 51% | Median |
 | 2 | 0% | 0% |  |
 
 ### Δημοκρατική Παράταξη (RE) – Συμμαχία Πολιτών (RE)
@@ -513,6 +513,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,636,096
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 2.94%
