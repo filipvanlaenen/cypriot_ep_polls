@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Apr 2021 18:42:45 +0200</pubDate>
+    <pubDate>Sun, 25 Apr 2021 22:37:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Cypronetwork for Omega TV, 13–17 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-04-17-Cypronetwork.html#seats</link>
@@ -430,14 +430,34 @@
       <dc:date>2021-04-25T18:42:45.649161+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Prime Consulting for Τηλεόραση ΣΙΓΜΑ, 16–23 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2020-10-23-PrimeConsulting.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλληλεγγύη (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2020-10-23-PrimeConsulting-seats.png"
+        length="249339"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 22:37:58 +0200</pubDate>
+      <dc:date>2021-04-25T22:37:58.590075+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prime Consulting for Τηλεόραση ΣΙΓΜΑ, 16–23 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2020-10-23-PrimeConsulting.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2020-10-23-PrimeConsulting-coalitions-seats.png"
+        length="216220"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 22:37:58 +0200</pubDate>
+      <dc:date>2021-04-25T22:37:58.590075+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Prime Consulting for Τηλεόραση ΣΙΓΜΑ, 16–23 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2020-10-23-PrimeConsulting.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 27.8–33.3%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 23.5–28.8%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 11.3–15.4%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 4.9–7.8%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 4.9–7.8%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλληλεγγύη (ECR): 1.2–2.8%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2020-10-23-PrimeConsulting.png"
         length="319745"
         type="image/png"/>
-      <pubDate>Sat, 24 Apr 2021 15:06:14 +0200</pubDate>
-      <dc:date>2021-04-24T15:06:14.2653+02:00</dc:date>
+      <pubDate>Sun, 25 Apr 2021 22:37:58 +0200</pubDate>
+      <dc:date>2021-04-25T22:37:58.590075+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Symmetron, 19–25 June 2020 – Seat Projections for the Parties</title>
@@ -499,6 +519,6 @@
       <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
       <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
     </item>
-    <dc:date>2021-04-25T18:42:45.649161+02:00</dc:date>
+    <dc:date>2021-04-25T22:37:58.590075+02:00</dc:date>
   </channel>
 </rss>
