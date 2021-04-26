@@ -91,7 +91,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 2 | 2 | 2 | 1–2 | 1–2 |
 | [19–25 June 2020](2020-06-25-Symmetron.html) | Symmetron | 2 | 2 | 2 | 1–2 | 1–2 |
 | [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 2 | 2 | 2 | 2 | 2 |
 
