@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.3–8.3% | 5.1–8.9% | 4.8–9.4% | 4.3–10.2% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.4–8.4% | 5.1–8.9% | 4.9–9.4% | 4.4–10.2% |
+| [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 7.1% | 6.2–8.1% | 6.0–8.4% | 5.8–8.7% | 5.4–9.2% |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 6.5% | 5.5–7.8% | 5.2–8.2% | 5.0–8.5% | 4.5–9.2% |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
@@ -40,11 +41,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.1% | 100% |  |
-| 4.5–5.5% | 14% | 98.9% |  |
-| 5.5–6.5% | 38% | 85% | Median |
-| 6.5–7.5% | 27% | 47% |  |
-| 7.5–8.5% | 12% | 20% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 12% | 99.1% |  |
+| 5.5–6.5% | 35% | 87% |  |
+| 6.5–7.5% | 30% | 53% | Median |
+| 7.5–8.5% | 14% | 23% |  |
 | 8.5–9.5% | 6% | 8% |  |
 | 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
@@ -60,6 +61,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -87,8 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 34% | 34% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 40% | 40% |  |
 | 2 | 0% | 0% |  |
 
 
