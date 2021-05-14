@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:47 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Pulse for Alpha TV, 4–7 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-07-Pulse.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Pulse for Alpha TV, 4–7 May 2021<br/>Details on https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-07-Pulse.html<br/><img src="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-07-Pulse.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-07-Pulse.png" length="351428" type="image/png"/>
+      <pubDate>Fri, 14 May 2021 18:57:29 +0200</pubDate>
+      <dc:date>2021-05-14T18:57:29.962016+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Noverna for Politis, 7–23 April 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-04-23-Noverna.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Noverna for Politis, 7–23 April 2021<br/>Details on https://filipvanlaenen.github.io/cypriot_ep_polls/2021-04-23-Noverna.html<br/><img src="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-04-23-Noverna-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-20-IMR.png" length="354373" type="image/png"/>
       <pubDate>Sat, 24 Apr 2021 20:45:16 +0200</pubDate>
       <dc:date>2021-04-24T20:45:16.933027+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pulse for Alpha TV, 8–18 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Pulse for Alpha TV, 8–18 March 2021<br/>Details on https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse.html<br/><img src="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse-seating-plan.png" length="418606" type="image/png"/>
-      <pubDate>Sat, 24 Apr 2021 16:51:28 +0200</pubDate>
-      <dc:date>2021-04-24T16:51:28.768581+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pulse for Alpha TV, 8–18 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Pulse for Alpha TV, 8–18 March 2021<br/>Details on https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse.html<br/><img src="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse-seats.png" length="279382" type="image/png"/>
-      <pubDate>Sat, 24 Apr 2021 16:51:28 +0200</pubDate>
-      <dc:date>2021-04-24T16:51:28.768581+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pulse for Alpha TV, 8–18 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Pulse for Alpha TV, 8–18 March 2021<br/>Details on https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse.html<br/><img src="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-03-18-Pulse.png" length="355494" type="image/png"/>
-      <pubDate>Sat, 24 Apr 2021 16:51:28 +0200</pubDate>
-      <dc:date>2021-04-24T16:51:28.768581+02:00</dc:date>
     </item>
   </channel>
 </rss>
