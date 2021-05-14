@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 May 2021 18:52:03 +0200</pubDate>
+    <pubDate>Fri, 14 May 2021 18:57:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse for Alpha TV, 4–7 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-07-Pulse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 23.3–28.2%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 20.6–25.4%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 10.4–14.1%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 5.8–8.7%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 5.8–8.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλληλεγγύη (ECR): 2.1–4.0%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 2.7–4.8%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&amp;amp;D): 4.5–7.1%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι (*): 2.7–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-07-Pulse.png"
+        length="351428"
+        type="image/png"/>
+      <pubDate>Fri, 14 May 2021 18:57:29 +0200</pubDate>
+      <dc:date>2021-05-14T18:57:29.962016+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Noverna for Politis, 7–23 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-04-23-Noverna.html#seats</link>
@@ -549,6 +559,6 @@
       <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
       <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
     </item>
-    <dc:date>2021-05-07T18:52:03.560172+02:00</dc:date>
+    <dc:date>2021-05-14T18:57:29.962016+02:00</dc:date>
   </channel>
 </rss>
