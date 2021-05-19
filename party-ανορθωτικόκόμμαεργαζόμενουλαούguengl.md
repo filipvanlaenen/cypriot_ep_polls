@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 22.0–26.8% | 21.5–27.7% | 21.0–28.5% | 20.2–30.0% |
+| N/A | [Poll Average](average.html) | 23.7% | 21.8–25.8% | 21.3–26.4% | 20.8–26.9% | 20.0–28.1% |
+| [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 24.8% | 22.9–26.9% | 22.3–27.5% | 21.8–28.0% | 20.9–29.0% |
+| [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 22.9% | 21.4–24.5% | 21.0–25.0% | 20.6–25.4% | 19.9–26.2% |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 26.9% | 24.9–29.1% | 24.4–29.7% | 23.9–30.2% | 22.9–31.3% |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.3–25.4% | 19.5–26.3% |
@@ -56,20 +58,18 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 1.0% | 99.9% |  |
-| 20.5–21.5% | 4% | 98.9% |  |
-| 21.5–22.5% | 11% | 95% |  |
-| 22.5–23.5% | 19% | 83% |  |
-| 23.5–24.5% | 23% | 64% | Median |
-| 24.5–25.5% | 18% | 41% |  |
-| 25.5–26.5% | 11% | 23% |  |
-| 26.5–27.5% | 6% | 12% |  |
-| 27.5–28.5% | 3% | 6% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.6% | 0.8% |  |
-| 30.5–31.5% | 0.2% | 0.2% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 1.3% | 99.8% |  |
+| 20.5–21.5% | 6% | 98% |  |
+| 21.5–22.5% | 15% | 92% |  |
+| 22.5–23.5% | 23% | 77% |  |
+| 23.5–24.5% | 24% | 54% | Median |
+| 24.5–25.5% | 17% | 29% |  |
+| 25.5–26.5% | 8% | 13% |  |
+| 26.5–27.5% | 3% | 4% |  |
+| 27.5–28.5% | 0.8% | 1.1% |  |
+| 28.5–29.5% | 0.2% | 0.2% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -80,7 +80,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 2 | 2 | 2 | 2 | 1–2 |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -110,8 +112,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 40% | 100% |  |
-| 2 | 60% | 60% | Median |
+| 1 | 57% | 100% | Median |
+| 2 | 43% | 43% |  |
 | 3 | 0% | 0% |  |
 
 
