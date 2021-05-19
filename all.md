@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΥΠΟΛ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ | ΕΔΕΚ–ΣΥΠΟΛ | ΑΝΕΞ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 23–29% <br> 1–2 | 22–28% <br> 1–2 | 9–13% <br> 1 | 7–11% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 0–1 | 1–2% <br> 0 | 3–6% <br> 0 | 4–8% <br> 0–1 | 3–6% <br> 0 |
+| [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 23–28% <br> 1–2 | 21–26% <br> 1–2 | 11–15% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–1 | 2–4% <br> 0 | 3–5% <br> 0 | 4–7% <br> 0–1 | 2–5% <br> 0 |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 23–28% <br> 1–2 | 21–25% <br> 1–2 | 10–14% <br> 1 | 6–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 0–1 | 2–4% <br> 0 | 3–5% <br> 0 | 4–7% <br> 0 | 3–5% <br> 0 |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 25–32% <br> 2 | 24–30% <br> 2 | 11–16% <br> 1 | 5–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 0–1 | 0–2% <br> 0 | 2–5% <br> 0 | 5–8% <br> 0–1 | 2–5% <br> 0 |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 23–29% <br> 1–2 | 20–25% <br> 1–2 | 12–16% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | 5–9% <br> 0–1 | 5–8% <br> 0–1 |
