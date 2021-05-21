@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 19 May 2021 16:58:50 +0200</pubDate>
+    <pubDate>Fri, 21 May 2021 15:29:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Noverna for Politis, 5–13 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-13-Noverna.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Wed, 19 May 2021 16:47:15 +0200</pubDate>
       <dc:date>2021-05-19T16:47:15.506484+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CYMAR for ANT1, 4–12 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-12-CYMAR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλληλεγγύη (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-12-CYMAR-seats.png"
+        length="288697"
+        type="image/png"/>
+      <pubDate>Fri, 21 May 2021 15:29:58 +0200</pubDate>
+      <dc:date>2021-05-21T15:29:58.608215+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CYMAR for ANT1, 4–12 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-12-CYMAR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-12-CYMAR-coalitions-seats.png"
+        length="207318"
+        type="image/png"/>
+      <pubDate>Fri, 21 May 2021 15:29:58 +0200</pubDate>
+      <dc:date>2021-05-21T15:29:58.608215+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CYMAR for ANT1, 4–12 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-12-CYMAR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 24.4–29.6%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 20.6–25.5%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 12.4–16.5%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 4.9–7.8%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 5.7–8.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλληλεγγύη (ECR): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&amp;amp;D): 4.8–7.6%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι (*): 2.6–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-12-CYMAR.png"
+        length="348046"
+        type="image/png"/>
+      <pubDate>Fri, 21 May 2021 15:29:58 +0200</pubDate>
+      <dc:date>2021-05-21T15:29:58.608215+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse for Alpha TV, 4–7 May 2021 – Seat Projections for the Parties</title>
@@ -639,6 +669,6 @@
       <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
       <dc:date>2020-05-25T19:33:11.66617+02:00</dc:date>
     </item>
-    <dc:date>2021-05-19T16:58:50.96106+02:00</dc:date>
+    <dc:date>2021-05-21T15:29:58.608215+02:00</dc:date>
   </channel>
 </rss>
