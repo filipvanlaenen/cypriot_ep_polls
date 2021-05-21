@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.2–3.3% | 1.1–3.6% | 0.9–3.8% | 0.7–4.2% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.2–3.3% | 1.1–3.5% | 1.0–3.8% | 0.7–4.2% |
 | [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 1.3% | 0.9–2.1% | 0.8–2.3% | 0.7–2.4% | 0.6–2.8% |
 | [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [4–12 May 2021](2021-05-12-CYMAR.html) | CYMAR <br> ANT1 | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.6% | 0.9–2.9% |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 2.9% | 2.4–3.6% | 2.2–3.9% | 2.1–4.0% | 1.9–4.4% |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 0.9% | 0.6–1.6% | 0.5–1.8% | 0.5–1.9% | 0.3–2.3% |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
@@ -40,10 +41,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 25% | 99.9% |  |
-| 1.5–2.5% | 34% | 75% | Median |
-| 2.5–3.5% | 35% | 41% |  |
-| 3.5–4.5% | 6% | 6% |  |
+| 0.5–1.5% | 26% | 99.9% |  |
+| 1.5–2.5% | 40% | 74% | Median |
+| 2.5–3.5% | 30% | 35% |  |
+| 3.5–4.5% | 5% | 5% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -59,6 +60,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 0 | 0 | 0 | 0 | 0 |
 | [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 0 | 0 | 0 | 0 | 0 |
+| [4–12 May 2021](2021-05-12-CYMAR.html) | CYMAR <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 0 | 0 | 0 | 0 | 0 |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 0 | 0 | 0 | 0 | 0 |
