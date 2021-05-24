@@ -10,27 +10,32 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.1% | 10.8–15.0% | 10.1–15.5% | 9.6–15.9% | 8.7–16.7% |
+| N/A | [Poll Average](average.html) | 12.7% | 10.8–14.6% | 10.2–15.2% | 9.7–15.6% | 8.8–16.5% |
+| [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–14.9% | 10.3–15.6% |
+| [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 12.8% | 11.4–14.5% | 10.9–15.0% | 10.6–15.4% | 9.9–16.3% |
+| [10–18 May 2021](2021-05-18-Cypronetwork.html) | Cypronetwork <br> Omega TV | 12.4% | 11.2–13.7% | 10.9–14.1% | 10.6–14.5% | 10.1–15.1% |
+| [5–15 May 2021](2021-05-15-IMRUNic.html) | IMR/UNic <br> CyBC | 11.9% | 10.8–13.3% | 10.4–13.6% | 10.2–14.0% | 9.6–14.6% |
+| [10–14 May 2021](2021-05-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 13.3% | 11.9–15.0% | 11.5–15.4% | 11.2–15.8% | 10.5–16.6% |
 | [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 10.7% | 9.3–12.2% | 9.0–12.7% | 8.7–13.1% | 8.1–13.9% |
 | [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [4–12 May 2021](2021-05-12-CYMAR.html) | CYMAR <br> ANT1 | 14.3% | 13.1–15.8% | 12.7–16.2% | 12.4–16.5% | 11.8–17.2% |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 12.1% | 10.9–13.4% | 10.6–13.7% | 10.4–14.1% | 9.8–14.7% |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 12.9% | 11.5–14.6% | 11.1–15.1% | 10.7–15.5% | 10.1–16.4% |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.1% |
-| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 13.4% | 12.2–14.9% | 11.8–15.3% | 11.5–15.6% | 10.9–16.3% |
-| [31 March–16 April 2021](2021-04-16-IMR.html) | IMR <br> University of Nicosia | 13.6% | 12.5–14.8% | 12.1–15.2% | 11.9–15.5% | 11.4–16.1% |
+| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 13.4% | 12.2–14.9% | 11.8–15.3% | 11.5–15.6% | 10.9–16.3% |
+| [31 March–16 April 2021](2021-04-16-IMRUNic.html) | IMR/UNic <br> CyBC | 13.6% | 12.5–14.8% | 12.1–15.2% | 11.9–15.5% | 11.4–16.1% |
 | [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 14.5% | 13.0–16.2% | 12.6–16.7% | 12.2–17.1% | 11.6–18.0% |
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 12.0% | 10.7–13.4% | 10.4–13.8% | 10.1–14.1% | 9.5–14.8% |
 | [9 March–4 April 2021](2021-04-04-Conread.html) | Conread <br> CyprusNews | 14.1% | 12.7–15.8% | 12.3–16.3% | 11.9–16.7% | 11.3–17.5% |
 | [21–30 March 2021](2021-03-30-Cypronetwork.html) | Cypronetwork <br> Ὁ Φιλελεύθερος | 13.1% | 11.8–14.6% | 11.5–15.0% | 11.1–15.3% | 10.6–16.1% |
-| [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 14.4% | 13.3–15.7% | 12.9–16.0% | 12.7–16.3% | 12.1–16.9% |
+| [8–20 March 2021](2021-03-20-IMRUNic.html) | IMR/UNic <br> CyBC | 14.4% | 13.3–15.7% | 12.9–16.0% | 12.7–16.3% | 12.1–16.9% |
 | [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
-| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.2% | 10.6–15.9% |
+| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.2% | 10.6–15.9% |
 | [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 13.6% | 12.2–15.3% | 11.8–15.8% | 11.4–16.2% | 10.8–17.0% |
 | [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 15.1% | 13.6–16.9% | 13.2–17.3% | 12.8–17.8% | 12.1–18.6% |
-| [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 13.5% | 12.2–14.9% | 11.9–15.3% | 11.6–15.6% | 11.0–16.3% |
+| [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 13.5% | 12.2–14.9% | 11.9–15.3% | 11.6–15.6% | 11.0–16.3% |
 | [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 12.1% | 10.6–13.8% | 10.2–14.3% | 9.9–14.7% | 9.2–15.5% |
-| [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 13.2% | 12.0–14.7% | 11.6–15.1% | 11.3–15.4% | 10.7–16.1% |
+| [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 13.2% | 12.0–14.7% | 11.6–15.1% | 11.3–15.4% | 10.7–16.1% |
 | [19–25 June 2020](2020-06-25-Symmetron.html) | Symmetron | 14.7% | 13.0–16.7% | 12.5–17.2% | 12.1–17.7% | 11.3–18.7% |
 | [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 5.2% | 4.6–5.9% | 4.5–6.1% | 4.3–6.2% | 4.1–6.6% |
 
@@ -51,15 +56,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0.3% | 100% |  |
 | 8.5–9.5% | 2% | 99.7% |  |
 | 9.5–10.5% | 6% | 98% |  |
-| 10.5–11.5% | 11% | 92% |  |
-| 11.5–12.5% | 17% | 81% |  |
-| 12.5–13.5% | 24% | 64% | Median |
-| 13.5–14.5% | 23% | 40% |  |
-| 14.5–15.5% | 12% | 17% |  |
-| 15.5–16.5% | 4% | 4% |  |
-| 16.5–17.5% | 0.6% | 0.7% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 10.5–11.5% | 14% | 92% |  |
+| 11.5–12.5% | 24% | 78% |  |
+| 12.5–13.5% | 25% | 54% | Median |
+| 13.5–14.5% | 17% | 28% |  |
+| 14.5–15.5% | 8% | 11% |  |
+| 15.5–16.5% | 2% | 3% |  |
+| 16.5–17.5% | 0.4% | 0.4% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,26 +75,31 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
+| [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 1 |
+| [10–18 May 2021](2021-05-18-Cypronetwork.html) | Cypronetwork <br> Omega TV | 1 | 1 | 1 | 1 | 1 |
+| [5–15 May 2021](2021-05-15-IMRUNic.html) | IMR/UNic <br> CyBC | 1 | 1 | 1 | 1 | 1 |
+| [10–14 May 2021](2021-05-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
 | [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 1 | 1 | 1 | 1 | 1 |
 | [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 1 | 1 | 1 | 1 | 1 |
 | [4–12 May 2021](2021-05-12-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1 |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 1 | 1 | 1 | 1 | 1 |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 1 | 1 | 1 | 1 | 1 |
-| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 1 | 1 | 1 | 1 | 1 |
-| [31 March–16 April 2021](2021-04-16-IMR.html) | IMR <br> University of Nicosia | 1 | 1 | 1 | 1 | 1 |
+| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
+| [31 March–16 April 2021](2021-04-16-IMRUNic.html) | IMR/UNic <br> CyBC | 1 | 1 | 1 | 1 | 1 |
 | [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 1 |
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1 |
 | [9 March–4 April 2021](2021-04-04-Conread.html) | Conread <br> CyprusNews | 1 | 1 | 1 | 1 | 1 |
 | [21–30 March 2021](2021-03-30-Cypronetwork.html) | Cypronetwork <br> Ὁ Φιλελεύθερος | 1 | 1 | 1 | 1 | 1 |
-| [8–20 March 2021](2021-03-20-IMR.html) | IMR <br> University of Nicosia | 1 | 1 | 1 | 1 | 1 |
+| [8–20 March 2021](2021-03-20-IMRUNic.html) | IMR/UNic <br> CyBC | 1 | 1 | 1 | 1 | 1 |
 | [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
-| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 1 | 1 | 1 | 1 | 1 |
+| [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
 | [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 1 | 1 | 1 | 1 | 1 |
 | [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 1 |
-| [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 1 | 1 | 1 | 1 | 1 |
+| [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
 | [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 1 | 1 | 1 | 1 | 1 |
-| [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Τηλεόραση ΣΙΓΜΑ | 1 | 1 | 1 | 1 | 1 |
+| [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
 | [19–25 June 2020](2020-06-25-Symmetron.html) | Symmetron | 1 | 1 | 1 | 1 | 1 |
 | [13–14 May 2020](2020-05-14-RetailZoom.html) | RetailZoom <br> Politis | 0 | 0 | 0 | 0 | 0 |
 
