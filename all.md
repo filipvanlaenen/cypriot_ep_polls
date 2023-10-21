@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΥΠΟΛ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ | ΕΔΕΚ–ΣΥΠΟΛ | ΑΝΕΞ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 23–29% <br> 1–2 | 26–32% <br> 2 | 8–12% <br> 0–1 | 14–20% <br> 1 | 2–5% <br> 0 | N/A <br> N/A | 4–8% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 23–28% <br> 1–2 | 21–26% <br> 1–2 | 11–15% <br> 1 | 6–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 0–1 | 2–4% <br> 0 | 3–5% <br> 0 | 5–8% <br> 0–1 | 3–5% <br> 0 |
 | [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 22–29% <br> 1–2 | 20–27% <br> 1–2 | 11–15% <br> 1 | 5–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–1 | 1–4% <br> 0 | 4–7% <br> 0 | 4–8% <br> 0–1 | 2–5% <br> 0 |
 | [10–18 May 2021](2021-05-18-Cypronetwork.html) | Cypronetwork <br> Omega TV | 23–28% <br> 1–2 | 21–26% <br> 1–2 | 11–14% <br> 1 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 0–1 | 3–5% <br> 0 | 3–5% <br> 0 | 6–9% <br> 0–1 | 5–7% <br> 0–1 |
