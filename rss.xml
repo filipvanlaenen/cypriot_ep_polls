@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 29 May 2021 09:38:04 +0200</pubDate>
+    <pubDate>Sat, 21 Oct 2023 11:29:51 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IMR/UNic for Reporter, 18–22 September 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2023-09-22-IMRUNic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2023-09-22-IMRUNic-seats.png"
+        length="240404"
+        type="image/png"/>
+      <pubDate>Sat, 21 Oct 2023 11:29:51 +0200</pubDate>
+      <dc:date>2023-10-21T11:29:51.601484+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMR/UNic for Reporter, 18–22 September 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2023-09-22-IMRUNic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2023-09-22-IMRUNic-coalitions-seats.png"
+        length="232473"
+        type="image/png"/>
+      <pubDate>Sat, 21 Oct 2023 11:29:51 +0200</pubDate>
+      <dc:date>2023-10-21T11:29:51.601484+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMR/UNic for Reporter, 18–22 September 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2023-09-22-IMRUNic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 22.8–29.3%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 25.7–32.5%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 8.0–12.5%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (NI): 14.3–20.0%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 2.0–4.6%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 4.4–8.0%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0.5–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2023-09-22-IMRUNic.png"
+        length="307609"
+        type="image/png"/>
+      <pubDate>Sat, 21 Oct 2023 11:29:51 +0200</pubDate>
+      <dc:date>2023-10-21T11:29:51.601484+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse for Alpha TV, 17–21 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2021-05-21-Pulse.html#seats</link>
@@ -819,6 +849,6 @@
       <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
       <dc:date>2020-05-25T19:33:11+02:00</dc:date>
     </item>
-    <dc:date>2021-05-29T09:38:04+02:00</dc:date>
+    <dc:date>2023-10-21T11:29:51.601484+02:00</dc:date>
   </channel>
 </rss>
