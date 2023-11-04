@@ -16,14 +16,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 23.3% | 21.4–25.4% | 20.9–26.0% | 20.4–26.5% | 19.5–27.6% |
 | [10–18 May 2021](2021-05-18-Cypronetwork.html) | Cypronetwork <br> Omega TV | 23.4% | 21.9–25.1% | 21.4–25.6% | 21.0–26.0% | 20.3–26.8% |
 | [5–15 May 2021](2021-05-15-IMRUNic.html) | IMR/UNic <br> CyBC | 23.9% | 22.3–25.5% | 21.8–26.0% | 21.4–26.4% | 20.7–27.3% |
-| [10–14 May 2021](2021-05-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 23.6% | 21.7–25.5% | 21.2–26.1% | 20.8–26.6% | 19.9–27.6% |
+| [10–14 May 2021](2021-05-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 23.4% | 21.7–25.5% | 21.2–26.1% | 20.8–26.6% | 19.9–27.6% |
 | [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 24.8% | 22.9–26.9% | 22.3–27.5% | 21.8–28.0% | 20.9–29.0% |
 | [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
 | [4–12 May 2021](2021-05-12-CYMAR.html) | CYMAR <br> ANT1 | 22.9% | 21.4–24.6% | 20.9–25.1% | 20.6–25.5% | 19.8–26.3% |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 22.9% | 21.4–24.5% | 21.0–25.0% | 20.6–25.4% | 19.9–26.2% |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 26.9% | 24.9–29.1% | 24.4–29.7% | 23.9–30.2% | 22.9–31.3% |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.3–25.4% | 19.5–26.3% |
-| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 24.3% | 22.6–26.0% | 22.2–26.5% | 21.8–27.0% | 21.0–27.8% |
+| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 24.2% | 22.6–26.0% | 22.2–26.5% | 21.8–27.0% | 21.0–27.8% |
 | [31 March–16 April 2021](2021-04-16-IMRUNic.html) | IMR/UNic <br> CyBC | 24.5% | 23.1–26.0% | 22.7–26.4% | 22.3–26.8% | 21.6–27.6% |
 | [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 23.9% | 22.0–25.9% | 21.5–26.5% | 21.0–27.0% | 20.2–27.9% |
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 24.6% | 22.9–26.4% | 22.4–26.9% | 22.0–27.3% | 21.2–28.2% |

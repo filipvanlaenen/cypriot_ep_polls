@@ -23,7 +23,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 7.1% | 6.2–8.1% | 6.0–8.4% | 5.8–8.7% | 5.4–9.2% |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 6.5% | 5.5–7.8% | 5.2–8.2% | 5.0–8.5% | 4.5–9.2% |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
-| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
+| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 6.6% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [31 March–16 April 2021](2021-04-16-IMRUNic.html) | IMR/UNic <br> CyBC | 6.1% | 5.3–7.0% | 5.1–7.2% | 4.9–7.5% | 4.6–7.9% |
 | [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 5.8% | 4.8–6.9% | 4.6–7.3% | 4.3–7.6% | 3.9–8.2% |
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |

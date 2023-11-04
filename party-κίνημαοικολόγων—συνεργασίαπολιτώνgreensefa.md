@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–18 May 2021](2021-05-18-Cypronetwork.html) | Cypronetwork <br> Omega TV | 6.9% | 6.0–7.9% | 5.7–8.2% | 5.5–8.5% | 5.1–9.0% |
 | [5–15 May 2021](2021-05-15-IMRUNic.html) | IMR/UNic <br> CyBC | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.6–8.6% | 5.2–9.1% |
 | [10–14 May 2021](2021-05-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 5.4% | 4.5–6.5% | 4.2–6.9% | 4.0–7.1% | 3.6–7.7% |
-| [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 6.9% | 5.9–8.3% | 5.6–8.7% | 5.3–9.0% | 4.9–9.7% |
+| [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 7.1% | 5.9–8.3% | 5.6–8.7% | 5.3–9.0% | 4.9–9.7% |
 | [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [4–12 May 2021](2021-05-12-CYMAR.html) | CYMAR <br> ANT1 | 7.1% | 6.2–8.2% | 5.9–8.5% | 5.7–8.7% | 5.3–9.3% |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 7.1% | 6.2–8.1% | 6.0–8.4% | 5.8–8.7% | 5.4–9.2% |
@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.0% | 7.0–11.7% |
 | [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 8.2% | 7.1–9.6% | 6.8–10.0% | 6.5–10.4% | 6.0–11.1% |
-| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 8.2% | 7.1–9.6% | 6.8–10.0% | 6.5–10.4% | 6.0–11.1% |
+| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 8.3% | 7.1–9.6% | 6.8–10.0% | 6.5–10.4% | 6.0–11.1% |
 | [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 4.0% | 3.2–5.1% | 2.9–5.4% | 2.8–5.7% | 2.4–6.3% |
 | [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 6.0% | 5.2–7.1% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |

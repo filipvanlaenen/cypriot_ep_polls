@@ -16,14 +16,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 25.5% | 23.5–27.7% | 23.0–28.3% | 22.5–28.8% | 21.6–29.8% |
 | [10–18 May 2021](2021-05-18-Cypronetwork.html) | Cypronetwork <br> Omega TV | 25.2% | 23.6–26.9% | 23.1–27.4% | 22.7–27.8% | 22.0–28.6% |
 | [5–15 May 2021](2021-05-15-IMRUNic.html) | IMR/UNic <br> CyBC | 26.4% | 24.7–28.1% | 24.3–28.6% | 23.9–29.0% | 23.1–29.9% |
-| [10–14 May 2021](2021-05-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 25.9% | 24.0–27.9% | 23.5–28.5% | 23.0–29.0% | 22.1–30.0% |
+| [10–14 May 2021](2021-05-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 25.8% | 24.0–27.9% | 23.5–28.5% | 23.0–29.0% | 22.1–30.0% |
 | [5–13 May 2021](2021-05-13-Noverna.html) | Noverna <br> Politis | 26.1% | 24.2–28.3% | 23.6–28.9% | 23.1–29.4% | 22.2–30.4% |
 | [6–12 May 2021](2021-05-12-PrimeConsulting.html) | Prime Consulting <br> Cyprus Times | 25.6% | 23.9–27.4% | 23.4–28.0% | 23.0–28.4% | 22.2–29.3% |
 | [4–12 May 2021](2021-05-12-CYMAR.html) | CYMAR <br> ANT1 | 26.9% | 25.3–28.6% | 24.8–29.1% | 24.4–29.6% | 23.6–30.4% |
 | [4–7 May 2021](2021-05-07-Pulse.html) | Pulse <br> Alpha TV | 25.7% | 24.1–27.3% | 23.7–27.8% | 23.3–28.2% | 22.5–29.0% |
 | [7–23 April 2021](2021-04-23-Noverna.html) | Noverna <br> Politis | 28.4% | 26.4–30.6% | 25.8–31.2% | 25.3–31.7% | 24.3–32.8% |
 | [13–17 April 2021](2021-04-17-Cypronetwork.html) | Cypronetwork <br> Omega TV | 25.8% | 24.1–27.6% | 23.6–28.1% | 23.2–28.6% | 22.4–29.5% |
-| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 26.6% | 24.9–28.4% | 24.4–28.9% | 24.0–29.3% | 23.2–30.2% |
+| [12–16 April 2021](2021-04-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 26.5% | 24.9–28.4% | 24.4–28.9% | 24.0–29.3% | 23.2–30.2% |
 | [31 March–16 April 2021](2021-04-16-IMRUNic.html) | IMR/UNic <br> CyBC | 27.2% | 25.7–28.8% | 25.3–29.2% | 25.0–29.6% | 24.2–30.4% |
 | [2–9 April 2021](2021-04-09-Symmetron.html) | Symmetron <br> Η Καθημερινή | 26.4% | 24.4–28.4% | 23.9–29.0% | 23.4–29.5% | 22.5–30.5% |
 | [26 March–9 April 2021](2021-04-09-CYMAR.html) | CYMAR <br> ANT1 | 28.1% | 26.4–30.0% | 25.9–30.5% | 25.4–31.0% | 24.6–31.9% |
@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–18 March 2021](2021-03-18-Pulse.html) | Pulse <br> Alpha TV | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [8–12 March 2021](2021-03-12-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 26.3% | 24.6–28.1% | 24.1–28.6% | 23.7–29.0% | 22.9–29.9% |
 | [25 February–2 March 2021](2021-03-02-GPO.html) | GPO <br> Χαραυγή | 27.6% | 25.7–29.7% | 25.1–30.3% | 24.6–30.8% | 23.7–31.9% |
-| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 28.8% | 26.8–30.9% | 26.2–31.5% | 25.7–32.0% | 24.8–33.0% |
+| [12–19 February 2021](2021-02-19-Symmetron.html) | Symmetron <br> Η Καθημερινή | 28.7% | 26.8–30.9% | 26.2–31.5% | 25.7–32.0% | 24.8–33.0% |
 | [1–6 February 2021](2021-02-06-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 28.4% | 26.7–30.2% | 26.2–30.7% | 25.8–31.1% | 25.0–32.0% |
 | [20–25 January 2021](2021-01-25-Interview.html) | Interview <br> Politis | 30.1% | 27.9–32.4% | 27.3–33.0% | 26.8–33.6% | 25.8–34.7% |
 | [16–23 October 2020](2020-10-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 30.5% | 28.7–32.3% | 28.2–32.9% | 27.8–33.3% | 26.9–34.2% |
