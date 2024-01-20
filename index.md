@@ -2,12 +2,12 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΥΠΟΛ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ | ΕΔΕΚ–ΣΥΠΟΛ | ΑΝΕΞ |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–29% <br> 1–2 | 26–32% <br> 2 | 8–12% <br> 0–1 | 14–20% <br> 1 | 2–5% <br> 0 | N/A <br> N/A | 4–8% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 23–29% <br> 1–2 | 26–32% <br> 2 | 8–12% <br> 0–1 | 14–20% <br> 1 | 2–5% <br> 0 | N/A <br> N/A | 4–8% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΥΠΟΛ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ | ΕΔΕΚ–ΣΥΠΟΛ | ΑΝΕΞ | Βολτ | Βολτ–ΝΚ | ΕΠ–ΚΕΚΚ |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 23–29% <br> 1–2 | 25–31% <br> 2 | 8–12% <br> 1 | 15–20% <br> 1 | 2–5% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
+| [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 23–29% <br> 1–2 | 25–31% <br> 2 | 8–12% <br> 1 | 15–20% <br> 1 | 2–5% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
+| 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -17,7 +17,7 @@ Only polls for which at least the sample size has been published are included in
 + **ΔΗΣΥ:** Δημοκρατικός Συναγερμός (EPP)
 + **ΑΚΕΛ:** Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
 + **ΔΗΚΟ:** Δημοκρατικό Κόμμα (S&D)
-+ **ΕΛΑΜ:** Εθνικό Λαϊκό Μέτωπο (NI)
++ **ΕΛΑΜ:** Εθνικό Λαϊκό Μέτωπο (ECR)
 + **ΕΔΕΚ:** Κίνημα Σοσιαλδημοκρατών (S&D)
 + **ΣΥΠΟΛ:** Συμμαχία Πολιτών (RE)
 + **ΚΟ–ΣΠ:** Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
@@ -25,6 +25,9 @@ Only polls for which at least the sample size has been published are included in
 + **ΔΙΠΑ:** Δημοκρατική Παράταξη (RE)
 + **ΕΔΕΚ–ΣΥΠΟΛ:** Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)
 + **ΑΝΕΞ:** Ανεξάρτητοι (*)
++ **Βολτ:** Βολτ Κύπρος (Greens/EFA)
++ **Βολτ–ΝΚ:** Βολτ Κύπρος–Νέο Κύμα–Η Άλλη Κύπρος (Greens/EFA)
++ **ΕΠ–ΚΕΚΚ:** Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
