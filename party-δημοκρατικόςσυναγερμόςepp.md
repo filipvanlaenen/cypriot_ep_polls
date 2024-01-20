@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 23.9–28.2% | 23.3–28.8% | 22.8–29.3% | 21.9–30.4% |
+| N/A | [Poll Average](average.html) | 25.7% | 23.7–27.9% | 23.1–28.5% | 22.6–29.0% | 21.7–30.1% |
+| [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 25.7% | 23.7–27.9% | 23.1–28.5% | 22.6–29.0% | 21.7–30.1% |
 | [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 25.9% | 23.9–28.2% | 23.3–28.8% | 22.8–29.3% | 21.9–30.4% |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 25.5% | 23.9–27.3% | 23.4–27.8% | 23.0–28.2% | 22.2–29.1% |
 | [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 25.5% | 23.5–27.7% | 23.0–28.3% | 22.5–28.8% | 21.6–29.8% |
@@ -67,19 +68,18 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 1.4% | 99.7% |  |
-| 22.5–23.5% | 5% | 98% |  |
-| 23.5–24.5% | 12% | 93% |  |
-| 24.5–25.5% | 20% | 81% |  |
-| 25.5–26.5% | 24% | 61% | Median |
-| 26.5–27.5% | 19% | 37% |  |
-| 27.5–28.5% | 11% | 18% |  |
-| 28.5–29.5% | 5% | 7% |  |
-| 29.5–30.5% | 1.5% | 2% |  |
-| 30.5–31.5% | 0.3% | 0.4% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.3% | 100% |  |
+| 21.5–22.5% | 2% | 99.6% |  |
+| 22.5–23.5% | 6% | 98% |  |
+| 23.5–24.5% | 15% | 92% |  |
+| 24.5–25.5% | 22% | 77% |  |
+| 25.5–26.5% | 24% | 55% | Median |
+| 26.5–27.5% | 17% | 31% |  |
+| 27.5–28.5% | 9% | 14% |  |
+| 28.5–29.5% | 3% | 5% |  |
+| 29.5–30.5% | 0.9% | 1.1% |  |
+| 30.5–31.5% | 0.2% | 0.2% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -90,7 +90,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -129,8 +130,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 31% | 100% |  |
-| 2 | 69% | 69% | Median |
+| 1 | 7% | 100% |  |
+| 2 | 93% | 93% | Median |
 | 3 | 0% | 0% |  |
 
 
