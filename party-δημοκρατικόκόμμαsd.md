@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.4–11.3% | 8.1–11.7% | 7.8–12.1% | 7.2–12.9% |
+| N/A | [Poll Average](average.html) | 11.6% | 10.4–12.9% | 10.0–13.3% | 9.7–13.7% | 9.2–14.4% |
+| [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 11.6% | 10.3–12.9% | 10.0–13.3% | 9.7–13.7% | 9.2–14.4% |
 | [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 9.7% | 8.4–11.3% | 8.1–11.7% | 7.8–12.1% | 7.2–12.9% |
 | [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 10.0% | 8.7–11.6% | 8.3–12.1% | 8.0–12.5% | 7.4–13.3% |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–14.9% | 10.3–15.6% |
@@ -54,15 +55,16 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.3% | 100% |  |
-| 7.5–8.5% | 11% | 98.6% |  |
-| 8.5–9.5% | 29% | 88% |  |
-| 9.5–10.5% | 33% | 59% | Median |
-| 10.5–11.5% | 19% | 25% |  |
-| 11.5–12.5% | 5% | 7% |  |
-| 12.5–13.5% | 0.9% | 1.0% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 2% | 100% |  |
+| 9.5–10.5% | 12% | 98% |  |
+| 10.5–11.5% | 34% | 86% |  |
+| 11.5–12.5% | 34% | 52% | Median |
+| 12.5–13.5% | 15% | 18% |  |
+| 13.5–14.5% | 3% | 3% |  |
+| 14.5–15.5% | 0.3% | 0.3% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -74,6 +76,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
 | [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1 | 1 | 1 | 1 |
 | [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
@@ -112,8 +115,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 99.8% | 99.8% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 100% | 100% | Median |
 
 

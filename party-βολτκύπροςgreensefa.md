@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.6% | 1.2–2.8% | 1.1–3.1% | 0.9–3.5% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.6% |
+| [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 1.8% | 1.3–2.6% | 1.2–2.8% | 1.1–3.1% | 0.9–3.5% |
 | [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -47,12 +48,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 24% | 100% |  |
-| 1.5–2.5% | 64% | 76% | Median |
-| 2.5–3.5% | 12% | 12% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 60% | 99.9% | Median |
+| 1.5–2.5% | 39% | 40% |  |
+| 2.5–3.5% | 0.9% | 0.9% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -64,6 +64,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 0 | 0 | 0 | 0 | 0 |
 | [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 0 | 0 | 0 | 0 | 0 |
 | [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV |  |  |  |  |  |
