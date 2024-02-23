@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΥΠΟΛ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ | ΕΔΕΚ–ΣΥΠΟΛ | ΑΝΕΞ | Βολτ | Βολτ–ΝΚ | ΕΠ–ΚΕΚΚ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–29% <br> 1–2 | 25–31% <br> 2 | 8–12% <br> 1 | 15–20% <br> 1 | 2–5% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
-| [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 23–29% <br> 1–2 | 25–31% <br> 2 | 8–12% <br> 1 | 15–20% <br> 1 | 2–5% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 26–32% <br> 2 | 25–30% <br> 2 | 10–14% <br> 1 | 12–17% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 26–32% <br> 2 | 25–30% <br> 2 | 10–14% <br> 1 | 12–17% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
