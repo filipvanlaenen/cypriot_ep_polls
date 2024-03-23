@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 25.8–29.3% | 25.2–29.9% | 24.8–30.3% | 24.0–31.2% |
+| N/A | [Poll Average](average.html) | 27.5% | 24.8–30.1% | 24.0–30.8% | 23.4–31.4% | 22.2–32.6% |
+| [20–26 February 2024](2024-02-26-Pulse.html) | Pulse <br> Φ | 25.8% | 23.6–28.2% | 23.0–28.9% | 22.5–29.5% | 21.5–30.7% |
 | [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.3% | 24.0–31.2% |
-| [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 27.8% | 25.7–30.0% | 25.1–30.6% | 24.6–31.2% | 23.7–32.3% |
+| [11 February 2024](2024-02-11-Symmetron.html) | Symmetron <br> Η Καθημερινή | 29.0% | 27.0–31.1% | 26.4–31.7% | 26.0–32.3% | 25.0–33.3% |
 | [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 29.0% | 26.8–31.3% | 26.2–31.9% | 25.7–32.5% | 24.7–33.6% |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 23.4% | 21.8–25.2% | 21.4–25.7% | 21.0–26.1% | 20.2–26.9% |
 | [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 23.3% | 21.4–25.4% | 20.9–26.0% | 20.4–26.5% | 19.5–27.6% |
@@ -69,19 +70,21 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 1.4% | 99.8% |  |
-| 24.5–25.5% | 6% | 98% |  |
-| 25.5–26.5% | 17% | 92% |  |
-| 26.5–27.5% | 27% | 76% |  |
-| 27.5–28.5% | 26% | 49% | Median |
-| 28.5–29.5% | 16% | 23% |  |
-| 29.5–30.5% | 6% | 8% |  |
-| 30.5–31.5% | 1.5% | 2% |  |
-| 31.5–32.5% | 0.2% | 0.3% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 0.7% | 99.8% |  |
+| 22.5–23.5% | 2% | 99.1% |  |
+| 23.5–24.5% | 5% | 97% |  |
+| 24.5–25.5% | 9% | 92% |  |
+| 25.5–26.5% | 14% | 83% |  |
+| 26.5–27.5% | 19% | 68% |  |
+| 27.5–28.5% | 19% | 50% | Median |
+| 28.5–29.5% | 15% | 31% |  |
+| 29.5–30.5% | 9% | 16% |  |
+| 30.5–31.5% | 4% | 7% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.5% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -92,9 +95,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
+| [20–26 February 2024](2024-02-26-Pulse.html) | Pulse <br> Φ | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 2 | 2 | 2 | 2 | 2 |
-| [3–11 January 2024](2024-01-11-IMRUNic.html) | IMR/UNic <br> Reporter | 2 | 2 | 2 | 2 | 2 |
+| [11 February 2024](2024-02-11-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2 | 2 | 2 | 2 | 2 |
 | [18–22 September 2023](2023-09-22-IMRUNic.html) | IMR/UNic <br> Reporter | 2 | 2 | 2 | 2 | 1–2 |
 | [17–21 May 2021](2021-05-21-Pulse.html) | Pulse <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 May 2021](2021-05-20-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -133,7 +137,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 100% | 100% | Median |
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
+| 3 | 0% | 0% |  |
 
 
