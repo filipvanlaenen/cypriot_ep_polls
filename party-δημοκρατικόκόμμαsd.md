@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.7% | 10.1–13.8% | 9.7–14.4% | 9.4–15.0% | 8.7–16.1% |
+| N/A | [Poll Average](average.html) | 13.4% | 11.7–15.0% | 11.2–15.4% | 10.8–15.8% | 10.0–16.6% |
+| [14–23 March 2024](2024-03-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 13.7% | 12.5–15.1% | 12.1–15.5% | 11.8–15.9% | 11.2–16.6% |
 | [20–26 February 2024](2024-02-26-Pulse.html) | Pulse <br> Φ | 12.8% | 11.2–14.7% | 10.8–15.3% | 10.4–15.8% | 9.7–16.7% |
 | [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 11.6% | 10.3–12.9% | 10.0–13.3% | 9.7–13.7% | 9.2–14.4% |
 | [11 February 2024](2024-02-11-Symmetron.html) | Symmetron <br> Η Καθημερινή | 10.9% | 9.6–12.4% | 9.2–12.8% | 8.9–13.2% | 8.3–14.0% |
@@ -57,17 +58,18 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.3% | 100% |  |
-| 8.5–9.5% | 3% | 99.7% |  |
-| 9.5–10.5% | 14% | 96% |  |
-| 10.5–11.5% | 27% | 82% |  |
-| 11.5–12.5% | 26% | 55% | Median |
-| 12.5–13.5% | 17% | 29% |  |
-| 13.5–14.5% | 8% | 12% |  |
-| 14.5–15.5% | 3% | 4% |  |
-| 15.5–16.5% | 0.9% | 1.1% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 1.5% | 99.8% |  |
+| 10.5–11.5% | 7% | 98% |  |
+| 11.5–12.5% | 17% | 92% |  |
+| 12.5–13.5% | 29% | 75% | Median |
+| 13.5–14.5% | 28% | 45% |  |
+| 14.5–15.5% | 13% | 18% |  |
+| 15.5–16.5% | 4% | 4% |  |
+| 16.5–17.5% | 0.5% | 0.6% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -79,6 +81,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [14–23 March 2024](2024-03-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
 | [20–26 February 2024](2024-02-26-Pulse.html) | Pulse <br> Φ | 1 | 1 | 1 | 1 | 1 |
 | [12–16 February 2024](2024-02-16-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
 | [11 February 2024](2024-02-11-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 1 |
