@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.4% | 14.1–16.7% | 13.7–17.1% | 13.4–17.4% | 12.7–18.1% |
+| N/A | [Poll Average](average.html) | 15.4% | 14.2–16.7% | 13.8–17.1% | 13.5–17.4% | 12.9–18.1% |
+| [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 15.2% | 14.0–16.6% | 13.6–17.0% | 13.3–17.4% | 12.8–18.0% |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 15.6% | 14.4–16.8% | 14.1–17.2% | 13.8–17.5% | 13.3–18.1% |
 | [14–23 March 2024](2024-03-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 15.1% | 13.8–16.6% | 13.4–17.0% | 13.1–17.4% | 12.5–18.1% |
 | [20–26 February 2024](2024-02-26-Pulse.html) | Pulse <br> Φ | 14.7% | 13.0–16.7% | 12.5–17.2% | 12.1–17.7% | 11.3–18.7% |
@@ -63,11 +64,11 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 3% | 99.7% |  |
-| 13.5–14.5% | 17% | 96% |  |
-| 14.5–15.5% | 35% | 79% | Median |
-| 15.5–16.5% | 31% | 44% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 2% | 99.9% |  |
+| 13.5–14.5% | 16% | 97% |  |
+| 14.5–15.5% | 36% | 82% | Median |
+| 15.5–16.5% | 33% | 46% |  |
 | 16.5–17.5% | 11% | 13% |  |
 | 17.5–18.5% | 2% | 2% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
@@ -83,6 +84,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 1 | 1 | 1 | 1 | 1 |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1 |
 | [14–23 March 2024](2024-03-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
 | [20–26 February 2024](2024-02-26-Pulse.html) | Pulse <br> Φ | 1 | 1 | 1 | 1 | 1 |
