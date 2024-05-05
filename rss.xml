@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 26 Apr 2024 08:12:30 +0200</pubDate>
+    <pubDate>Sun, 05 May 2024 18:10:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Cypronetwork, 10–22 April 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-04-22-Cypronetwork.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Κόμμα για τα Ζώα Κύπρου (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-04-22-Cypronetwork-seats.png"
+        length="225013"
+        type="image/png"/>
+      <pubDate>Sun, 05 May 2024 18:10:03 +0200</pubDate>
+      <dc:date>2024-05-05T18:10:03.777648+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cypronetwork, 10–22 April 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-04-22-Cypronetwork.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-04-22-Cypronetwork-coalitions-seats.png"
+        length="124940"
+        type="image/png"/>
+      <pubDate>Sun, 05 May 2024 18:10:03 +0200</pubDate>
+      <dc:date>2024-05-05T18:10:03.777648+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cypronetwork, 10–22 April 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-04-22-Cypronetwork.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 2.7–4.8%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 25.0–30.0%&lt;/li&gt;&lt;li&gt;Κόμμα για τα Ζώα Κύπρου (GUE/NGL): 2.1–4.0%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 10.6–14.3%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0.9–2.2%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 2.7–4.8%&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 26.5–31.6%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 13.3–17.4%&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 2.7–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-04-22-Cypronetwork.png"
+        length="343673"
+        type="image/png"/>
+      <pubDate>Sun, 05 May 2024 18:10:03 +0200</pubDate>
+      <dc:date>2024-05-05T18:10:03.777648+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CYMAR for ANT1, 8–19 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-04-19-CYMAR.html#seats</link>
@@ -969,6 +999,6 @@
       <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
       <dc:date>2020-05-25T19:33:11+02:00</dc:date>
     </item>
-    <dc:date>2024-04-26T08:12:30.697084+02:00</dc:date>
+    <dc:date>2024-05-05T18:10:03.777648+02:00</dc:date>
   </channel>
 </rss>
