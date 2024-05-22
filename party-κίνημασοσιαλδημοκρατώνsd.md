@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 3.2–6.9% | 3.0–7.2% | 2.8–7.4% | 2.5–7.9% |
+| N/A | [Poll Average](average.html) | 5.8% | 3.4–6.7% | 3.1–7.0% | 2.9–7.3% | 2.6–7.8% |
+| [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 6.0% | 5.5–6.5% | 5.4–6.6% | 5.3–6.8% | 5.1–7.0% |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 6.3% | 5.6–7.2% | 5.4–7.4% | 5.2–7.7% | 4.9–8.1% |
 | [14–23 March 2024](2024-03-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 4.1% | 3.5–5.0% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
@@ -54,13 +55,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.5% | 100% |  |
-| 2.5–3.5% | 21% | 99.5% |  |
-| 3.5–4.5% | 26% | 78% |  |
-| 4.5–5.5% | 7% | 53% | Median |
-| 5.5–6.5% | 27% | 46% |  |
-| 6.5–7.5% | 17% | 19% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 14% | 99.6% |  |
+| 3.5–4.5% | 17% | 85% |  |
+| 4.5–5.5% | 8% | 68% |  |
+| 5.5–6.5% | 46% | 60% | Median |
+| 6.5–7.5% | 14% | 15% |  |
+| 7.5–8.5% | 1.1% | 1.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -73,6 +74,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 0 | 0 | 0 | 0–1 | 0–1 |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 0 | 0 | 0 | 0 | 0 |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–23 March 2024](2024-03-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 0 | 0 | 0 | 0 | 0 |
