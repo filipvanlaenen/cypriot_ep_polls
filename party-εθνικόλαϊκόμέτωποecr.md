@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 12.4–15.2% | 11.9–15.4% | 11.5–15.7% | 10.8–16.4% |
+| N/A | [Poll Average](average.html) | 14.0% | 12.6–15.1% | 12.1–15.3% | 11.7–15.6% | 11.0–16.2% |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 13.4% | 11.9–15.0% | 11.5–15.5% | 11.2–15.9% | 10.5–16.7% |
-| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 13.6% | N/A | N/A | N/A | N/A |
+| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 13.6% | 12.7–14.6% | 12.4–14.9% | 12.2–15.2% | 11.7–15.7% |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 14.5% | 13.8–15.2% | 13.6–15.4% | 13.5–15.6% | 13.2–16.0% |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 15.2% | 14.0–16.6% | 13.6–17.0% | 13.3–17.4% | 12.8–18.0% |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 15.6% | 14.4–16.8% | 14.1–17.2% | 13.8–17.5% | 13.3–18.1% |
@@ -66,13 +66,13 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.2% | 100% |  |
-| 10.5–11.5% | 2% | 99.7% |  |
-| 11.5–12.5% | 9% | 97% |  |
-| 12.5–13.5% | 17% | 89% |  |
-| 13.5–14.5% | 39% | 71% | Median |
-| 14.5–15.5% | 29% | 33% |  |
-| 15.5–16.5% | 4% | 4% |  |
-| 16.5–17.5% | 0.3% | 0.4% |  |
+| 10.5–11.5% | 2% | 99.8% |  |
+| 11.5–12.5% | 8% | 98% |  |
+| 12.5–13.5% | 24% | 90% |  |
+| 13.5–14.5% | 40% | 66% | Median |
+| 14.5–15.5% | 23% | 26% |  |
+| 15.5–16.5% | 3% | 3% |  |
+| 16.5–17.5% | 0.2% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -86,7 +86,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 1 |
-| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV |  |  |  |  |  |
+| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 1 | 1 | 1 | 1 | 1 |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 1 | 1 | 1 | 1 | 1 |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 1 | 1 | 1 | 1 | 1 |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1 |

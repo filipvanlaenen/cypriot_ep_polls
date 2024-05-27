@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.5–4.0% | 2.2–4.2% | 2.1–4.3% | 1.8–4.6% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.5–3.9% | 2.3–4.1% | 2.2–4.2% | 1.8–4.5% |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2.9% | 2.2–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
-| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 3.0% | N/A | N/A | N/A | N/A |
+| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 3.7% | 3.4–4.1% | 3.2–4.2% | 3.2–4.3% | 3.0–4.5% |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 1.6% | 1.3–2.1% | 1.2–2.3% | 1.1–2.4% | 1.0–2.7% |
@@ -57,10 +57,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 12% | 99.9% |  |
-| 2.5–3.5% | 44% | 88% | Median |
-| 3.5–4.5% | 44% | 44% |  |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 1.5–2.5% | 11% | 99.9% |  |
+| 2.5–3.5% | 56% | 89% | Median |
+| 3.5–4.5% | 32% | 33% |  |
+| 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -74,7 +74,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 0 | 0 | 0 | 0 | 0 |
-| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV |  |  |  |  |  |
+| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 0 | 0 | 0 | 0 | 0 |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 0 | 0 | 0 | 0 | 0 |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 0 | 0 | 0 | 0 | 0 |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
