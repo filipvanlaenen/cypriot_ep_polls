@@ -9,7 +9,7 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ΔΗΣΥ | ΑΚΕΛ | ΔΗΚΟ | ΕΛΑΜ | ΕΔΕΚ | ΣΥΠΟΛ | ΚΟ–ΣΠ | ΚΑ | ΔΙΠΑ | ΕΔΕΚ–ΣΥΠΟΛ | ΑΝΕΞ | Βολτ | Βολτ–ΝΚ | ΕΠ–ΚΕΚΚ | APC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 23–31% <br> 2 | 22–30% <br> 1–2 | 10–14% <br> 1 | 12–16% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0 | N/A <br> N/A | 3–4% <br> 0 | N/A <br> N/A |
+| N/A | Poll Average | 23–31% <br> 1–2 | 22–30% <br> 1–2 | 10–14% <br> 1 | 12–16% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0 | N/A <br> N/A | 3–4% <br> 0 | N/A <br> N/A |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 26–32% <br> 2 | 24–30% <br> 2 | 9–14% <br> 1 | 11–16% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 24–28% <br> 1–2 | 22–25% <br> 1–2 | 11–14% <br> 1 | 12–15% <br> 1 | 4–6% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 23–26% <br> 2 | 24–26% <br> 2 | 11–13% <br> 1 | 13–16% <br> 1 | 5–7% <br> 0–1 | N/A <br> N/A | 3–4% <br> 0 | N/A <br> N/A | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | 3–4% <br> 0 | N/A <br> N/A |
@@ -282,7 +282,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0 | 2 | 2 |2 | 2 | 1–2 |
+| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0 | 2 | 2 |2 | 1–2 | 1–2 |
 | <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0 | 1 | 1 |1 | 1 | 1 |
 | <a href="#εθνικό-λαϊκό-μέτωπο-(ecr)">Εθνικό Λαϊκό Μέτωπο (ECR)</a> | 0 | 1 | 1 |1 | 1 | 1 |
@@ -307,8 +307,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 98% | 98% | Median |
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
 | 3 | 0% | 0% |  |
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
@@ -320,8 +320,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 32% | 100% |  |
-| 2 | 68% | 68% | Median |
+| 1 | 31% | 100% |  |
+| 2 | 69% | 69% | Median |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D)
@@ -443,24 +443,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Δημοκρατικός Συναγερμός (EPP) | 0 | 2 | 0% | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) – Κόμμα για τα Ζώα Κύπρου (GUE/NGL) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Δημοκρατικός Συναγερμός (EPP) | 0 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D) – Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο (ECR) – Κίνημα Αλληλεγγύη (ECR) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Ανεξάρτητοι (*) – Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος (Greens/EFA) – Βολτ Κύπρος–Νέο Κύμα–Η Άλλη Κύπρος (Greens/EFA) – Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη (RE) – Συμμαχία Πολιτών (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-
-### Δημοκρατικός Συναγερμός (EPP)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-δησυ.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 98% | 98% | Median |
-| 3 | 0% | 0% |  |
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) – Κόμμα για τα Ζώα Κύπρου (GUE/NGL)
 
@@ -469,8 +458,19 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 32% | 100% |  |
-| 2 | 68% | 68% | Median |
+| 1 | 31% | 100% |  |
+| 2 | 69% | 69% | Median |
+| 3 | 0% | 0% |  |
+
+### Δημοκρατικός Συναγερμός (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-δησυ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D) – Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)
@@ -521,6 +521,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
-+ **Error estimate:** 1.30%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 6,291,456
++ **Error estimate:** 1.48%
