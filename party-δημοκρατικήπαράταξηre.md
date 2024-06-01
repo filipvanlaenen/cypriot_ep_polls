@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–5.2% | 2.6–5.6% | 2.5–6.0% | 2.3–6.6% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.0–4.8% | 1.7–5.4% | 1.5–5.7% | 1.3–6.5% |
+| [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
+| [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.6% | 1.8–3.9% |
+| [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
+| [17–24 May 2024](2024-05-24-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 2.6% | N/A | N/A | N/A | N/A |
 | [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 3.5% | 3.2–3.9% | 3.1–4.0% | 3.0–4.1% | 2.8–4.3% |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 1.4% | 1.0–1.9% | 0.9–2.1% | 0.9–2.2% | 0.7–2.5% |
@@ -56,13 +60,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 46% | 97% |  |
-| 3.5–4.5% | 29% | 51% | Median |
-| 4.5–5.5% | 15% | 21% |  |
-| 5.5–6.5% | 5% | 6% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 26% | 97% |  |
+| 2.5–3.5% | 47% | 72% | Median |
+| 3.5–4.5% | 12% | 25% |  |
+| 4.5–5.5% | 9% | 13% |  |
+| 5.5–6.5% | 3% | 4% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -75,7 +79,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 0 | 0 | 0 | 0 | 0 |
+| [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
+| [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 0 | 0 | 0 | 0 | 0 |
+| [17–24 May 2024](2024-05-24-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
 | [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 0 | 0 | 0 | 0 | 0 |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 0 | 0 | 0 | 0 | 0 |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 0 | 0 | 0 | 0 | 0 |
