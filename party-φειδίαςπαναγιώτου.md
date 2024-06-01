@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 2.7–8.9% | 2.4–9.3% | 2.1–9.7% | 1.8–10.3% |
+| N/A | [Poll Average](average.html) | 4.9% | 2.4–8.5% | 2.2–9.1% | 2.0–9.5% | 1.7–10.1% |
 | [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 3.8% | 3.1–4.6% | 3.0–4.8% | 2.8–5.0% | 2.5–5.4% |
 | [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 8.7% | 7.8–9.7% | 7.6–10.0% | 7.4–10.2% | 7.0–10.7% |
 | [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 2.8% | 2.1–3.6% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
-| [17–24 May 2024](2024-05-24-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 2.6% | N/A | N/A | N/A | N/A |
-| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 6.1% | N/A | N/A | N/A | N/A |
+| [17–24 May 2024](2024-05-24-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 2.6% | 2.0–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
+| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 6.1% | 5.5–6.8% | 5.3–7.1% | 5.1–7.2% | 4.8–7.6% |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 0.0% | N/A | N/A | N/A | N/A |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 0.0% | N/A | N/A | N/A | N/A |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -61,16 +61,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 8% | 99.9% |  |
-| 2.5–3.5% | 22% | 92% |  |
-| 3.5–4.5% | 18% | 70% |  |
-| 4.5–5.5% | 8% | 52% | Median |
-| 5.5–6.5% | 15% | 45% |  |
-| 6.5–7.5% | 6% | 30% |  |
-| 7.5–8.5% | 9% | 24% |  |
-| 8.5–9.5% | 12% | 15% |  |
-| 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 12% | 99.9% |  |
+| 2.5–3.5% | 23% | 88% |  |
+| 3.5–4.5% | 12% | 64% |  |
+| 4.5–5.5% | 7% | 52% | Median |
+| 5.5–6.5% | 21% | 44% |  |
+| 6.5–7.5% | 7% | 24% |  |
+| 7.5–8.5% | 6% | 16% |  |
+| 8.5–9.5% | 8% | 10% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -87,8 +87,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 0 | 0 | 0 | 0 | 0 |
-| [17–24 May 2024](2024-05-24-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
-| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV |  |  |  |  |  |
+| [17–24 May 2024](2024-05-24-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 0 | 0 | 0 | 0 | 0 |
+| [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times |  |  |  |  |  |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |
@@ -133,8 +133,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 24% | 24% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 
