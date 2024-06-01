@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 01 Jun 2024 15:18:50 +0200</pubDate>
+    <pubDate>Sat, 01 Jun 2024 21:22:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Cypronetwork for CyBC, 22–28 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-28-Cypronetwork.html#seats</link>
@@ -128,6 +128,66 @@
         type="image/png"/>
       <pubDate>Sat, 01 Jun 2024 15:18:50 +0200</pubDate>
       <dc:date>2024-06-01T15:18:50.794541+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prime Consulting for Sigma TV, 17–24 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-24-PrimeConsulting.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Φειδίας Παναγιώτου (*): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-24-PrimeConsulting-seats.png"
+        length="224273"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 20:59:44 +0200</pubDate>
+      <dc:date>2024-06-01T20:59:44.715027+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prime Consulting for Sigma TV, 17–24 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-24-PrimeConsulting.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-24-PrimeConsulting-coalitions-seats.png"
+        length="132840"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 20:59:44 +0200</pubDate>
+      <dc:date>2024-06-01T20:59:44.715027+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prime Consulting for Sigma TV, 17–24 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-24-PrimeConsulting.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 11.6–15.7%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 26.4–31.8%&lt;/li&gt;&lt;li&gt;Φειδίας Παναγιώτου (*): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 25.1–30.4%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 11.1–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-24-PrimeConsulting.png"
+        length="348182"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 20:59:44 +0200</pubDate>
+      <dc:date>2024-06-01T20:59:44.715027+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse for Omega TV, 16–22 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-22-Pulse.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Φειδίας Παναγιώτου (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-22-Pulse-seats.png"
+        length="249797"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 21:22:11 +0200</pubDate>
+      <dc:date>2024-06-01T21:22:11.910037+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse for Omega TV, 16–22 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-22-Pulse.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-22-Pulse-coalitions-seats.png"
+        length="212193"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 21:22:11 +0200</pubDate>
+      <dc:date>2024-06-01T21:22:11.910037+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse for Omega TV, 16–22 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-22-Pulse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 12.2–15.2%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 3.7–5.5%&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 23.9–27.8%&lt;/li&gt;&lt;li&gt;Φειδίας Παναγιώτου (*): 5.1–7.2%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 4.4–6.4%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 21.7–25.4%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 10.7–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-22-Pulse.png"
+        length="334917"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 21:22:11 +0200</pubDate>
+      <dc:date>2024-06-01T21:22:11.910037+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prime Consulting for Sigma TV, 14–23 March 2024 – Seat Projections for the Parties</title>
@@ -1059,6 +1119,6 @@
       <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
       <dc:date>2020-05-25T19:33:11+02:00</dc:date>
     </item>
-    <dc:date>2024-06-01T15:18:50.794541+02:00</dc:date>
+    <dc:date>2024-06-01T21:22:11.910037+02:00</dc:date>
   </channel>
 </rss>
