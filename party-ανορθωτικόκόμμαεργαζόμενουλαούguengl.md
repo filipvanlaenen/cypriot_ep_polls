@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 23.2–28.6% | 22.7–29.2% | 22.3–29.7% | 21.6–30.7% |
+| N/A | [Poll Average](average.html) | 26.2% | 23.3–28.8% | 22.8–29.4% | 22.4–30.0% | 21.6–31.0% |
+| [27–30 May 2024](2024-05-30-IMRUNic.html) | IMR/UNic <br> Reporter | 27.8% | 26.0–29.7% | 25.5–30.2% | 25.1–30.7% | 24.3–31.6% |
 | [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 27.1% | 25.5–28.8% | 25.0–29.2% | 24.6–29.7% | 23.9–30.5% |
 | [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 25.2% | 23.9–26.7% | 23.5–27.1% | 23.1–27.4% | 22.5–28.2% |
 | [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 24.0% | 22.6–25.5% | 22.2–25.9% | 21.9–26.2% | 21.3–26.9% |
@@ -81,17 +82,17 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.4% | 100% |  |
-| 21.5–22.5% | 4% | 99.5% |  |
-| 22.5–23.5% | 11% | 96% |  |
-| 23.5–24.5% | 16% | 85% |  |
-| 24.5–25.5% | 15% | 69% |  |
-| 25.5–26.5% | 15% | 53% | Median |
-| 26.5–27.5% | 15% | 38% |  |
-| 27.5–28.5% | 12% | 22% |  |
-| 28.5–29.5% | 7% | 10% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.6% | 0.7% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 3% | 99.6% |  |
+| 22.5–23.5% | 10% | 96% |  |
+| 23.5–24.5% | 14% | 87% |  |
+| 24.5–25.5% | 14% | 73% |  |
+| 25.5–26.5% | 15% | 59% | Median |
+| 26.5–27.5% | 17% | 44% |  |
+| 27.5–28.5% | 14% | 27% |  |
+| 28.5–29.5% | 9% | 13% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 0.9% | 1.0% |  |
+| 31.5–32.5% | 0.1% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -104,6 +105,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27–30 May 2024](2024-05-30-IMRUNic.html) | IMR/UNic <br> Reporter | 2 | 2 | 2 | 2 | 1–2 |
 | [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 2 | 2 | 2 | 2 | 2 |
 | [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -155,8 +157,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 18% | 100% |  |
-| 2 | 82% | 82% | Median |
+| 1 | 16% | 100% |  |
+| 2 | 84% | 84% | Median |
 | 3 | 0% | 0% |  |
 
 

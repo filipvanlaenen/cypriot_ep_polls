@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 0.8–2.3% | 0.7–2.5% | 0.6–2.7% | 0.5–3.0% |
+| [27–30 May 2024](2024-05-30-IMRUNic.html) | IMR/UNic <br> Reporter | 0.0% | N/A | N/A | N/A | N/A |
 | [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
 | [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
 | [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -75,6 +76,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27–30 May 2024](2024-05-30-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
 | [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 0 | 0 | 0 | 0 | 0 |
 | [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |

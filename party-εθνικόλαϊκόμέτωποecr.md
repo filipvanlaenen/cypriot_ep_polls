@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 12.0–14.7% | 11.7–15.1% | 11.3–15.5% | 10.8–16.3% |
+| N/A | [Poll Average](average.html) | 13.4% | 12.0–14.8% | 11.7–15.2% | 11.4–15.6% | 10.8–16.3% |
+| [27–30 May 2024](2024-05-30-IMRUNic.html) | IMR/UNic <br> Reporter | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 13.8% | 12.6–15.2% | 12.3–15.6% | 12.0–15.9% | 11.4–16.6% |
 | [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 12.5% | 11.5–13.6% | 11.2–13.9% | 10.9–14.2% | 10.5–14.8% |
 | [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 13.0% | 11.9–14.2% | 11.6–14.5% | 11.4–14.8% | 10.9–15.4% |
@@ -72,11 +73,11 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0.2% | 100% |  |
 | 10.5–11.5% | 4% | 99.8% |  |
 | 11.5–12.5% | 18% | 96% |  |
-| 12.5–13.5% | 36% | 78% | Median |
-| 13.5–14.5% | 29% | 42% |  |
-| 14.5–15.5% | 10% | 13% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.2% | 0.3% |  |
+| 12.5–13.5% | 35% | 78% | Median |
+| 13.5–14.5% | 30% | 43% |  |
+| 14.5–15.5% | 11% | 14% |  |
+| 15.5–16.5% | 2% | 3% |  |
+| 16.5–17.5% | 0.3% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -89,6 +90,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [27–30 May 2024](2024-05-30-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1 | 1 | 1 | 1 |
 | [22–28 May 2024](2024-05-28-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1 | 1 | 1 | 1 |
 | [20–25 May 2024](2024-05-25-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
 | [13–25 May 2024](2024-05-25-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1 |
