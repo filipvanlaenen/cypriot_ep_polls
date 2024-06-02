@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–24 May 2024](2024-05-24-Symmetron.html) | Symmetron <br> Η Καθημερινή | 13.4% | 11.9–15.0% | 11.5–15.5% | 11.2–15.9% | 10.5–16.7% |
 | [17–24 May 2024](2024-05-24-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 13.5% | 12.2–14.9% | 11.9–15.3% | 11.6–15.7% | 11.0–16.3% |
 | [16–22 May 2024](2024-05-22-Pulse.html) | Pulse <br> Omega TV | 13.6% | 12.7–14.6% | 12.4–14.9% | 12.2–15.2% | 11.7–15.7% |
-| [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 14.5% | 13.7–15.2% | 13.6–15.5% | 13.4–15.6% | 13.2–16.0% |
+| [9–14 May 2024](2024-05-14-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 14.5% | 13.8–15.2% | 13.6–15.4% | 13.5–15.6% | 13.2–16.0% |
 | [10–22 April 2024](2024-04-22-Cypronetwork.html) | Cypronetwork | 15.2% | 14.0–16.6% | 13.6–17.0% | 13.3–17.4% | 12.8–18.0% |
 | [8–19 April 2024](2024-04-19-CYMAR.html) | CYMAR <br> ANT1 | 15.6% | 14.4–16.8% | 14.1–17.2% | 13.8–17.5% | 13.3–18.1% |
 | [14–23 March 2024](2024-03-23-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 15.1% | 13.8–16.6% | 13.4–17.0% | 13.1–17.4% | 12.5–18.1% |
