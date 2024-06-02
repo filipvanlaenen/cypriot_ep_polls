@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 01 Jun 2024 23:36:28 +0200</pubDate>
+    <pubDate>Sun, 02 Jun 2024 08:57:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Cypronetwork for CyBC, 22–28 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-28-Cypronetwork.html#seats</link>
@@ -188,6 +188,36 @@
         type="image/png"/>
       <pubDate>Sat, 01 Jun 2024 23:36:28 +0200</pubDate>
       <dc:date>2024-06-01T23:36:28.093611+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Analytica Market Research for Cyprus Times, 9–14 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-14-AnalyticaMarketResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-14-AnalyticaMarketResearch-seats.png"
+        length="246056"
+        type="image/png"/>
+      <pubDate>Sun, 02 Jun 2024 08:57:16 +0200</pubDate>
+      <dc:date>2024-06-02T08:57:16.928692+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Analytica Market Research for Cyprus Times, 9–14 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-14-AnalyticaMarketResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-14-AnalyticaMarketResearch-coalitions-seats.png"
+        length="161024"
+        type="image/png"/>
+      <pubDate>Sun, 02 Jun 2024 08:57:16 +0200</pubDate>
+      <dc:date>2024-06-02T08:57:16.928692+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Analytica Market Research for Cyprus Times, 9–14 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-14-AnalyticaMarketResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 13.5–15.6%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 5.3–6.8%&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 23.0–25.6%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 3.0–4.1%&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 3.3–4.5%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 23.6–26.2%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 3.2–4.3%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 11.0–12.9%&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 2.8–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-05-14-AnalyticaMarketResearch.png"
+        length="341138"
+        type="image/png"/>
+      <pubDate>Sun, 02 Jun 2024 08:57:16 +0200</pubDate>
+      <dc:date>2024-06-02T08:57:16.928692+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prime Consulting for Sigma TV, 14–23 March 2024 – Seat Projections for the Parties</title>
@@ -1119,6 +1149,6 @@
       <pubDate>Mon, 25 May 2020 19:33:11 +0200</pubDate>
       <dc:date>2020-05-25T19:33:11+02:00</dc:date>
     </item>
-    <dc:date>2024-06-01T23:36:28.093611+02:00</dc:date>
+    <dc:date>2024-06-02T08:57:16.928692+02:00</dc:date>
   </channel>
 </rss>
