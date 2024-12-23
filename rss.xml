@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 18 Nov 2024 21:29:05 +0100</pubDate>
+    <pubDate>Mon, 23 Dec 2024 11:57:54 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by RAI Consultants for Alpha TV, 21 October–1 November 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-11-01-RAIConsultants.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κόμμα για τα Ζώα Κύπρου (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Φειδίας Παναγιώτου (*): 0 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-11-01-RAIConsultants-seats.png"
+        length="310329"
+        type="image/png"/>
+      <pubDate>Mon, 23 Dec 2024 11:57:54 +0100</pubDate>
+      <dc:date>2024-12-23T11:57:54.000754+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RAI Consultants for Alpha TV, 21 October–1 November 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-11-01-RAIConsultants.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-11-01-RAIConsultants-coalitions-seats.png"
+        length="196946"
+        type="image/png"/>
+      <pubDate>Mon, 23 Dec 2024 11:57:54 +0100</pubDate>
+      <dc:date>2024-12-23T11:57:54.000754+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RAI Consultants for Alpha TV, 21 October–1 November 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-11-01-RAIConsultants.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κόμμα για τα Ζώα Κύπρου (GUE/NGL): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 23.2–28.6%&lt;/li&gt;&lt;li&gt;Φειδίας Παναγιώτου (*): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 12.5–16.9%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 9.5–13.5%&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 4.4–7.3%&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 25.2–30.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2024-11-01-RAIConsultants.png"
+        length="386419"
+        type="image/png"/>
+      <pubDate>Mon, 23 Dec 2024 11:57:54 +0100</pubDate>
+      <dc:date>2024-12-23T11:57:54.000754+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by RetailZoom, 14–16 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2024-10-16-RetailZoom.html#seats</link>
@@ -69,6 +99,6 @@
       <pubDate>Mon, 18 Nov 2024 21:29:05 +0100</pubDate>
       <dc:date>2024-11-18T21:29:05.646098+01:00</dc:date>
     </item>
-    <dc:date>2024-11-18T21:29:05.646098+01:00</dc:date>
+    <dc:date>2024-12-23T11:57:54.000754+01:00</dc:date>
   </channel>
 </rss>
