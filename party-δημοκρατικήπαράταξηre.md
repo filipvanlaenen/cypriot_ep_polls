@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 1.1–4.1% | 1.0–4.5% | 1.0–4.8% | 0.9–5.4% |
+| [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 1.2% | 1.0–1.5% | 0.9–1.5% | 0.9–1.6% | 0.8–1.7% |
 | [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 3.3% | 2.6–4.5% | 2.3–4.8% | 2.2–5.1% | 1.8–5.7% |
 
@@ -39,6 +40,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
 | [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 0 | 0 | 0 | 0 | 0 |
 | [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 0 | 0 | 0 | 0 | 0 |
 
