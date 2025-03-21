@@ -1,4 +1,4 @@
-# Εθνικό Λαϊκό Μέτωπο (ECR)
+# Οδυσσέας Μιχαηλίδης (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.9–18.3% | 14.4–18.8% | 14.0–19.2% | 13.3–20.1% |
-| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 16.5% | 14.9–18.3% | 14.4–18.8% | 14.0–19.2% | 13.3–20.1% |
-| [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 14.5% | N/A | N/A | N/A | N/A |
-| [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 9.9% | N/A | N/A | N/A | N/A |
-| [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 14.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 14.0% | 12.5–15.6% | 12.0–16.1% | 11.7–16.5% | 11.0–17.4% |
+| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 13.9% | 12.5–15.6% | 12.0–16.1% | 11.7–16.5% | 11.0–17.4% |
+| [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 0.0% | N/A | N/A | N/A | N/A |
+| [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 0.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Εθνικό Λαϊκό Μέτωπο (ECR).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Οδυσσέας Μιχαηλίδης (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -32,19 +32,16 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.8% | 99.9% |  |
-| 13.5–14.5% | 5% | 99.1% |  |
-| 14.5–15.5% | 17% | 94% |  |
-| 15.5–16.5% | 28% | 77% |  |
-| 16.5–17.5% | 27% | 49% | Median |
-| 17.5–18.5% | 15% | 22% |  |
-| 18.5–19.5% | 5% | 7% |  |
-| 19.5–20.5% | 1.2% | 1.4% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 2% | 99.9% |  |
+| 11.5–12.5% | 10% | 98% |  |
+| 12.5–13.5% | 25% | 89% |  |
+| 13.5–14.5% | 32% | 64% | Median |
+| 14.5–15.5% | 21% | 32% |  |
+| 15.5–16.5% | 9% | 11% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.3% | 0.3% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -63,9 +60,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-εθνικόλαϊκόμέτωποecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-οδυσσέαςμιχαηλίδης.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Εθνικό Λαϊκό Μέτωπο (ECR).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Οδυσσέας Μιχαηλίδης (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

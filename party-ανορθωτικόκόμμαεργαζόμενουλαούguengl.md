@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.4% | 10.9–27.1% | 10.6–27.8% | 10.4–28.3% | 10.1–29.4% |
-| [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
-| [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 11.1% | 10.5–11.8% | 10.3–12.0% | 10.2–12.1% | 9.8–12.5% |
-| [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 25.0% | 22.8–27.4% | 22.2–28.0% | 21.7–28.6% | 20.7–29.8% |
+| N/A | [Poll Average](average.html) | 21.6% | 19.7–23.5% | 19.2–24.0% | 18.8–24.5% | 18.0–25.5% |
+| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 21.5% | 19.7–23.5% | 19.2–24.0% | 18.8–24.5% | 18.0–25.5% |
+| [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 25.8% | N/A | N/A | N/A | N/A |
+| [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 11.1% | N/A | N/A | N/A | N/A |
+| [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 25.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -31,29 +32,25 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 4% | 100% |  |
-| 10.5–11.5% | 23% | 96% |  |
-| 11.5–12.5% | 6% | 73% |  |
-| 12.5–13.5% | 0.1% | 67% |  |
-| 13.5–14.5% | 0% | 67% |  |
-| 14.5–15.5% | 0% | 67% |  |
-| 15.5–16.5% | 0% | 67% |  |
-| 16.5–17.5% | 0% | 67% |  |
-| 17.5–18.5% | 0% | 67% |  |
-| 18.5–19.5% | 0% | 67% |  |
-| 19.5–20.5% | 0.1% | 67% |  |
-| 20.5–21.5% | 0.6% | 67% |  |
-| 21.5–22.5% | 2% | 66% |  |
-| 22.5–23.5% | 5% | 64% |  |
-| 23.5–24.5% | 11% | 59% | Median |
-| 24.5–25.5% | 15% | 48% |  |
-| 25.5–26.5% | 16% | 32% |  |
-| 26.5–27.5% | 10% | 17% |  |
-| 27.5–28.5% | 5% | 6% |  |
-| 28.5–29.5% | 1.4% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.4% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 1.4% | 99.8% |  |
+| 18.5–19.5% | 6% | 98% |  |
+| 19.5–20.5% | 16% | 92% |  |
+| 20.5–21.5% | 26% | 76% |  |
+| 21.5–22.5% | 25% | 50% | Median |
+| 22.5–23.5% | 16% | 25% |  |
+| 23.5–24.5% | 7% | 9% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.4% | 0.4% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -64,10 +61,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 2 | 2 | 2 | 1–2 | 1–2 |
-| [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 1 | 1 | 1 | 1 | 1 |
-| [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
+| [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom |  |  |  |  |  |
+| [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -78,8 +76,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 44% | 100% |  |
-| 2 | 56% | 56% | Median |
+| 1 | 82% | 100% | Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 
