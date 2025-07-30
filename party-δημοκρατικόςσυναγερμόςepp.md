@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.8% | 22.6–27.0% | 22.1–27.7% | 21.6–28.2% | 20.6–29.3% |
+| N/A | [Poll Average](average.html) | 22.7% | 20.6–25.3% | 20.0–26.1% | 19.5–26.9% | 18.6–28.3% |
+| [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 23.3% | 20.8–26.1% | 20.1–26.9% | 19.6–27.5% | 18.4–28.9% |
+| [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 22.2% | 20.4–24.2% | 19.9–24.7% | 19.5–25.2% | 18.7–26.2% |
+| [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots | 28.6% | N/A | N/A | N/A | N/A |
 | [10–21 March 2025](2025-03-21-Redwolf.html) | Redwolf | 25.4% | 23.5–27.6% | 22.9–28.2% | 22.4–28.7% | 21.5–29.7% |
 | [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 24.1% | 22.2–26.1% | 21.6–26.7% | 21.2–27.2% | 20.3–28.2% |
 | [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 27.9% | N/A | N/A | N/A | N/A |
@@ -40,22 +43,21 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.4% | 100% |  |
-| 20.5–21.5% | 2% | 99.6% |  |
-| 21.5–22.5% | 7% | 98% |  |
-| 22.5–23.5% | 14% | 91% |  |
-| 23.5–24.5% | 22% | 77% |  |
-| 24.5–25.5% | 22% | 55% | Median |
-| 25.5–26.5% | 17% | 33% |  |
-| 26.5–27.5% | 10% | 15% |  |
-| 27.5–28.5% | 4% | 6% |  |
-| 28.5–29.5% | 1.3% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.3% |  |
-| 30.5–31.5% | 0% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.4% | 99.9% |  |
+| 18.5–19.5% | 2% | 99.5% |  |
+| 19.5–20.5% | 7% | 97% |  |
+| 20.5–21.5% | 15% | 91% |  |
+| 21.5–22.5% | 21% | 76% |  |
+| 22.5–23.5% | 21% | 54% | Median |
+| 23.5–24.5% | 16% | 33% |  |
+| 24.5–25.5% | 9% | 17% |  |
+| 25.5–26.5% | 5% | 8% |  |
+| 26.5–27.5% | 2% | 3% |  |
+| 27.5–28.5% | 0.8% | 1.2% |  |
+| 28.5–29.5% | 0.3% | 0.4% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -66,7 +68,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
 | [10–21 March 2025](2025-03-21-Redwolf.html) | Redwolf | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
@@ -82,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 12% | 100% |  |
-| 2 | 88% | 88% | Median |
+| 1 | 56% | 100% | Median |
+| 2 | 44% | 44% |  |
 | 3 | 0% | 0% |  |
 
 
