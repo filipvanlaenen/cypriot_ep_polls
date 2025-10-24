@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.5–2.7% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.9–3.2% | 0.8–3.5% | 0.7–3.8% | 0.5–4.4% |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.5–2.8% |
-| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 2.7% | N/A | N/A | N/A | N/A |
+| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 2.7% | 2.1–3.7% | 1.9–4.0% | 1.8–4.2% | 1.5–4.7% |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.6% |
 | [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots | 0.0% | N/A | N/A | N/A | N/A |
@@ -28,11 +28,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.9% | 100% | Last Result |
-| 0.5–1.5% | 71% | 99.1% | Median |
-| 1.5–2.5% | 28% | 28% |  |
-| 2.5–3.5% | 0.9% | 0.9% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 47% | 99.4% |  |
+| 1.5–2.5% | 29% | 52% | Median |
+| 2.5–3.5% | 19% | 23% |  |
+| 3.5–4.5% | 4% | 5% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -45,7 +47,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 0 | 0 | 0 | 0 | 0 |
-| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
+| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 0 | 0 | 0 | 0 | 0 |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 0 | 0 | 0 | 0 | 0 |
 | [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |

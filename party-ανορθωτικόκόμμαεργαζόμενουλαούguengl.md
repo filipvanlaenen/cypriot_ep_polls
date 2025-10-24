@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.9% | 19.6–25.4% | 18.6–26.1% | 17.9–26.6% | 16.6–27.8% |
+| N/A | [Poll Average](average.html) | 23.1% | 20.0–25.4% | 19.0–26.1% | 18.2–26.6% | 16.8–27.7% |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 23.9% | 21.9–26.1% | 21.3–26.7% | 20.8–27.3% | 19.9–28.3% |
-| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 23.3% | N/A | N/A | N/A | N/A |
+| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 23.3% | 21.4–25.4% | 20.8–26.0% | 20.4–26.5% | 19.5–27.5% |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 20.5% | 18.2–23.2% | 17.5–23.9% | 17.0–24.6% | 15.9–25.9% |
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 23.5% | 21.6–25.5% | 21.1–26.0% | 20.7–26.5% | 19.8–27.5% |
 | [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots | 23.3% | N/A | N/A | N/A | N/A |
@@ -44,19 +44,19 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.4% | 99.9% |  |
-| 16.5–17.5% | 1.2% | 99.5% |  |
-| 17.5–18.5% | 3% | 98% |  |
-| 18.5–19.5% | 5% | 95% |  |
-| 19.5–20.5% | 8% | 90% |  |
-| 20.5–21.5% | 11% | 83% |  |
-| 21.5–22.5% | 15% | 72% |  |
-| 22.5–23.5% | 18% | 57% | Median |
-| 23.5–24.5% | 18% | 38% |  |
+| 15.5–16.5% | 0.3% | 99.9% |  |
+| 16.5–17.5% | 0.9% | 99.6% |  |
+| 17.5–18.5% | 2% | 98.7% |  |
+| 18.5–19.5% | 4% | 96% |  |
+| 19.5–20.5% | 6% | 92% |  |
+| 20.5–21.5% | 10% | 86% |  |
+| 21.5–22.5% | 16% | 76% |  |
+| 22.5–23.5% | 20% | 60% | Median |
+| 23.5–24.5% | 19% | 40% |  |
 | 24.5–25.5% | 12% | 21% |  |
 | 25.5–26.5% | 6% | 9% |  |
 | 26.5–27.5% | 2% | 3% |  |
-| 27.5–28.5% | 0.6% | 0.7% |  |
+| 27.5–28.5% | 0.5% | 0.6% |  |
 | 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
@@ -69,9 +69,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
+| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
@@ -90,8 +90,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 55% | 100% | Median |
-| 2 | 45% | 45% |  |
+| 1 | 48% | 100% |  |
+| 2 | 52% | 52% | Median |
 | 3 | 0% | 0% |  |
 
 
