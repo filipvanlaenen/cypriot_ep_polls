@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Oct 2025 18:40:40 +0200</pubDate>
+    <pubDate>Fri, 24 Oct 2025 20:52:42 +0200</pubDate>
     <item>
       <title>Opinion Poll by Stratego-IMR for Η Καθημερινή, 12–22 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2025-09-22-Stratego-IMR.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Fri, 24 Oct 2025 18:40:40 +0200</pubDate>
       <dc:date>2025-10-24T18:40:40.171914+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cypronetwork, 11 August 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κόμμα για τα Ζώα Κύπρου (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Οδυσσέας Μιχαηλίδης (*): 1 seats&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork-seats.png"
+        length="325199"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 20:52:42 +0200</pubDate>
+      <dc:date>2025-10-24T20:52:42.485442+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cypronetwork, 11 August 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork-coalitions-seats.png"
+        length="205363"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 20:52:42 +0200</pubDate>
+      <dc:date>2025-10-24T20:52:42.485442+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cypronetwork, 11 August 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κόμμα για τα Ζώα Κύπρου (GUE/NGL): 0.7–2.5%&lt;/li&gt;&lt;li&gt;Οδυσσέας Μιχαηλίδης (*): 10.1–14.9%&lt;/li&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 20.4–26.5%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 15.2–20.8%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 1.8–4.2%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 6.4–10.4%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 1.8–4.2%&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 1.8–4.2%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0.7–2.5%&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 1.8–4.2%&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 19.1–25.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork.png"
+        length="433917"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 20:52:42 +0200</pubDate>
+      <dc:date>2025-10-24T20:52:42.485442+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Symmetron for 2Dots, 1–8 July 2025 – Seat Projections for the Parties</title>
@@ -159,6 +189,6 @@
       <pubDate>Fri, 21 Mar 2025 21:30:26 +0100</pubDate>
       <dc:date>2025-03-21T21:30:26.783567+01:00</dc:date>
     </item>
-    <dc:date>2025-10-24T18:40:40.171914+02:00</dc:date>
+    <dc:date>2025-10-24T20:52:42.485442+02:00</dc:date>
   </channel>
 </rss>
