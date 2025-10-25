@@ -54,7 +54,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
-| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 1 |
+| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 0–1 |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 1 | 1 | 1 | 1 | 0–1 |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 1 | 1 | 1 | 0–1 | 0–1 |
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1 | 1 | 1 | 0–1 |
@@ -73,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.4% | 100% | Last Result |
-| 1 | 98.6% | 98.6% | Median |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
 | 2 | 0% | 0% |  |
 
 
