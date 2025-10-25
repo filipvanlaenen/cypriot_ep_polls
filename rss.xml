@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Oct 2025 20:52:42 +0200</pubDate>
+    <pubDate>Sat, 25 Oct 2025 10:50:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by Stratego-IMR for Η Καθημερινή, 12–22 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2025-09-22-Stratego-IMR.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-09-22-Stratego-IMR-seats.png"
         length="327787"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 18:40:40 +0200</pubDate>
-      <dc:date>2025-10-24T18:40:40.171914+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:02:31 +0200</pubDate>
+      <dc:date>2025-10-25T10:02:31.499002+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Stratego-IMR for Η Καθημερινή, 12–22 September 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-09-22-Stratego-IMR-coalitions-seats.png"
         length="211878"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 18:40:40 +0200</pubDate>
-      <dc:date>2025-10-24T18:40:40.171914+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:02:31 +0200</pubDate>
+      <dc:date>2025-10-25T10:02:31.499002+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Stratego-IMR for Η Καθημερινή, 12–22 September 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-09-22-Stratego-IMR.png"
         length="433247"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 18:40:40 +0200</pubDate>
-      <dc:date>2025-10-24T18:40:40.171914+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:02:31 +0200</pubDate>
+      <dc:date>2025-10-25T10:02:31.499002+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Cypronetwork, 11 August 2025 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork-seats.png"
         length="325199"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:52:42 +0200</pubDate>
-      <dc:date>2025-10-24T20:52:42.485442+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:50:53 +0200</pubDate>
+      <dc:date>2025-10-25T10:50:53.861756+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Cypronetwork, 11 August 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork-coalitions-seats.png"
         length="205363"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:52:42 +0200</pubDate>
-      <dc:date>2025-10-24T20:52:42.485442+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:50:53 +0200</pubDate>
+      <dc:date>2025-10-25T10:50:53.861756+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Cypronetwork, 11 August 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-08-11-Cypronetwork.png"
         length="433917"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:52:42 +0200</pubDate>
-      <dc:date>2025-10-24T20:52:42.485442+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:50:53 +0200</pubDate>
+      <dc:date>2025-10-25T10:50:53.861756+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Symmetron for 2Dots, 1–8 July 2025 – Seat Projections for the Parties</title>
@@ -189,6 +189,6 @@
       <pubDate>Fri, 21 Mar 2025 21:30:26 +0100</pubDate>
       <dc:date>2025-03-21T21:30:26.783567+01:00</dc:date>
     </item>
-    <dc:date>2025-10-24T20:52:42.485442+02:00</dc:date>
+    <dc:date>2025-10-25T10:50:53.861756+02:00</dc:date>
   </channel>
 </rss>
