@@ -6,14 +6,14 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ΑΚΕΛ | APC | ΚΟ–ΣΠ | Βολτ | Βολτ–ΝΚ | ΔΗΚΟ | ΕΔΕΚ | ΕΔΕΚ–ΣΥΠΟΛ | ΣΥΠΟΛ | ΔΙΠΑ | ΔΗΣΥ | ΕΛΑΜ | ΚΑ | ΑΝΕΞ | ΕΠ–ΚΕΚΚ | Μιχαηλίδης | Φειδίας |
+| Period     | Polling firm/Commissioner(s) | ΑΚΕΛ | APC | ΚΟ–ΣΠ | Βολτ | Βολτ–ΝΚ | ΔΗΚΟ | ΕΔΕΚ | ΕΔΕΚ–ΣΥΠΟΛ | ΣΥΠΟΛ | ΔΙΠΑ | ΔΗΣΥ | ΕΛΑΜ | ΚΑ | ΆΔ | ΑΝΕΞ | ΑΛΜΑ | ΕΠ–ΚΕΚΚ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 18–27% <br> 1–2 | 1–2% <br> 0 | 2–5% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | 6–11% <br> 1 | 1–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 19–26% <br> 1–2 | 14–20% <br> 1 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 10–18% <br> 1 | 2–5% <br> 0 |
-| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 21–27% <br> 1–2 | N/A <br> N/A | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 7–12% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 20–26% <br> 1–2 | 13–19% <br> 1 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 10–15% <br> 1 | 2–5% <br> 0 |
-| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 20–26% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 6–10% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 19–25% <br> 1–2 | 15–21% <br> 1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 10–15% <br> 1 | N/A <br> N/A |
-| [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 17–25% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | 6–11% <br> 0–1 | 3–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 20–28% <br> 1–2 | 13–20% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–19% <br> 1 | N/A <br> N/A |
-| [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 21–27% <br> 1–2 | N/A <br> N/A | 3–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 7–11% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 19–25% <br> 1–2 | 14–19% <br> 1 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 13–17% <br> 1 | N/A <br> N/A |
+| N/A | Poll Average | 17–24% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | 6–11% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 19–27% <br> 1–2 | 11–18% <br> 1 | N/A <br> N/A | 6–11% <br> 0–1 | N/A <br> N/A | 8–14% <br> 1 | 1–3% <br> 0 |
+| [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 17–24% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | 6–12% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 19–27% <br> 1–2 | 10–17% <br> 1 | N/A <br> N/A | 6–12% <br> 0–1 | N/A <br> N/A | 8–13% <br> 0–1 | 1–3% <br> 0 |
+| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 19–24% <br> 1–2 | N/A <br> N/A | 2–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 7–11% <br> 1 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 19–25% <br> 1–2 | 14–19% <br> 1 | N/A <br> N/A | 5–9% <br> 0–1 | N/A <br> N/A | 10–15% <br> 1 | 1–3% <br> 0 |
+| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -34,10 +34,10 @@ Only polls for which at least the sample size has been published are included in
 + **ΔΗΣΥ:** Δημοκρατικός Συναγερμός (EPP)
 + **ΕΛΑΜ:** Εθνικό Λαϊκό Μέτωπο (ECR)
 + **ΚΑ:** Κίνημα Αλληλεγγύη (ECR)
++ **ΆΔ:** Άμεσης Δημοκρατίας (NI)
 + **ΑΝΕΞ:** Ανεξάρτητοι (*)
++ **ΑΛΜΑ:** Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*)
 + **ΕΠ–ΚΕΚΚ:** Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*)
-+ **Μιχαηλίδης:** Οδυσσέας Μιχαηλίδης (*)
-+ **Φειδίας:** Φειδίας Παναγιώτου (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -49,53 +49,23 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0.0% | 23.1% | 20.0–25.4% |19.0–26.1% | 18.2–26.6% | 16.8–27.7% |
-| <a href="#κόμμα-για-τα-ζώα-κύπρου-(gue/ngl)">Κόμμα για τα Ζώα Κύπρου (GUE/NGL)</a> | 0.0% | 1.5% | 1.0–2.1% |0.8–2.3% | 0.8–2.5% | 0.6–2.9% |
-| <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0.0% | 2.9% | 2.0–4.2% |1.7–4.5% | 1.6–4.8% | 1.3–5.4% |
-| <a href="#βολτ-κύπρος-(greens/efa)">Βολτ Κύπρος (Greens/EFA)</a> | 0.0% | 2.9% | 2.0–4.2% |1.7–4.5% | 1.6–4.8% | 1.3–5.4% |
+| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0.0% | 20.9% | 18.6–23.1% |17.9–23.7% | 17.3–24.3% | 16.1–25.5% |
+| <a href="#κόμμα-για-τα-ζώα-κύπρου-(gue/ngl)">Κόμμα για τα Ζώα Κύπρου (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0.0% | 3.1% | 2.2–4.1% |2.0–4.4% | 1.8–4.7% | 1.5–5.4% |
+| <a href="#βολτ-κύπρος-(greens/efa)">Βολτ Κύπρος (Greens/EFA)</a> | 0.0% | 3.5% | 2.4–4.6% |2.1–4.9% | 1.9–5.2% | 1.5–5.7% |
 | <a href="#βολτ-κύπρος–νέο-κύμα–η-άλλη-κύπρος-(greens/efa)">Βολτ Κύπρος–Νέο Κύμα–Η Άλλη Κύπρος (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0.0% | 8.6% | 7.2–10.2% |6.8–10.7% | 6.4–11.1% | 5.8–11.9% |
-| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0.0% | 2.7% | 1.2–4.6% |1.0–5.2% | 0.8–5.7% | 0.6–6.7% |
+| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0.0% | 8.7% | 7.3–10.3% |6.9–10.8% | 6.5–11.3% | 5.9–12.3% |
+| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0.0% | 2.6% | 1.9–3.8% |1.7–4.2% | 1.5–4.6% | 1.3–5.4% |
 | <a href="#κίνημα-σοσιαλδημοκρατών–συνεργασία-πολιτών-(s&d)">Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#συμμαχία-πολιτών-(re)">Συμμαχία Πολιτών (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#δημοκρατική-παράταξη-(re)">Δημοκρατική Παράταξη (RE)</a> | 0.0% | 1.4% | 0.9–2.1% |0.8–2.4% | 0.7–2.6% | 0.5–3.2% |
-| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0.0% | 22.5% | 20.4–24.9% |19.9–25.7% | 19.4–26.4% | 18.5–27.8% |
-| <a href="#εθνικό-λαϊκό-μέτωπο-(ecr)">Εθνικό Λαϊκό Μέτωπο (ECR)</a> | 0.0% | 16.6% | 14.6–18.9% |14.1–19.5% | 13.6–20.1% | 12.8–21.2% |
+| <a href="#δημοκρατική-παράταξη-(re)">Δημοκρατική Παράταξη (RE)</a> | 0.0% | 1.4% | 0.9–2.2% |0.8–2.5% | 0.7–2.8% | 0.5–3.4% |
+| <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0.0% | 22.6% | 20.5–25.2% |19.9–26.1% | 19.4–26.8% | 18.4–28.3% |
+| <a href="#εθνικό-λαϊκό-μέτωπο-(ecr)">Εθνικό Λαϊκό Μέτωπο (ECR)</a> | 0.0% | 15.0% | 11.9–17.4% |11.3–18.0% | 10.7–18.4% | 9.7–19.4% |
 | <a href="#κίνημα-αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#άμεσης-δημοκρατίας-(ni)">Άμεσης Δημοκρατίας (NI)</a> | 0.0% | 7.7% | 6.2–10.0% |5.8–10.6% | 5.6–11.2% | 5.1–12.3% |
 | <a href="#ανεξάρτητοι-(*)">Ανεξάρτητοι (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#ενεργοί-πολίτες–κίνημα-ενωμένων-κυπρίων-κυνηγών-(*)">Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*)</a> | 0.0% | 1.6% | 0.9–3.2% |0.8–3.5% | 0.7–3.8% | 0.5–4.4% |
-| <a href="#οδυσσέας-μιχαηλίδης-(*)">Οδυσσέας Μιχαηλίδης (*)</a> | 0.0% | 13.7% | 11.5–16.3% |11.0–17.1% | 10.5–17.7% | 9.8–19.1% |
-| <a href="#φειδίας-παναγιώτου-(*)">Φειδίας Παναγιώτου (*)</a> | 0.0% | 3.5% | 2.7–4.5% |2.5–4.8% | 2.3–5.1% | 2.0–5.7% |
-
-### Οδυσσέας Μιχαηλίδης (*)
-
-*For a full overview of the results for this party, see the [Οδυσσέας Μιχαηλίδης (*)](party-οδυσσέαςμιχαηλίδης.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 2% | 99.7% |  |
-| 10.5–11.5% | 9% | 97% |  |
-| 11.5–12.5% | 16% | 89% |  |
-| 12.5–13.5% | 19% | 72% |  |
-| 13.5–14.5% | 19% | 53% | Median |
-| 14.5–15.5% | 16% | 34% |  |
-| 15.5–16.5% | 11% | 19% |  |
-| 16.5–17.5% | 5% | 8% |  |
-| 17.5–18.5% | 2% | 3% |  |
-| 18.5–19.5% | 0.7% | 1.0% |  |
-| 19.5–20.5% | 0.2% | 0.3% |  |
-| 20.5–21.5% | 0% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| <a href="#αξιοπρέπεια-λογοδοσία-μεταρρύθμιση-ανάπτυξη-(*)">Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*)</a> | 0.0% | 11.4% | 9.0–13.3% |8.4–13.8% | 7.9–14.3% | 7.1–15.1% |
+| <a href="#ενεργοί-πολίτες–κίνημα-ενωμένων-κυπρίων-κυνηγών-(*)">Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*)</a> | 0.0% | 1.6% | 1.0–2.4% |0.9–2.6% | 0.8–2.9% | 0.6–3.5% |
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
 
@@ -118,37 +88,45 @@ Only polls for which at least the sample size has been published are included in
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.3% | 99.9% |  |
-| 16.5–17.5% | 0.9% | 99.6% |  |
-| 17.5–18.5% | 2% | 98.7% |  |
-| 18.5–19.5% | 4% | 96% |  |
-| 19.5–20.5% | 6% | 92% |  |
-| 20.5–21.5% | 10% | 86% |  |
-| 21.5–22.5% | 16% | 76% |  |
-| 22.5–23.5% | 20% | 60% | Median |
-| 23.5–24.5% | 19% | 40% |  |
-| 24.5–25.5% | 12% | 21% |  |
-| 25.5–26.5% | 6% | 9% |  |
-| 26.5–27.5% | 2% | 3% |  |
-| 27.5–28.5% | 0.5% | 0.6% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.2% | 100% |  |
+| 15.5–16.5% | 0.8% | 99.8% |  |
+| 16.5–17.5% | 2% | 99.0% |  |
+| 17.5–18.5% | 6% | 97% |  |
+| 18.5–19.5% | 12% | 91% |  |
+| 19.5–20.5% | 19% | 78% |  |
+| 20.5–21.5% | 23% | 59% | Median |
+| 21.5–22.5% | 19% | 36% |  |
+| 22.5–23.5% | 11% | 17% |  |
+| 23.5–24.5% | 4% | 6% |  |
+| 24.5–25.5% | 1.3% | 2% |  |
+| 25.5–26.5% | 0.4% | 0.4% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
-### Φειδίας Παναγιώτου (*)
+### Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*)
 
-*For a full overview of the results for this party, see the [Φειδίας Παναγιώτου (*)](party-φειδίαςπαναγιώτου.html) page.*
+*For a full overview of the results for this party, see the [Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*)](party-αξιοπρέπειαλογοδοσίαμεταρρύθμισηανάπτυξη.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 45% | 94% |  |
-| 3.5–4.5% | 39% | 49% | Median |
-| 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 1.2% | 99.9% |  |
+| 7.5–8.5% | 5% | 98.7% |  |
+| 8.5–9.5% | 11% | 94% |  |
+| 9.5–10.5% | 16% | 83% |  |
+| 10.5–11.5% | 21% | 67% | Median |
+| 11.5–12.5% | 23% | 46% |  |
+| 12.5–13.5% | 16% | 23% |  |
+| 13.5–14.5% | 6% | 8% |  |
+| 14.5–15.5% | 1.3% | 2% |  |
+| 15.5–16.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 ### Εθνικό Λαϊκό Μέτωπο (ECR)
 
@@ -165,22 +143,19 @@ Only polls for which at least the sample size has been published are included in
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 2% | 99.7% |  |
-| 13.5–14.5% | 7% | 98% |  |
-| 14.5–15.5% | 16% | 91% |  |
-| 15.5–16.5% | 23% | 75% |  |
-| 16.5–17.5% | 22% | 52% | Median |
-| 17.5–18.5% | 16% | 30% |  |
-| 18.5–19.5% | 9% | 14% |  |
-| 19.5–20.5% | 4% | 5% |  |
-| 20.5–21.5% | 1.1% | 1.4% |  |
-| 21.5–22.5% | 0.3% | 0.3% |  |
-| 22.5–23.5% | 0% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.3% | 100% |  |
+| 9.5–10.5% | 2% | 99.7% |  |
+| 10.5–11.5% | 5% | 98% |  |
+| 11.5–12.5% | 9% | 93% |  |
+| 12.5–13.5% | 13% | 84% |  |
+| 13.5–14.5% | 14% | 71% |  |
+| 14.5–15.5% | 17% | 57% | Median |
+| 15.5–16.5% | 18% | 40% |  |
+| 16.5–17.5% | 13% | 22% |  |
+| 17.5–18.5% | 6% | 8% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.3% | 0.4% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 
@@ -189,13 +164,36 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 30% | 98% |  |
-| 2.5–3.5% | 42% | 68% | Median |
-| 3.5–4.5% | 21% | 26% |  |
-| 4.5–5.5% | 4% | 5% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 21% | 99.2% |  |
+| 2.5–3.5% | 53% | 78% | Median |
+| 3.5–4.5% | 22% | 25% |  |
+| 4.5–5.5% | 3% | 4% |  |
+| 5.5–6.5% | 0.3% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
+
+### Άμεσης Δημοκρατίας (NI)
+
+*For a full overview of the results for this party, see the [Άμεσης Δημοκρατίας (NI)](party-άμεσηςδημοκρατίαςni.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 16% | 98% |  |
+| 6.5–7.5% | 28% | 82% |  |
+| 7.5–8.5% | 24% | 54% | Median |
+| 8.5–9.5% | 16% | 30% |  |
+| 9.5–10.5% | 9% | 14% |  |
+| 10.5–11.5% | 4% | 5% |  |
+| 11.5–12.5% | 1.2% | 2% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D)
 
@@ -208,16 +206,17 @@ Only polls for which at least the sample size has been published are included in
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% |  |
-| 5.5–6.5% | 3% | 99.7% |  |
-| 6.5–7.5% | 14% | 97% |  |
-| 7.5–8.5% | 30% | 83% |  |
-| 8.5–9.5% | 31% | 53% | Median |
-| 9.5–10.5% | 16% | 22% |  |
-| 10.5–11.5% | 5% | 6% |  |
-| 11.5–12.5% | 0.9% | 1.1% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 2% | 99.8% |  |
+| 6.5–7.5% | 13% | 97% |  |
+| 7.5–8.5% | 30% | 85% |  |
+| 8.5–9.5% | 31% | 55% | Median |
+| 9.5–10.5% | 16% | 23% |  |
+| 10.5–11.5% | 5% | 7% |  |
+| 11.5–12.5% | 1.3% | 2% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 ### Κίνημα Σοσιαλδημοκρατών (S&D)
 
@@ -225,16 +224,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 18% | 99.7% |  |
-| 1.5–2.5% | 27% | 82% |  |
-| 2.5–3.5% | 30% | 54% | Median |
-| 3.5–4.5% | 14% | 25% |  |
-| 4.5–5.5% | 7% | 11% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.5% | 0.6% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 42% | 97% |  |
+| 2.5–3.5% | 40% | 55% | Median |
+| 3.5–4.5% | 12% | 15% |  |
+| 4.5–5.5% | 2% | 3% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 ### Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*)
 
@@ -242,13 +239,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.6% | 100% | Last Result |
-| 0.5–1.5% | 47% | 99.4% |  |
-| 1.5–2.5% | 29% | 52% | Median |
-| 2.5–3.5% | 19% | 23% |  |
-| 3.5–4.5% | 4% | 5% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 44% | 99.5% |  |
+| 1.5–2.5% | 49% | 55% | Median |
+| 2.5–3.5% | 6% | 6% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 ### Δημοκρατική Παράταξη (RE)
 
@@ -257,10 +253,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 62% | 99.2% | Median |
-| 1.5–2.5% | 34% | 37% |  |
-| 2.5–3.5% | 3% | 3% |  |
-| 3.5–4.5% | 0.1% | 0.2% |  |
+| 0.5–1.5% | 60% | 99.2% | Median |
+| 1.5–2.5% | 34% | 39% |  |
+| 2.5–3.5% | 4% | 5% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 ### Βολτ Κύπρος (Greens/EFA)
@@ -270,13 +266,14 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 30% | 98% |  |
-| 2.5–3.5% | 42% | 68% | Median |
-| 3.5–4.5% | 21% | 26% |  |
-| 4.5–5.5% | 4% | 5% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 14% | 99.2% |  |
+| 2.5–3.5% | 39% | 86% | Median |
+| 3.5–4.5% | 37% | 47% |  |
+| 4.5–5.5% | 9% | 10% |  |
+| 5.5–6.5% | 0.8% | 0.9% |  |
 | 6.5–7.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 ### Δημοκρατικός Συναγερμός (EPP)
 
@@ -303,31 +300,19 @@ Only polls for which at least the sample size has been published are included in
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
 | 17.5–18.5% | 0.5% | 99.9% |  |
-| 18.5–19.5% | 3% | 99.4% |  |
+| 18.5–19.5% | 2% | 99.4% |  |
 | 19.5–20.5% | 8% | 97% |  |
-| 20.5–21.5% | 17% | 89% |  |
-| 21.5–22.5% | 23% | 72% |  |
-| 22.5–23.5% | 21% | 49% | Median |
-| 23.5–24.5% | 15% | 28% |  |
-| 24.5–25.5% | 8% | 13% |  |
-| 25.5–26.5% | 4% | 6% |  |
-| 26.5–27.5% | 1.4% | 2% |  |
-| 27.5–28.5% | 0.5% | 0.7% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
-| 29.5–30.5% | 0% | 0.1% |  |
+| 20.5–21.5% | 16% | 89% |  |
+| 21.5–22.5% | 22% | 73% |  |
+| 22.5–23.5% | 20% | 51% | Median |
+| 23.5–24.5% | 15% | 31% |  |
+| 24.5–25.5% | 9% | 16% |  |
+| 25.5–26.5% | 4% | 8% |  |
+| 26.5–27.5% | 2% | 3% |  |
+| 27.5–28.5% | 0.8% | 1.2% |  |
+| 28.5–29.5% | 0.3% | 0.4% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
-
-### Κόμμα για τα Ζώα Κύπρου (GUE/NGL)
-
-*For a full overview of the results for this party, see the [Κόμμα για τα Ζώα Κύπρου (GUE/NGL)](party-κόμμαγιαταζώακύπρουguengl.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 58% | 99.7% | Median |
-| 1.5–2.5% | 39% | 42% |  |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -340,23 +325,23 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#κόμμα-για-τα-ζώα-κύπρου-(gue/ngl)">Κόμμα για τα Ζώα Κύπρου (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#ανορθωτικό-κόμμα-εργαζόμενου-λαού-(gue/ngl)">Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)</a> | 0 | 1 | 1 |1 | 1–2 | 1–2 |
+| <a href="#κόμμα-για-τα-ζώα-κύπρου-(gue/ngl)">Κόμμα για τα Ζώα Κύπρου (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#κίνημα-οικολόγων—συνεργασία-πολιτών-(greens/efa)">Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#βολτ-κύπρος-(greens/efa)">Βολτ Κύπρος (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#βολτ-κύπρος–νέο-κύμα–η-άλλη-κύπρος-(greens/efa)">Βολτ Κύπρος–Νέο Κύμα–Η Άλλη Κύπρος (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0 | 1 | 1 |1 | 1 | 0–1 |
-| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#δημοκρατικό-κόμμα-(s&d)">Δημοκρατικό Κόμμα (S&D)</a> | 0 | 1 | 1 |1 | 0–1 | 0–1 |
+| <a href="#κίνημα-σοσιαλδημοκρατών-(s&d)">Κίνημα Σοσιαλδημοκρατών (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#κίνημα-σοσιαλδημοκρατών–συνεργασία-πολιτών-(s&d)">Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#συμμαχία-πολιτών-(re)">Συμμαχία Πολιτών (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#δημοκρατική-παράταξη-(re)">Δημοκρατική Παράταξη (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#δημοκρατικός-συναγερμός-(epp)">Δημοκρατικός Συναγερμός (EPP)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#εθνικό-λαϊκό-μέτωπο-(ecr)">Εθνικό Λαϊκό Μέτωπο (ECR)</a> | 0 | 1 | 1 |1 | 1 | 1 |
 | <a href="#κίνημα-αλληλεγγύη-(ecr)">Κίνημα Αλληλεγγύη (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#άμεσης-δημοκρατίας-(ni)">Άμεσης Δημοκρατίας (NI)</a> | 0 | 1 | 1 |0–1 | 0–1 | 0–1 |
 | <a href="#ανεξάρτητοι-(*)">Ανεξάρτητοι (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#αξιοπρέπεια-λογοδοσία-μεταρρύθμιση-ανάπτυξη-(*)">Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*)</a> | 0 | 1 | 1 |1 | 1 | 0–1 |
 | <a href="#ενεργοί-πολίτες–κίνημα-ενωμένων-κυπρίων-κυνηγών-(*)">Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#οδυσσέας-μιχαηλίδης-(*)">Οδυσσέας Μιχαηλίδης (*)</a> | 0 | 1 | 1 |1 | 1 | 1 |
-| <a href="#φειδίας-παναγιώτου-(*)">Φειδίας Παναγιώτου (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
 
@@ -367,8 +352,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 48% | 100% |  |
-| 2 | 52% | 52% | Median |
+| 1 | 97% | 100% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 ### Κόμμα για τα Ζώα Κύπρου (GUE/NGL)
@@ -376,10 +361,6 @@ Only polls for which at least the sample size has been published are included in
 *For a full overview of the results for this party, see the [Κόμμα για τα Ζώα Κύπρου (GUE/NGL)](party-κόμμαγιαταζώακύπρουguengl.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-κόμμαγιαταζώακύπρουguengl.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 ### Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 
@@ -389,9 +370,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Βολτ Κύπρος (Greens/EFA)
 
@@ -401,9 +380,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Βολτ Κύπρος–Νέο Κύμα–Η Άλλη Κύπρος (Greens/EFA)
 
@@ -419,8 +396,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 98% | 98% | Median |
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
 | 2 | 0% | 0% |  |
 
 ### Κίνημα Σοσιαλδημοκρατών (S&D)
@@ -431,9 +408,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.5% | 100% | Last Result, Median |
-| 1 | 1.5% | 1.5% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)
 
@@ -466,8 +441,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 61% | 100% | Median |
-| 2 | 39% | 39% |  |
+| 1 | 87% | 100% | Median |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% |  |
 
 ### Εθνικό Λαϊκό Μέτωπο (ECR)
@@ -479,9 +454,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.9% | 100% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
 
 ### Κίνημα Αλληλεγγύη (ECR)
 
@@ -489,11 +462,35 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-κίνημααλληλεγγύηecr.png "Seats Probability Mass Function")
 
+### Άμεσης Δημοκρατίας (NI)
+
+*For a full overview of the results for this party, see the [Άμεσης Δημοκρατίας (NI)](party-άμεσηςδημοκρατίαςni.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-άμεσηςδημοκρατίαςni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 10% | 100% | Last Result |
+| 1 | 90% | 90% | Median |
+| 2 | 0% | 0% |  |
+
 ### Ανεξάρτητοι (*)
 
 *For a full overview of the results for this party, see the [Ανεξάρτητοι (*)](party-ανεξάρτητοι.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-ανεξάρτητοι.png "Seats Probability Mass Function")
+
+### Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*)
+
+*For a full overview of the results for this party, see the [Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*)](party-αξιοπρέπειαλογοδοσίαμεταρρύθμισηανάπτυξη.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-αξιοπρέπειαλογοδοσίαμεταρρύθμισηανάπτυξη.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
+| 2 | 0% | 0% |  |
 
 ### Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*)
 
@@ -505,29 +502,6 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Οδυσσέας Μιχαηλίδης (*)
-
-*For a full overview of the results for this party, see the [Οδυσσέας Μιχαηλίδης (*)](party-οδυσσέαςμιχαηλίδης.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-οδυσσέαςμιχαηλίδης.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
-
-### Φειδίας Παναγιώτου (*)
-
-*For a full overview of the results for this party, see the [Φειδίας Παναγιώτου (*)](party-φειδίαςπαναγιώτου.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-φειδίαςπαναγιώτου.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
-| 2 | 0% | 0% |  |
-
 
 ## Coalitions
 
@@ -537,12 +511,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) – Κόμμα για τα Ζώα Κύπρου (GUE/NGL) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) – Κόμμα για τα Ζώα Κύπρου (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός (EPP) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ανεξάρτητοι (*) – Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*) – Οδυσσέας Μιχαηλίδης (*) – Φειδίας Παναγιώτου (*) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D) – Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D) | 0 | 1 | 0% | 1 | 1 | 1 | 0–2 |
+| Ανεξάρτητοι (*) – Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*) – Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*) | 0 | 1 | 0% | 1 | 1 | 1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο (ECR) – Κίνημα Αλληλεγγύη (ECR) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Βολτ Κύπρος (Greens/EFA) – Βολτ Κύπρος–Νέο Κύμα–Η Άλλη Κύπρος (Greens/EFA) – Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
+| Άμεσης Δημοκρατίας (NI) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D) – Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
+| Βολτ Κύπρος (Greens/EFA) – Βολτ Κύπρος–Νέο Κύμα–Η Άλλη Κύπρος (Greens/EFA) – Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη (RE) – Συμμαχία Πολιτών (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) – Κόμμα για τα Ζώα Κύπρου (GUE/NGL)
@@ -552,8 +527,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 48% | 100% |  |
-| 2 | 52% | 52% | Median |
+| 1 | 97% | 100% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικός Συναγερμός (EPP)
@@ -563,31 +538,19 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 61% | 100% | Median |
-| 2 | 39% | 39% |  |
+| 1 | 87% | 100% | Median |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% |  |
 
-### Ανεξάρτητοι (*) – Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*) – Οδυσσέας Μιχαηλίδης (*) – Φειδίας Παναγιώτου (*)
+### Ανεξάρτητοι (*) – Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (*) – Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ανεξ–επ–κεκκ–μιχαηλίδης–φειδίας.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ανεξ–αλμα–επ–κεκκ.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 99.9% | 100% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
-
-### Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D) – Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-δηκο–εδεκ–εδεκ–συπολ.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.5% | 100% | Last Result |
-| 1 | 97% | 98.5% | Median |
-| 2 | 1.4% | 1.4% |  |
-| 3 | 0% | 0% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
+| 2 | 0% | 0% |  |
 
 ### Εθνικό Λαϊκό Μέτωπο (ECR) – Κίνημα Αλληλεγγύη (ECR)
 
@@ -596,9 +559,27 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.9% | 100% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
+
+### Άμεσης Δημοκρατίας (NI)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-άδ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 10% | 100% | Last Result |
+| 1 | 90% | 90% | Median |
+| 2 | 0% | 0% |  |
+
+### Δημοκρατικό Κόμμα (S&D) – Κίνημα Σοσιαλδημοκρατών (S&D) – Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-δηκο–εδεκ–εδεκ–συπολ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
+| 2 | 0% | 0% |  |
 
 ### Βολτ Κύπρος (Greens/EFA) – Βολτ Κύπρος–Νέο Κύμα–Η Άλλη Κύπρος (Greens/EFA) – Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA)
 
@@ -606,9 +587,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Last Result, Median |
-| 1 | 0.7% | 0.7% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Δημοκρατική Παράταξη (RE) – Συμμαχία Πολιτών (RE)
 
@@ -622,6 +601,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 2,097,152
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
-+ **Error estimate:** 2.85%
++ **Lowest number of simulations done in a poll included in this average:** 0
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 3.54%
