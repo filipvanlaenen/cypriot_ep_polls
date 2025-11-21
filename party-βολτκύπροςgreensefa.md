@@ -10,14 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.0–4.2% | 1.7–4.5% | 1.6–4.8% | 1.3–5.4% |
-| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 2.2% | 1.7–3.2% | 1.5–3.4% | 1.4–3.7% | 1.1–4.2% |
-| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 2.7% | 2.1–3.7% | 1.9–4.0% | 1.8–4.2% | 1.5–4.7% |
-| [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 2.8% | 2.0–4.1% | 1.8–4.5% | 1.6–4.8% | 1.3–5.5% |
-| [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 3.7% | 3.0–4.7% | 2.8–5.0% | 2.6–5.2% | 2.3–5.8% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.4–4.6% | 2.1–4.9% | 1.9–5.2% | 1.5–5.7% |
+| [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 2.9% | 2.1–4.2% | 1.8–4.6% | 1.7–5.0% | 1.3–5.7% |
+| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 3.7% | 3.0–4.7% | 2.8–5.0% | 2.7–5.3% | 2.3–5.8% |
+| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 2.0% | N/A | N/A | N/A | N/A |
+| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 2.2% | N/A | N/A | N/A | N/A |
+| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 2.7% | N/A | N/A | N/A | N/A |
+| [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 2.8% | N/A | N/A | N/A | N/A |
+| [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 3.7% | N/A | N/A | N/A | N/A |
 | [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots | 3.5% | N/A | N/A | N/A | N/A |
-| [10–21 March 2025](2025-03-21-Redwolf.html) | Redwolf | 4.8% | 3.9–6.0% | 3.7–6.3% | 3.5–6.6% | 3.1–7.2% |
-| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 3.8% | 3.0–4.8% | 2.9–5.1% | 2.7–5.4% | 2.3–5.9% |
+| [10–21 March 2025](2025-03-21-Redwolf.html) | Redwolf | 4.8% | N/A | N/A | N/A | N/A |
+| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 3.8% | N/A | N/A | N/A | N/A |
 | [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 5.7% | N/A | N/A | N/A | N/A |
 | [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 14.8% | N/A | N/A | N/A | N/A |
 | [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 3.2% | N/A | N/A | N/A | N/A |
@@ -29,13 +32,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 30% | 98% |  |
-| 2.5–3.5% | 42% | 68% | Median |
-| 3.5–4.5% | 21% | 26% |  |
-| 4.5–5.5% | 4% | 5% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 14% | 99.2% |  |
+| 2.5–3.5% | 39% | 86% | Median |
+| 3.5–4.5% | 37% | 47% |  |
+| 4.5–5.5% | 9% | 10% |  |
+| 5.5–6.5% | 0.8% | 0.9% |  |
 | 6.5–7.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -47,13 +51,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 0 | 0 | 0 | 0 | 0 |
-| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 0 | 0 | 0 | 0 | 0 |
-| [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 0 | 0 | 0 | 0 | 0 |
-| [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 0 | 0 | 0 | 0 | 0–1 |
+| [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 0 | 0 | 0 | 0 | 0 |
+| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 0 | 0 | 0 | 0 | 0 |
+| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC |  |  |  |  |  |
+| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή |  |  |  |  |  |
+| [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
+| [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
+| [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
 | [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
-| [10–21 March 2025](2025-03-21-Redwolf.html) | Redwolf | 0 | 0 | 0 | 0 | 0–1 |
-| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 0 | 0 | 0 | 0 | 0–1 |
+| [10–21 March 2025](2025-03-21-Redwolf.html) | Redwolf |  |  |  |  |  |
+| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
 | [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
 | [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom |  |  |  |  |  |
 | [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
@@ -66,8 +73,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
