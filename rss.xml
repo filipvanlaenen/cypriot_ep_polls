@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Nov 2025 11:24:24 +0100</pubDate>
+    <pubDate>Sat, 22 Nov 2025 16:36:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse for Omega TV, 4–13 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2025-11-13-Pulse.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-11-13-Pulse-seats.png"
         length="416757"
         type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 22:00:59 +0100</pubDate>
-      <dc:date>2025-11-21T22:00:59.545171+01:00</dc:date>
+      <pubDate>Sat, 22 Nov 2025 16:26:36 +0100</pubDate>
+      <dc:date>2025-11-22T16:26:36.819655+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse for Omega TV, 4–13 November 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-11-13-Pulse-coalitions-seats.png"
         length="316136"
         type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 22:00:59 +0100</pubDate>
-      <dc:date>2025-11-21T22:00:59.545171+01:00</dc:date>
+      <pubDate>Sat, 22 Nov 2025 16:26:36 +0100</pubDate>
+      <dc:date>2025-11-22T16:26:36.819655+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse for Omega TV, 4–13 November 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-11-13-Pulse.png"
         length="466043"
         type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 22:00:59 +0100</pubDate>
-      <dc:date>2025-11-21T22:00:59.545171+01:00</dc:date>
+      <pubDate>Sat, 22 Nov 2025 16:26:36 +0100</pubDate>
+      <dc:date>2025-11-22T16:26:36.819655+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMR/UNic for Reporter, 4–13 November 2025 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-11-13-IMRUNic-seats.png"
         length="337218"
         type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 22:11:45 +0100</pubDate>
-      <dc:date>2025-11-21T22:11:45.205564+01:00</dc:date>
+      <pubDate>Sat, 22 Nov 2025 16:36:32 +0100</pubDate>
+      <dc:date>2025-11-22T16:36:32.768582+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMR/UNic for Reporter, 4–13 November 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-11-13-IMRUNic-coalitions-seats.png"
         length="219663"
         type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 22:11:45 +0100</pubDate>
-      <dc:date>2025-11-21T22:11:45.205564+01:00</dc:date>
+      <pubDate>Sat, 22 Nov 2025 16:36:32 +0100</pubDate>
+      <dc:date>2025-11-22T16:36:32.768582+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMR/UNic for Reporter, 4–13 November 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2025-11-13-IMRUNic.png"
         length="443967"
         type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 22:11:45 +0100</pubDate>
-      <dc:date>2025-11-21T22:11:45.205564+01:00</dc:date>
+      <pubDate>Sat, 22 Nov 2025 16:36:32 +0100</pubDate>
+      <dc:date>2025-11-22T16:36:32.768582+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Cypronetwork for CyBC, 29 September–17 October 2025 – Seat Projections for the Parties</title>
@@ -129,6 +129,6 @@
       <pubDate>Sat, 22 Nov 2025 11:24:24 +0100</pubDate>
       <dc:date>2025-11-22T11:24:24.948736+01:00</dc:date>
     </item>
-    <dc:date>2025-11-22T11:24:24.948736+01:00</dc:date>
+    <dc:date>2025-11-22T16:36:32.768582+01:00</dc:date>
   </channel>
 </rss>
