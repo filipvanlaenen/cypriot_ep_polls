@@ -61,7 +61,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1 | 1 | 1 | 0–1 |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1 | 1 | 1 | 1 |
-| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 1 |
+| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 0–1 |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
