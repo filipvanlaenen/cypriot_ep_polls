@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.0–3.8% | 1.7–4.1% | 1.6–4.4% | 1.3–5.1% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.7% | 1.7–4.1% | 1.5–4.5% | 1.2–5.2% |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 2.9% | 2.1–4.2% | 1.8–4.6% | 1.7–5.0% | 1.3–5.7% |
-| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 3.0% | 2.4–3.9% | 2.2–4.2% | 2.1–4.4% | 1.8–4.9% |
+| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 3.0% | N/A | N/A | N/A | N/A |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 2.7% | 2.1–3.6% | 1.9–3.9% | 1.8–4.1% | 1.5–4.6% |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 2.2% | 1.7–3.2% | 1.5–3.4% | 1.4–3.7% | 1.1–4.2% |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 2.7% | N/A | N/A | N/A | N/A |
@@ -32,10 +32,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 33% | 98% |  |
-| 2.5–3.5% | 48% | 64% | Median |
-| 3.5–4.5% | 14% | 16% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 39% | 97% |  |
+| 2.5–3.5% | 44% | 58% | Median |
+| 3.5–4.5% | 12% | 14% |  |
 | 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -51,7 +51,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 0 | 0 | 0 | 0 | 0 |
-| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 0 | 0 | 0 | 0 | 0 |
+| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 0 | 0 | 0 | 0 | 0 |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 0 | 0 | 0 | 0 | 0 |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |

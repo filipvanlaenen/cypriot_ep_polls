@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.2% | 19.4–25.0% | 18.6–25.7% | 17.9–26.3% | 16.6–27.5% |
+| N/A | [Poll Average](average.html) | 22.7% | 19.4–25.3% | 18.4–25.9% | 17.7–26.6% | 16.4–27.7% |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 20.3% | 18.0–23.0% | 17.3–23.8% | 16.8–24.5% | 15.7–25.8% |
-| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 21.3% | 19.5–23.2% | 19.0–23.7% | 18.6–24.2% | 17.8–25.1% |
+| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 21.3% | N/A | N/A | N/A | N/A |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 23.0% | 21.1–25.1% | 20.6–25.6% | 20.1–26.2% | 19.2–27.2% |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 23.9% | 21.9–26.1% | 21.3–26.7% | 20.8–27.3% | 19.9–28.3% |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 23.3% | N/A | N/A | N/A | N/A |
@@ -47,19 +47,19 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.4% | 99.9% |  |
-| 16.5–17.5% | 1.2% | 99.5% |  |
+| 15.5–16.5% | 0.5% | 99.9% |  |
+| 16.5–17.5% | 1.5% | 99.4% |  |
 | 17.5–18.5% | 3% | 98% |  |
-| 18.5–19.5% | 6% | 95% |  |
-| 19.5–20.5% | 11% | 89% |  |
-| 20.5–21.5% | 16% | 78% |  |
-| 21.5–22.5% | 18% | 62% | Median |
-| 22.5–23.5% | 17% | 44% |  |
-| 23.5–24.5% | 13% | 27% |  |
-| 24.5–25.5% | 8% | 14% |  |
-| 25.5–26.5% | 4% | 6% |  |
-| 26.5–27.5% | 1.4% | 2% |  |
-| 27.5–28.5% | 0.4% | 0.5% |  |
+| 18.5–19.5% | 6% | 94% |  |
+| 19.5–20.5% | 8% | 89% |  |
+| 20.5–21.5% | 12% | 80% |  |
+| 21.5–22.5% | 16% | 68% |  |
+| 22.5–23.5% | 18% | 52% | Median |
+| 23.5–24.5% | 16% | 34% |  |
+| 24.5–25.5% | 10% | 18% |  |
+| 25.5–26.5% | 5% | 8% |  |
+| 26.5–27.5% | 2% | 3% |  |
+| 27.5–28.5% | 0.5% | 0.6% |  |
 | 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
@@ -74,7 +74,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 1 | 1 | 1 | 1–2 | 1–2 |
-| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1 | 1 | 1–2 | 1–2 |
+| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
@@ -96,8 +96,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 70% | 100% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 61% | 100% | Median |
+| 2 | 39% | 39% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 0.9–2.1% | 0.8–2.3% | 0.7–2.4% | 0.6–2.8% |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 0.0% | N/A | N/A | N/A | N/A |
-| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter | 0.0% | N/A | N/A | N/A | N/A |
+| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 0.0% | N/A | N/A | N/A | N/A |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 1.3% | 0.9–2.1% | 0.8–2.3% | 0.7–2.5% | 0.6–2.9% |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 0.0% | N/A | N/A | N/A | N/A |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 1.4% | N/A | N/A | N/A | N/A |
@@ -48,7 +48,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV |  |  |  |  |  |
-| [4–13 November 2025](2025-11-13-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
+| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 0 | 0 | 0 | 0 | 0 |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή |  |  |  |  |  |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
