@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.8% | 20.7–25.1% | 20.1–25.8% | 19.6–26.5% | 18.6–27.8% |
+| N/A | [Poll Average](average.html) | 22.8% | 20.7–25.0% | 20.2–25.7% | 19.7–26.3% | 18.7–27.8% |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 23.2% | 20.7–26.0% | 20.0–26.8% | 19.4–27.5% | 18.3–28.9% |
 | [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 22.1% | 20.3–24.0% | 19.8–24.6% | 19.4–25.1% | 18.6–26.0% |
-| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 23.0% | 21.1–25.1% | 20.6–25.6% | 20.1–26.2% | 19.2–27.2% |
+| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 23.0% | 21.4–24.7% | 20.9–25.2% | 20.5–25.6% | 19.8–26.4% |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 22.7% | 20.7–24.9% | 20.1–25.5% | 19.7–26.0% | 18.8–27.1% |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 21.9% | N/A | N/A | N/A | N/A |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 23.3% | N/A | N/A | N/A | N/A |
@@ -49,18 +49,18 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.4% | 99.9% |  |
+| 17.5–18.5% | 0.3% | 99.9% |  |
 | 18.5–19.5% | 2% | 99.6% |  |
 | 19.5–20.5% | 6% | 98% |  |
-| 20.5–21.5% | 15% | 91% |  |
-| 21.5–22.5% | 22% | 77% |  |
-| 22.5–23.5% | 22% | 55% | Median |
+| 20.5–21.5% | 14% | 92% |  |
+| 21.5–22.5% | 23% | 78% |  |
+| 22.5–23.5% | 24% | 55% | Median |
 | 23.5–24.5% | 17% | 32% |  |
-| 24.5–25.5% | 9% | 16% |  |
+| 24.5–25.5% | 9% | 14% |  |
 | 25.5–26.5% | 4% | 6% |  |
-| 26.5–27.5% | 2% | 2% |  |
-| 27.5–28.5% | 0.5% | 0.7% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
+| 26.5–27.5% | 1.3% | 2% |  |
+| 27.5–28.5% | 0.5% | 0.6% |  |
+| 28.5–29.5% | 0.1% | 0.2% |  |
 | 29.5–30.5% | 0% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
@@ -97,8 +97,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 74% | 100% | Median |
-| 2 | 26% | 26% |  |
+| 1 | 75% | 100% | Median |
+| 2 | 25% | 25% |  |
 | 3 | 0% | 0% |  |
 
 

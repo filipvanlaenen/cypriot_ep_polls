@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.5% | 12.8–17.6% | 11.9–18.1% | 11.3–18.6% | 10.1–19.5% |
+| N/A | [Poll Average](average.html) | 15.5% | 12.8–17.4% | 11.9–18.0% | 11.3–18.5% | 10.1–19.5% |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 13.2% | 11.2–15.5% | 10.7–16.2% | 10.3–16.8% | 9.4–17.9% |
 | [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 16.2% | 14.6–17.9% | 14.2–18.4% | 13.8–18.9% | 13.1–19.7% |
-| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 15.6% | 14.0–17.4% | 13.5–17.9% | 13.2–18.4% | 12.4–19.3% |
+| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 15.5% | 14.1–17.0% | 13.8–17.4% | 13.4–17.8% | 12.8–18.5% |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 16.0% | 14.3–17.9% | 13.8–18.5% | 13.4–18.9% | 12.6–19.9% |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 17.8% | N/A | N/A | N/A | N/A |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 16.6% | N/A | N/A | N/A | N/A |
@@ -45,13 +45,13 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 3% | 99.0% |  |
 | 11.5–12.5% | 5% | 96% |  |
 | 12.5–13.5% | 8% | 92% |  |
-| 13.5–14.5% | 14% | 83% |  |
-| 14.5–15.5% | 21% | 70% |  |
-| 15.5–16.5% | 23% | 49% | Median |
-| 16.5–17.5% | 16% | 26% |  |
-| 17.5–18.5% | 7% | 10% |  |
-| 18.5–19.5% | 2% | 3% |  |
-| 19.5–20.5% | 0.4% | 0.5% |  |
+| 13.5–14.5% | 14% | 84% |  |
+| 14.5–15.5% | 22% | 70% | Median |
+| 15.5–16.5% | 24% | 48% |  |
+| 16.5–17.5% | 16% | 25% |  |
+| 17.5–18.5% | 7% | 9% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.4% | 0.4% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
