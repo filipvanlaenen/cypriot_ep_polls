@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 5.8–10.0% | 5.4–10.5% | 5.2–11.0% | 4.7–11.9% |
+| N/A | [Poll Average](average.html) | 8.9% | 6.7–10.8% | 6.2–11.2% | 5.9–11.6% | 5.3–12.4% |
+| [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.7% |
 | [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 9.2% | 7.9–10.8% | 7.6–11.2% | 7.3–11.6% | 6.7–12.4% |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 8.7% | 7.5–10.2% | 7.1–10.7% | 6.8–11.1% | 6.3–11.8% |
 | [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 6.9% | 5.9–8.2% | 5.6–8.5% | 5.3–8.8% | 4.9–9.5% |
@@ -36,16 +37,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 6% | 99.7% |  |
-| 5.5–6.5% | 20% | 93% |  |
-| 6.5–7.5% | 20% | 73% |  |
-| 7.5–8.5% | 19% | 53% | Median |
-| 8.5–9.5% | 18% | 35% |  |
-| 9.5–10.5% | 11% | 16% |  |
-| 10.5–11.5% | 4% | 5% |  |
-| 11.5–12.5% | 0.8% | 0.9% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 1.1% | 100% |  |
+| 5.5–6.5% | 7% | 98.9% |  |
+| 6.5–7.5% | 14% | 92% |  |
+| 7.5–8.5% | 19% | 77% |  |
+| 8.5–9.5% | 24% | 59% | Median |
+| 9.5–10.5% | 21% | 34% |  |
+| 10.5–11.5% | 10% | 13% |  |
+| 11.5–12.5% | 2% | 3% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -57,7 +58,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
 | [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -81,8 +83,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 80% | 80% | Median |
+| 0 | 6% | 100% | Last Result |
+| 1 | 94% | 94% | Median |
 | 2 | 0% | 0% |  |
 
 
