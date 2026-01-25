@@ -57,8 +57,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 97% | 100% | Median |
-| 2 | 3% | 3% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL)
@@ -70,8 +70,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 83% | 100% | Median |
-| 2 | 17% | 17% |  |
+| 1 | 88% | 100% | Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 ### Εθνικό Λαϊκό Μέτωπο (ECR)
@@ -93,8 +93,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
 
 ### Άμεσης Δημοκρατίας (NI)
 
@@ -104,8 +105,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
 
 ### Δημοκρατικό Κόμμα (S&D)
 
@@ -115,8 +117,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 80% | 80% | Median |
+| 0 | 16% | 100% | Last Result |
+| 1 | 84% | 84% | Median |
 | 2 | 0% | 0% |  |
 
 ### Βολτ Κύπρος (Greens/EFA)
@@ -199,8 +201,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 83% | 100% | Median |
-| 2 | 17% | 17% |  |
+| 1 | 88% | 100% | Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 ### Δημοκρατικός Συναγερμός (EPP)
@@ -210,8 +212,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 97% | 100% | Median |
-| 2 | 3% | 3% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Άμεσης Δημοκρατίας (NI)
@@ -220,8 +222,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -235,6 +238,6 @@
 ### Calculations
 
 + **Sample size:** 1004
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.70%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.24%
 
