@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.9% | 21.0–25.0% | 20.4–25.6% | 20.0–26.2% | 19.1–27.3% |
+| N/A | [Poll Average](average.html) | 22.9% | 21.0–25.0% | 20.4–25.6% | 19.9–26.1% | 19.0–27.2% |
+| [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 22.3% | 20.4–24.4% | 19.9–24.9% | 19.4–25.4% | 18.6–26.4% |
 | [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.6–26.4% |
 | [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 23.5% | 21.5–25.7% | 21.0–26.3% | 20.5–26.8% | 19.6–27.8% |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 23.1% | 21.2–25.3% | 20.6–25.9% | 20.2–26.4% | 19.3–27.5% |
@@ -51,7 +52,7 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
 | 18.5–19.5% | 1.1% | 99.8% |  |
 | 19.5–20.5% | 5% | 98.7% |  |
 | 20.5–21.5% | 13% | 94% |  |
@@ -60,8 +61,8 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 19% | 34% |  |
 | 24.5–25.5% | 10% | 15% |  |
 | 25.5–26.5% | 4% | 5% |  |
-| 26.5–27.5% | 1.2% | 1.5% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
+| 26.5–27.5% | 1.1% | 1.4% |  |
+| 27.5–28.5% | 0.2% | 0.3% |  |
 | 28.5–29.5% | 0% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
@@ -74,7 +75,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 1 | 1–2 | 1–2 |
 | [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -100,8 +102,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 88% | 100% | Median |
-| 2 | 12% | 12% |  |
+| 1 | 90% | 100% | Median |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 
