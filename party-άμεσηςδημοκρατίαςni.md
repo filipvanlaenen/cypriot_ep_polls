@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 1 | 1 | 1 | 0–1 | 0–1 |
-| [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 1 | 0–1 | 0–1 |
+| [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
 | [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -89,8 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 93% | 93% | Median |
+| 0 | 8% | 100% | Last Result |
+| 1 | 92% | 92% | Median |
 | 2 | 0% | 0% |  |
 
 
