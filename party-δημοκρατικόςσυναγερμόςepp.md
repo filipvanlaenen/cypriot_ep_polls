@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.4% | 20.1–24.7% | 19.5–25.4% | 18.9–25.9% | 17.9–27.1% |
+| N/A | [Poll Average](average.html) | 22.2% | 20.1–24.3% | 19.4–25.0% | 18.9–25.5% | 17.9–26.5% |
+| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 22.8% | 21.0–24.8% | 20.4–25.3% | 20.0–25.8% | 19.1–26.8% |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 22.5% | 20.7–24.6% | 20.2–25.1% | 19.7–25.7% | 18.9–26.6% |
 | [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 21.0% | 19.1–23.1% | 18.5–23.7% | 18.1–24.2% | 17.2–25.2% |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 22.3% | 20.4–24.4% | 19.9–24.9% | 19.4–25.4% | 18.6–26.4% |
@@ -57,14 +58,14 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 1.2% | 99.7% |  |
 | 18.5–19.5% | 4% | 98.5% |  |
 | 19.5–20.5% | 10% | 94% |  |
-| 20.5–21.5% | 17% | 85% |  |
-| 21.5–22.5% | 22% | 68% | Median |
-| 22.5–23.5% | 20% | 46% |  |
-| 23.5–24.5% | 14% | 26% |  |
-| 24.5–25.5% | 7% | 11% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.9% | 1.1% |  |
-| 27.5–28.5% | 0.2% | 0.2% |  |
+| 20.5–21.5% | 18% | 84% |  |
+| 21.5–22.5% | 23% | 66% | Median |
+| 22.5–23.5% | 21% | 42% |  |
+| 23.5–24.5% | 13% | 21% |  |
+| 24.5–25.5% | 6% | 8% |  |
+| 25.5–26.5% | 2% | 2% |  |
+| 26.5–27.5% | 0.4% | 0.5% |  |
+| 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 
@@ -76,7 +77,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 1 | 1 | 1 | 1–2 | 1–2 |
 | [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 1 | 1 | 1–2 |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -105,8 +107,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 92% | 100% | Median |
-| 2 | 8% | 8% |  |
+| 1 | 89% | 100% | Median |
+| 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
 
