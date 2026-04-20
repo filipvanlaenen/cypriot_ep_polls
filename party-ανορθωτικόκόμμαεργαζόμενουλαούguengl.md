@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.5% | 20.5–24.6% | 20.0–25.2% | 19.5–25.7% | 18.6–26.7% |
+| N/A | [Poll Average](average.html) | 22.4% | 20.5–24.5% | 20.0–25.1% | 19.6–25.6% | 18.7–26.6% |
 | [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 22.8% | 21.0–24.8% | 20.4–25.3% | 20.0–25.8% | 19.1–26.8% |
+| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 22.2% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 19.0–25.7% |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 22.0% | 20.2–24.0% | 19.7–24.6% | 19.2–25.1% | 18.4–26.1% |
 | [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 22.1% | 20.2–24.3% | 19.6–24.9% | 19.2–25.4% | 18.3–26.4% |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 23.0% | 21.1–25.0% | 20.5–25.6% | 20.1–26.1% | 19.2–27.2% |
@@ -57,14 +58,14 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.4% | 100% |  |
 | 18.5–19.5% | 2% | 99.6% |  |
-| 19.5–20.5% | 7% | 97% |  |
+| 19.5–20.5% | 8% | 98% |  |
 | 20.5–21.5% | 17% | 90% |  |
-| 21.5–22.5% | 24% | 73% |  |
-| 22.5–23.5% | 23% | 49% | Median |
-| 23.5–24.5% | 16% | 26% |  |
-| 24.5–25.5% | 7% | 10% |  |
+| 21.5–22.5% | 25% | 72% | Median |
+| 22.5–23.5% | 23% | 47% |  |
+| 23.5–24.5% | 15% | 24% |  |
+| 24.5–25.5% | 6% | 9% |  |
 | 25.5–26.5% | 2% | 3% |  |
-| 26.5–27.5% | 0.6% | 0.7% |  |
+| 26.5–27.5% | 0.5% | 0.6% |  |
 | 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -79,6 +80,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 1 | 1 | 1 | 1 | 1–2 |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 1 | 1 | 1 | 1–2 | 1–2 |
 | [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -107,8 +109,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 92% | 100% | Median |
-| 2 | 8% | 8% |  |
+| 1 | 93% | 100% | Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 

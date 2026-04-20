@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.1–1.0% | 0.1–1.2% | 0.1–1.3% | 0.0–1.7% |
 | [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 0.0% | N/A | N/A | N/A | N/A |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 0.0% | N/A | N/A | N/A | N/A |
 | [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 0.1% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% | 0.0–1.1% |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,6 +54,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 0 | 0 | 0 | 0 | 0 |
+| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis |  |  |  |  |  |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ |  |  |  |  |  |
 | [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
