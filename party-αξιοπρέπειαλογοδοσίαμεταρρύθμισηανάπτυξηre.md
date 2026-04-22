@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 9.0–13.6% | 8.5–14.2% | 8.1–14.6% | 7.4–15.6% |
+| N/A | [Poll Average](average.html) | 11.4% | 9.0–13.8% | 8.5–14.4% | 8.1–14.9% | 7.4–15.9% |
+| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 11.7% | 10.4–13.2% | 10.0–13.6% | 9.7–13.9% | 9.1–14.7% |
+| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 13.4% | 11.9–15.1% | 11.6–15.5% | 11.2–15.9% | 10.5–16.8% |
 | [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 9.5% | 8.3–11.0% | 7.9–11.4% | 7.6–11.8% | 7.1–12.5% |
 | [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 12.1% | 10.8–13.5% | 10.5–13.9% | 10.2–14.2% | 9.6–14.9% |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 12.2% | 10.8–13.8% | 10.4–14.3% | 10.1–14.7% | 9.4–15.5% |
@@ -49,13 +51,13 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 5% | 99.3% |  |
 | 8.5–9.5% | 13% | 94% |  |
 | 9.5–10.5% | 16% | 82% |  |
-| 10.5–11.5% | 18% | 66% | Median |
-| 11.5–12.5% | 21% | 48% |  |
-| 12.5–13.5% | 17% | 27% |  |
-| 13.5–14.5% | 8% | 11% |  |
-| 14.5–15.5% | 2% | 3% |  |
-| 15.5–16.5% | 0.5% | 0.5% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 19% | 65% | Median |
+| 11.5–12.5% | 19% | 47% |  |
+| 12.5–13.5% | 15% | 27% |  |
+| 13.5–14.5% | 8% | 12% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 0.8% | 1.0% |  |
+| 16.5–17.5% | 0.1% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -68,6 +70,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1 | 1 |
+| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 1 | 1 | 1 | 1 | 1 |
 | [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1 | 1 | 1 | 0–1 |
 | [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 1 | 1 | 1 | 1 | 1 |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 1 | 1 | 1 | 1 | 1 |
