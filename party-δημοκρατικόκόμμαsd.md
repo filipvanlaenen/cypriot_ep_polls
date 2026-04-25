@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.4–12.0% | 8.1–12.8% | 7.8–13.3% | 7.2–14.3% |
+| N/A | [Poll Average](average.html) | 9.5% | 7.7–12.0% | 7.3–12.8% | 7.0–13.3% | 6.5–14.3% |
+| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 7.8% | 6.9–8.8% | 6.7–9.1% | 6.5–9.3% | 6.1–9.8% |
 | [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 9.2% | 8.1–10.5% | 7.7–10.9% | 7.5–11.3% | 7.0–11.9% |
 | [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 11.9% | 10.5–13.5% | 10.1–13.9% | 9.8–14.4% | 9.1–15.2% |
 | [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 9.6% | 8.4–11.1% | 8.1–11.5% | 7.8–11.9% | 7.2–12.6% |
@@ -48,13 +49,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.4% | 100% |  |
-| 7.5–8.5% | 11% | 98.6% |  |
-| 8.5–9.5% | 29% | 87% |  |
-| 9.5–10.5% | 28% | 58% | Median |
-| 10.5–11.5% | 16% | 31% |  |
-| 11.5–12.5% | 9% | 15% |  |
+| 5.5–6.5% | 0.6% | 100% |  |
+| 6.5–7.5% | 7% | 99.4% |  |
+| 7.5–8.5% | 19% | 92% |  |
+| 8.5–9.5% | 24% | 73% |  |
+| 9.5–10.5% | 21% | 49% | Median |
+| 10.5–11.5% | 13% | 28% |  |
+| 11.5–12.5% | 8% | 14% |  |
 | 12.5–13.5% | 4% | 6% |  |
 | 13.5–14.5% | 1.5% | 2% |  |
 | 14.5–15.5% | 0.3% | 0.3% |  |
@@ -70,6 +71,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 1 | 1 | 1 | 1 | 0–1 |
 | [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1 |
 | [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 1 | 1 | 1 | 1 | 0–1 |
@@ -103,8 +105,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 98% | 98% | Median |
+| 0 | 1.5% | 100% | Last Result |
+| 1 | 98.5% | 98.5% | Median |
 | 2 | 0% | 0% |  |
 
 
