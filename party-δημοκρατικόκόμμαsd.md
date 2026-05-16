@@ -10,23 +10,31 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 7.7–12.0% | 7.3–12.8% | 7.0–13.3% | 6.5–14.3% |
-| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 7.8% | 6.9–8.8% | 6.7–9.1% | 6.5–9.3% | 6.1–9.8% |
-| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 9.2% | 8.1–10.5% | 7.7–10.9% | 7.5–11.3% | 7.0–11.9% |
-| [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 11.9% | 10.5–13.5% | 10.1–13.9% | 9.8–14.4% | 9.1–15.2% |
-| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 9.6% | 8.4–11.1% | 8.1–11.5% | 7.8–11.9% | 7.2–12.6% |
-| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 9.5% | 8.3–11.0% | 7.9–11.4% | 7.6–11.8% | 7.1–12.5% |
-| [6–14 March 2026](2026-03-14-CYMAR.html) | CYMAR <br> ANT1 | 11.6% | 10.2–13.3% | 9.8–13.8% | 9.4–14.2% | 8.8–15.0% |
-| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.4–12.1% |
-| [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 8.9% | 7.7–10.4% | 7.4–10.8% | 7.1–11.2% | 6.6–11.9% |
-| [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 9.2% | 7.9–10.7% | 7.5–11.2% | 7.2–11.6% | 6.7–12.4% |
-| [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 8.8% | 7.6–10.3% | 7.2–10.7% | 7.0–11.1% | 6.4–11.8% |
-| [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
-| [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 8.1% | 6.9–9.6% | 6.5–10.0% | 6.3–10.3% | 5.7–11.1% |
-| [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 8.7% | 7.5–10.2% | 7.1–10.7% | 6.8–11.1% | 6.3–11.8% |
-| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 8.6% | 7.4–10.0% | 7.1–10.3% | 6.9–10.7% | 6.3–11.4% |
-| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.7% |
-| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 9.1% | 7.8–10.7% | 7.5–11.1% | 7.1–11.5% | 6.6–12.3% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.6–11.0% | 8.3–11.4% | 8.1–11.7% | 7.5–12.4% |
+| [6–13 May 2026](2026-05-13-Explorer.html) | Explorer <br> Philenews | 9.8% | 8.7–10.9% | 8.5–11.2% | 8.2–11.5% | 7.8–12.1% |
+| [1–11 May 2026](2026-05-11-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 9.7% | 8.5–11.1% | 8.2–11.6% | 7.9–11.9% | 7.4–12.6% |
+| [30 April–10 May 2026](2026-05-10-IMR.html) | IMR <br> Reporter | 8.5% | N/A | N/A | N/A | N/A |
+| [28 April–10 May 2026](2026-05-10-CYMAR.html) | CYMAR <br> ANT1 | 10.8% | N/A | N/A | N/A | N/A |
+| [2–9 May 2026](2026-05-09-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 9.4% | N/A | N/A | N/A | N/A |
+| [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 8.6% | N/A | N/A | N/A | N/A |
+| [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews | 7.4% | N/A | N/A | N/A | N/A |
+| [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 8.5% | N/A | N/A | N/A | N/A |
+| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 7.8% | N/A | N/A | N/A | N/A |
+| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 9.2% | N/A | N/A | N/A | N/A |
+| [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 11.9% | N/A | N/A | N/A | N/A |
+| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 9.6% | N/A | N/A | N/A | N/A |
+| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 9.5% | N/A | N/A | N/A | N/A |
+| [6–14 March 2026](2026-03-14-CYMAR.html) | CYMAR <br> ANT1 | 11.6% | N/A | N/A | N/A | N/A |
+| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 9.5% | N/A | N/A | N/A | N/A |
+| [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 8.9% | N/A | N/A | N/A | N/A |
+| [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 9.2% | N/A | N/A | N/A | N/A |
+| [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 8.8% | N/A | N/A | N/A | N/A |
+| [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 7.9% | N/A | N/A | N/A | N/A |
+| [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 8.1% | N/A | N/A | N/A | N/A |
+| [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 8.7% | N/A | N/A | N/A | N/A |
+| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 8.6% | N/A | N/A | N/A | N/A |
+| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 10.1% | N/A | N/A | N/A | N/A |
+| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 9.1% | N/A | N/A | N/A | N/A |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 8.2% | N/A | N/A | N/A | N/A |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots | 8.2% | N/A | N/A | N/A | N/A |
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 8.6% | N/A | N/A | N/A | N/A |
@@ -49,17 +57,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 7% | 99.4% |  |
-| 7.5–8.5% | 19% | 92% |  |
-| 8.5–9.5% | 24% | 73% |  |
-| 9.5–10.5% | 21% | 49% | Median |
-| 10.5–11.5% | 13% | 28% |  |
-| 11.5–12.5% | 8% | 14% |  |
-| 12.5–13.5% | 4% | 6% |  |
-| 13.5–14.5% | 1.5% | 2% |  |
-| 14.5–15.5% | 0.3% | 0.3% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.5% | 100% |  |
+| 7.5–8.5% | 8% | 99.5% |  |
+| 8.5–9.5% | 32% | 92% |  |
+| 9.5–10.5% | 39% | 60% | Median |
+| 10.5–11.5% | 18% | 21% |  |
+| 11.5–12.5% | 3% | 4% |  |
+| 12.5–13.5% | 0.3% | 0.4% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,22 +77,30 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
-| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 1 | 1 | 1 | 1 | 0–1 |
-| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 0–1 | 0–1 |
-| [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1 |
-| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 1 | 1 | 1 | 1 | 0–1 |
-| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1 | 1 | 1 | 1 |
-| [6–14 March 2026](2026-03-14-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1 |
-| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 1 | 1 | 1 | 0–1 | 0–1 |
-| [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 1 | 1 | 1 | 0–1 | 0–1 |
-| [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 1 | 1 | 1 | 0–1 |
-| [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 1 | 1 | 1 | 1 | 0–1 |
-| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1 | 1 | 1 | 1 |
-| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 0–1 |
+| [6–13 May 2026](2026-05-13-Explorer.html) | Explorer <br> Philenews | 1 | 1 | 1 | 1 | 0–1 |
+| [1–11 May 2026](2026-05-11-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 1 | 1 | 1 | 1 | 1 |
+| [30 April–10 May 2026](2026-05-10-IMR.html) | IMR <br> Reporter |  |  |  |  |  |
+| [28 April–10 May 2026](2026-05-10-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |
+| [2–9 May 2026](2026-05-09-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
+| [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times |  |  |  |  |  |
+| [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews |  |  |  |  |  |
+| [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή |  |  |  |  |  |
+| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus |  |  |  |  |  |
+| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
+| [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |
+| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros |  |  |  |  |  |
+| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC |  |  |  |  |  |
+| [6–14 March 2026](2026-03-14-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |
+| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis |  |  |  |  |  |
+| [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ |  |  |  |  |  |
+| [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
+| [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
+| [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
+| [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή |  |  |  |  |  |
+| [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV |  |  |  |  |  |
+| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
+| [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC |  |  |  |  |  |
+| [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή |  |  |  |  |  |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
 | [1–8 July 2025](2025-07-08-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
@@ -105,8 +119,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.5% | 100% | Last Result |
-| 1 | 98.5% | 98.5% | Median |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 99.5% | 99.5% | Median |
 | 2 | 0% | 0% |  |
 
 
