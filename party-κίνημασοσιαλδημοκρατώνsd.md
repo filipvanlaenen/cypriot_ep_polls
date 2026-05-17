@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.2% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.2–4.4% | 2.0–5.0% | 1.9–5.3% | 1.6–6.0% |
 | [6–13 May 2026](2026-05-13-Explorer.html) | Explorer <br> Philenews | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.4% | 1.5–3.8% |
 | [1–11 May 2026](2026-05-11-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 2.6% | 2.0–3.5% | 1.9–3.7% | 1.7–3.9% | 1.5–4.4% |
-| [30 April–10 May 2026](2026-05-10-IMR.html) | IMR <br> Reporter | 2.5% | N/A | N/A | N/A | N/A |
-| [28 April–10 May 2026](2026-05-10-CYMAR.html) | CYMAR <br> ANT1 | 2.7% | N/A | N/A | N/A | N/A |
-| [2–9 May 2026](2026-05-09-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 2.9% | N/A | N/A | N/A | N/A |
-| [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 3.9% | N/A | N/A | N/A | N/A |
-| [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews | 4.8% | N/A | N/A | N/A | N/A |
-| [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 2.6% | N/A | N/A | N/A | N/A |
+| [30 April–10 May 2026](2026-05-10-IMR.html) | IMR <br> Reporter | 2.5% | 2.1–2.9% | 2.0–3.0% | 2.0–3.1% | 1.8–3.3% |
+| [28 April–10 May 2026](2026-05-10-CYMAR.html) | CYMAR <br> ANT1 | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.8–3.8% | 1.6–4.2% |
+| [2–9 May 2026](2026-05-09-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 2.9% | 2.4–3.7% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
+| [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 3.9% | 3.5–4.3% | 3.4–4.4% | 3.4–4.5% | 3.2–4.6% |
+| [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews | 4.8% | 4.1–5.6% | 3.9–5.9% | 3.7–6.1% | 3.4–6.6% |
+| [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 2.6% | 2.0–3.6% | 1.8–3.8% | 1.6–4.1% | 1.4–4.6% |
 | [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 3.3% | N/A | N/A | N/A | N/A |
 | [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1.2% | N/A | N/A | N/A | N/A |
 | [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 3.9% | N/A | N/A | N/A | N/A |
@@ -52,12 +52,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.8% | 100% |  |
-| 1.5–2.5% | 48% | 99.2% |  |
-| 2.5–3.5% | 47% | 52% | Median |
-| 3.5–4.5% | 4% | 5% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 31% | 99.6% |  |
+| 2.5–3.5% | 40% | 69% | Median |
+| 3.5–4.5% | 20% | 29% |  |
+| 4.5–5.5% | 7% | 9% |  |
+| 5.5–6.5% | 1.5% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,12 +73,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [6–13 May 2026](2026-05-13-Explorer.html) | Explorer <br> Philenews | 0 | 0 | 0 | 0 | 0 |
 | [1–11 May 2026](2026-05-11-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 0 | 0 | 0 | 0 | 0 |
-| [30 April–10 May 2026](2026-05-10-IMR.html) | IMR <br> Reporter |  |  |  |  |  |
-| [28 April–10 May 2026](2026-05-10-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |
-| [2–9 May 2026](2026-05-09-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
-| [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews |  |  |  |  |  |
-| [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή |  |  |  |  |  |
+| [30 April–10 May 2026](2026-05-10-IMR.html) | IMR <br> Reporter | 0 | 0 | 0 | 0 | 0 |
+| [28 April–10 May 2026](2026-05-10-CYMAR.html) | CYMAR <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
+| [2–9 May 2026](2026-05-09-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 0 | 0 | 0 | 0 | 0 |
+| [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 0 | 0 | 0 | 0 | 0 |
+| [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews | 0 | 0 | 0 | 0 | 0 |
+| [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 0 | 0 | 0 | 0 | 0 |
 | [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus |  |  |  |  |  |
 | [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
 | [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |
