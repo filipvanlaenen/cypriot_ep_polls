@@ -19,13 +19,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 18.4% | 17.7–19.2% | 17.5–19.4% | 17.3–19.6% | 17.0–19.9% |
 | [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.9–21.3% | 16.2–22.0% |
 | [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 21.2% | 19.3–23.3% | 18.8–23.9% | 18.4–24.4% | 17.5–25.5% |
-| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 21.7% | N/A | N/A | N/A | N/A |
-| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 22.6% | N/A | N/A | N/A | N/A |
-| [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 21.0% | N/A | N/A | N/A | N/A |
-| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 22.5% | N/A | N/A | N/A | N/A |
-| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 22.8% | N/A | N/A | N/A | N/A |
+| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 21.7% | 20.3–23.1% | 19.9–23.5% | 19.6–23.9% | 19.0–24.6% |
+| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 22.6% | 20.9–24.5% | 20.4–25.0% | 20.0–25.5% | 19.2–26.4% |
+| [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 21.0% | 19.2–23.0% | 18.7–23.5% | 18.3–24.0% | 17.4–25.0% |
+| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 22.5% | 20.7–24.5% | 20.2–25.1% | 19.8–25.6% | 18.9–26.5% |
+| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 22.8% | 21.0–24.8% | 20.4–25.3% | 20.0–25.8% | 19.1–26.8% |
 | [6–14 March 2026](2026-03-14-CYMAR.html) | CYMAR <br> ANT1 | 20.3% | N/A | N/A | N/A | N/A |
-| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 22.2% | N/A | N/A | N/A | N/A |
+| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 22.2% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 19.0–25.7% |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ | 22.0% | N/A | N/A | N/A | N/A |
 | [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 22.1% | N/A | N/A | N/A | N/A |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 23.0% | N/A | N/A | N/A | N/A |
@@ -98,13 +98,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 1 | 1 | 1 | 1 | 1 |
 | [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews | 1 | 1 | 1 | 1 | 1 |
 | [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1 | 1 | 1 | 1–2 |
-| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus |  |  |  |  |  |
-| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
-| [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |
-| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros |  |  |  |  |  |
-| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC |  |  |  |  |  |
+| [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 1 | 1 | 1 | 1 | 1–2 |
+| [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1–2 | 1–2 |
+| [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1 | 1 | 1 | 1–2 |
+| [30 March–6 April 2026](2026-04-06-Explorer.html) | Explorer <br> Phileleftheros | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–26 March 2026](2026-03-26-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–14 March 2026](2026-03-14-CYMAR.html) | CYMAR <br> ANT1 |  |  |  |  |  |
-| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis |  |  |  |  |  |
+| [26 February–11 March 2026](2026-03-11-Noverna.html) | Noverna <br> Politis | 1 | 1 | 1 | 1 | 1–2 |
 | [17–25 February 2026](2026-02-25-Explorer.html) | Explorer <br> Φ |  |  |  |  |  |
 | [9–17 February 2026](2026-02-17-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
 | [6–14 February 2026](2026-02-14-PrimeConsulting.html) | Prime Consulting <br> Sigma TV |  |  |  |  |  |
