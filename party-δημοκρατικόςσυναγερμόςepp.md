@@ -10,15 +10,20 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.8% | 19.4–24.9% | 18.8–25.6% | 18.4–26.2% | 17.4–27.4% |
+| N/A | [Poll Average](average.html) | 22.7% | 19.6–24.7% | 19.0–25.3% | 18.6–25.9% | 17.6–27.1% |
+| [11–15 May 2026](2026-05-15-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 22.9% | 21.0–25.0% | 20.5–25.6% | 20.0–26.1% | 19.1–27.2% |
+| [6–13 May 2026](2026-05-13-Pulse.html) | Pulse <br> Omega TV | 23.3% | 21.7–25.1% | 21.2–25.7% | 20.8–26.1% | 20.0–27.0% |
 | [6–13 May 2026](2026-05-13-Explorer.html) | Explorer <br> Philenews | 23.1% | 21.7–24.7% | 21.2–25.2% | 20.9–25.6% | 20.2–26.4% |
+| [1–12 May 2026](2026-05-12-Noverna.html) | Noverna <br> Politis | 21.7% | 19.9–23.7% | 19.4–24.2% | 19.0–24.7% | 18.2–25.7% |
 | [1–11 May 2026](2026-05-11-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 24.4% | 22.6–26.4% | 22.1–26.9% | 21.6–27.4% | 20.8–28.4% |
 | [30 April–10 May 2026](2026-05-10-IMR.html) | IMR <br> Reporter | 23.4% | 22.4–24.4% | 22.1–24.7% | 21.9–24.9% | 21.4–25.4% |
 | [28 April–10 May 2026](2026-05-10-CYMAR.html) | CYMAR <br> ANT1 | 23.0% | 21.4–24.7% | 20.9–25.2% | 20.5–25.6% | 19.8–26.4% |
 | [2–9 May 2026](2026-05-09-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 22.8% | 21.2–24.5% | 20.8–25.0% | 20.4–25.5% | 19.6–26.3% |
 | [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 19.7% | 19.0–20.4% | 18.8–20.7% | 18.6–20.8% | 18.2–21.2% |
+| [20 April–7 May 2026](2026-05-07-Cypronetwork.html) | Cypronetwork <br> CyBC | 22.5% | 21.1–24.0% | 20.7–24.4% | 20.4–24.8% | 19.7–25.5% |
 | [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews | 19.3% | 17.9–20.8% | 17.5–21.2% | 17.2–21.6% | 16.6–22.3% |
 | [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 23.6% | 21.6–25.7% | 21.0–26.3% | 20.5–26.9% | 19.6–27.9% |
+| [9–24 April 2026](2026-04-24-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 19.7% | 18.8–20.5% | 18.6–20.8% | 18.4–21.0% | 18.0–21.4% |
 | [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 21.2% | 19.9–22.7% | 19.5–23.1% | 19.2–23.5% | 18.6–24.2% |
 | [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 22.6% | 20.9–24.5% | 20.4–25.0% | 20.0–25.5% | 19.2–26.4% |
 | [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 22.4% | 20.6–24.4% | 20.1–25.0% | 19.6–25.5% | 18.8–26.5% |
@@ -32,7 +37,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 22.8% | N/A | N/A | N/A | N/A |
 | [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 23.5% | N/A | N/A | N/A | N/A |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV | 23.1% | N/A | N/A | N/A | N/A |
-| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter | 22.1% | N/A | N/A | N/A | N/A |
+| [3–10 November 2025](2025-11-10-IMR.html) | IMR <br> Reporter | 22.1% | N/A | N/A | N/A | N/A |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC | 23.0% | N/A | N/A | N/A | N/A |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 22.7% | N/A | N/A | N/A | N/A |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork | 21.9% | N/A | N/A | N/A | N/A |
@@ -40,7 +45,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter | 22.2% | N/A | N/A | N/A | N/A |
 | [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots | 28.6% | N/A | N/A | N/A | N/A |
 | [10–21 March 2025](2025-03-21-Redwolf.html) | Redwolf | 25.4% | N/A | N/A | N/A | N/A |
-| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter | 24.1% | N/A | N/A | N/A | N/A |
+| [5–11 March 2025](2025-03-11-IMR.html) | IMR <br> Reporter | 24.1% | N/A | N/A | N/A | N/A |
 | [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV | 27.9% | N/A | N/A | N/A | N/A |
 | [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom | 23.5% | N/A | N/A | N/A | N/A |
 | [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots | 28.8% | N/A | N/A | N/A | N/A |
@@ -67,21 +72,20 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.6% | 99.9% |  |
-| 17.5–18.5% | 3% | 99.4% |  |
-| 18.5–19.5% | 9% | 97% |  |
-| 19.5–20.5% | 11% | 88% |  |
-| 20.5–21.5% | 7% | 76% |  |
-| 21.5–22.5% | 14% | 69% |  |
-| 22.5–23.5% | 22% | 55% | Median |
-| 23.5–24.5% | 19% | 33% |  |
-| 24.5–25.5% | 9% | 14% |  |
-| 25.5–26.5% | 4% | 5% |  |
-| 26.5–27.5% | 1.2% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.4% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.4% | 100% |  |
+| 17.5–18.5% | 2% | 99.5% |  |
+| 18.5–19.5% | 7% | 98% |  |
+| 19.5–20.5% | 10% | 90% |  |
+| 20.5–21.5% | 10% | 80% |  |
+| 21.5–22.5% | 18% | 70% |  |
+| 22.5–23.5% | 23% | 53% | Median |
+| 23.5–24.5% | 18% | 30% |  |
+| 24.5–25.5% | 8% | 12% |  |
+| 25.5–26.5% | 3% | 4% |  |
+| 26.5–27.5% | 0.8% | 1.1% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -93,14 +97,19 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–15 May 2026](2026-05-15-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–13 May 2026](2026-05-13-Pulse.html) | Pulse <br> Omega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–13 May 2026](2026-05-13-Explorer.html) | Explorer <br> Philenews | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–12 May 2026](2026-05-12-Noverna.html) | Noverna <br> Politis | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–11 May 2026](2026-05-11-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 April–10 May 2026](2026-05-10-IMR.html) | IMR <br> Reporter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 April–10 May 2026](2026-05-10-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–9 May 2026](2026-05-09-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–8 May 2026](2026-05-08-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 1 | 1 | 1 | 1 | 1 |
+| [20 April–7 May 2026](2026-05-07-Cypronetwork.html) | Cypronetwork <br> CyBC | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [4–6 May 2026](2026-05-06-RealPolls.html) | RealPolls <br> afentiko.eu and CyprusNews | 1 | 1 | 1 | 1 | 1 |
 | [1–3 May 2026](2026-05-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–24 April 2026](2026-04-24-AnalyticaMarketResearch.html) | Analytica Market Research <br> Cyprus Times | 1 | 1 | 1 | 1 | 1 |
 | [7–21 April 2026](2026-04-21-RAIConsultants.html) | RAI Consultants <br> Alpha Cyprus | 1 | 1 | 1 | 1 | 1–2 |
 | [14–17 April 2026](2026-04-17-PrimeConsulting.html) | Prime Consulting <br> Sigma TV | 1 | 1 | 1 | 1–2 | 1–2 |
 | [6–17 April 2026](2026-04-17-CYMAR.html) | CYMAR <br> ANT1 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -114,7 +123,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–16 January 2026](2026-01-16-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
 | [27 November–3 December 2025](2025-12-03-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή |  |  |  |  |  |
 | [4–13 November 2025](2025-11-13-Pulse.html) | Pulse <br> Omega TV |  |  |  |  |  |
-| [3–10 November 2025](2025-11-10-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
+| [3–10 November 2025](2025-11-10-IMR.html) | IMR <br> Reporter |  |  |  |  |  |
 | [29 September–17 October 2025](2025-10-17-Cypronetwork.html) | Cypronetwork <br> CyBC |  |  |  |  |  |
 | [12–22 September 2025](2025-09-22-Stratego-IMR.html) | Stratego-IMR <br> Η Καθημερινή |  |  |  |  |  |
 | [11 August 2025](2025-08-11-Cypronetwork.html) | Cypronetwork |  |  |  |  |  |
@@ -122,7 +131,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–28 June 2025](2025-06-28-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
 | [1–31 March 2025](2025-03-31-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
 | [10–21 March 2025](2025-03-21-Redwolf.html) | Redwolf |  |  |  |  |  |
-| [5–11 March 2025](2025-03-11-IMRUNic.html) | IMR/UNic <br> Reporter |  |  |  |  |  |
+| [5–11 March 2025](2025-03-11-IMR.html) | IMR <br> Reporter |  |  |  |  |  |
 | [21 October–1 November 2024](2024-11-01-RAIConsultants.html) | RAI Consultants <br> Alpha TV |  |  |  |  |  |
 | [14–16 October 2024](2024-10-16-RetailZoom.html) | RetailZoom |  |  |  |  |  |
 | [25 September–5 October 2024](2024-10-05-Symmetron.html) | Symmetron <br> 2Dots |  |  |  |  |  |
@@ -136,8 +145,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 71% | 100% | Median |
-| 2 | 29% | 29% |  |
+| 1 | 77% | 100% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 
