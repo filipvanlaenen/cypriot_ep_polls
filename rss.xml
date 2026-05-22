@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/cypriot_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 21 May 2026 19:13:48 +0200</pubDate>
+    <pubDate>Fri, 22 May 2026 15:39:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Stratego-IMR for Η Καθημερινή, 11–15 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2026-05-15-Stratego-IMR.html#seats</link>
@@ -430,6 +430,36 @@
       <dc:date>2026-05-18T16:44:51.400675+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pulse for Omega TV, 14–21 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2026-04-21-Pulse.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Άμεσης Δημοκρατίας (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (RE): 1 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2026-04-21-Pulse-seats.png"
+        length="369578"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2026 22:57:32 +0200</pubDate>
+      <dc:date>2026-05-21T22:57:32.234356+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse for Omega TV, 14–21 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2026-04-21-Pulse.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2026-04-21-Pulse-coalitions-seats.png"
+        length="239315"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2026 22:57:32 +0200</pubDate>
+      <dc:date>2026-05-21T22:57:32.234356+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse for Omega TV, 14–21 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2026-04-21-Pulse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 16.7–23.8%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 11.0–17.1%&lt;/li&gt;&lt;li&gt;Άμεσης Δημοκρατίας (NI): 6.5–11.6%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 1.9–5.1%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 5.5–10.2%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 1.9–5.1%&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 1.0–3.5%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 1.0–3.5%&lt;/li&gt;&lt;li&gt;Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (RE): 9.3–15.1%&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 2.9–6.6%&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 17.8–25.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2026-04-21-Pulse.png"
+        length="470942"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2026 22:57:32 +0200</pubDate>
+      <dc:date>2026-05-21T22:57:32.234356+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Prime Consulting for Sigma TV, 14–17 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2026-04-17-PrimeConsulting.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Άμεσης Δημοκρατίας (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (RE): 1 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -579,6 +609,36 @@
       <pubDate>Mon, 18 May 2026 19:43:45 +0200</pubDate>
       <dc:date>2026-05-18T19:43:45.560602+02:00</dc:date>
     </item>
-    <dc:date>2026-05-21T19:13:48.493924+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by IMR for Reporter, 1–8 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2026-03-08-IMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Άμεσης Δημοκρατίας (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0 seats&lt;/li&gt;&lt;li&gt;Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (RE): 1 seats&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2026-03-08-IMR-seats.png"
+        length="334794"
+        type="image/png"/>
+      <pubDate>Fri, 22 May 2026 15:39:38 +0200</pubDate>
+      <dc:date>2026-05-22T15:39:38.49451+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMR for Reporter, 1–8 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2026-03-08-IMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2026-03-08-IMR-coalitions-seats.png"
+        length="217830"
+        type="image/png"/>
+      <pubDate>Fri, 22 May 2026 15:39:38 +0200</pubDate>
+      <dc:date>2026-05-22T15:39:38.49451+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMR for Reporter, 1–8 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/cypriot_ep_polls/2026-03-08-IMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL): 19.2–24.7%&lt;/li&gt;&lt;li&gt;Εθνικό Λαϊκό Μέτωπο (ECR): 13.4–18.3%&lt;/li&gt;&lt;li&gt;Άμεσης Δημοκρατίας (NI): 4.7–8.0%&lt;/li&gt;&lt;li&gt;Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA): 2.2–4.5%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Κόμμα (S&amp;amp;D): 7.1–10.9%&lt;/li&gt;&lt;li&gt;Κίνημα Σοσιαλδημοκρατών (S&amp;amp;D): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών (*): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Δημοκρατική Παράταξη (RE): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη (RE): 10.3–14.7%&lt;/li&gt;&lt;li&gt;Βολτ Κύπρος (Greens/EFA): 2.8–5.5%&lt;/li&gt;&lt;li&gt;Δημοκρατικός Συναγερμός (EPP): 19.3–24.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/cypriot_ep_polls/2026-03-08-IMR.png"
+        length="438192"
+        type="image/png"/>
+      <pubDate>Fri, 22 May 2026 15:39:38 +0200</pubDate>
+      <dc:date>2026-05-22T15:39:38.49451+02:00</dc:date>
+    </item>
+    <dc:date>2026-05-22T15:39:38.49451+02:00</dc:date>
   </channel>
 </rss>
